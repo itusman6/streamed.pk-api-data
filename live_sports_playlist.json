@@ -78,27 +78,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports CA",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-athletics/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports CA",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-athletics/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - NBC Sports CA",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-athletics/3"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -612,6 +591,20 @@
                 "Language": "English - FanDuel SN North",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-dallas-stars-vs-minnesota-wild/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_wild-stars-live-streaming-1276589133/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_wild-stars-live-streaming-1276589133/2"
             },
             {
                 "Source": "echo",
