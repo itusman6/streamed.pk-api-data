@@ -22,6 +22,64 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Nascar Truck Series 2026 - SpeedyCash.com 250",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Nascar%20Truck%20Series%202026%20-%20SpeedyCash.com%20250&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:56 PM | 30-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_nascar-truck-series-2026-speedycash-com-250-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Collingwood Magpies",
+        "Team 2 Name": "Hawthorn Hawks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQEeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQIeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Match Title": "Collingwood Magpies vs Hawthorn Hawks",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Collingwood%20Magpies%20vs%20Hawthorn%20Hawks&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:30 PM | 30-Apr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/collingwood-magpies-vs-hawthorn-hawks-australian-football-3408/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/collingwood-magpies-vs-hawthorn-hawks-australian-football-3408/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/collingwood-magpies-vs-hawthorn-hawks-australian-football-3408/3"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -97,42 +155,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Collingwood Magpies",
-        "Team 2 Name": "Hawthorn Hawks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQEeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQIeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Match Title": "Collingwood Magpies vs Hawthorn Hawks",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Collingwood%20Magpies%20vs%20Hawthorn%20Hawks&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:30 PM | 30-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/collingwood-magpies-vs-hawthorn-hawks-australian-football-3408/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/collingwood-magpies-vs-hawthorn-hawks-australian-football-3408/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/collingwood-magpies-vs-hawthorn-hawks-australian-football-3408/3"
             }
         ]
     },
@@ -390,12 +412,12 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "Baltimore Orioles",
-        "Team 2 Name": "Houston Astros",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp",
-        "Match Title": "Baltimore Orioles vs Houston Astros",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzB1YASjAotIbiD4mQJIyEQ4L1gsCQU+w2fT0qDbMGXhEssgyZaMG8xUQggA.webp",
+        "Team 1 Name": "Philadelphia Phillies",
+        "Team 2 Name": "San Francisco Giants",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLDcQ67mBQMQakrl3qQKEABMzBxhSZ9tbMGXhF5o7U1pgHY0RCA.webp",
+        "Match Title": "Philadelphia Phillies vs San Francisco Giants",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKAolcYKSG4g+hkNoOIc2iwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "10:35 PM | 30-Apr",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -403,30 +425,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - MASN",
+                "Language": "English - NBC 10",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-baltimore-orioles/1"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-philadelphia-phillies/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - MASN",
+                "Language": "English - NBC 10",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-baltimore-orioles/2"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-philadelphia-phillies/2"
             },
             {
                 "Source": "admin",
                 "Stream_No": 3,
-                "Language": "English - MASN",
+                "Language": "English - NBC 10",
                 "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-baltimore-orioles/3"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-philadelphia-phillies/3"
             },
             {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22053/1"
+                "Embed_URL": "https://embedsports.top/embed/golf/22056/1"
             }
         ]
     },
@@ -671,6 +693,13 @@
                 "Language": "English - Conference League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-shakhtar-donetsk-vs-crystal-palace/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-europa-conference-league-knockout-stage_shakhtar-crystal-palace-live-streaming-1282357359/1"
             }
         ]
     },
@@ -707,6 +736,13 @@
                 "Language": "English - Europa League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-braga-vs-sc-freiburg/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-europa-league-knockout-stage_braga-freiburg-live-streaming-1282355361/1"
             }
         ]
     },
@@ -743,6 +779,13 @@
                 "Language": "English - Europa League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-aston-villa/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-europa-league-knockout-stage_forest-aston-villa-live-streaming-1282354362/1"
             }
         ]
     },
@@ -792,43 +835,43 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "Philadelphia Phillies",
-        "Team 2 Name": "San Francisco Giants",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLDcQ67mBQMQakrl3qQKEABMzBxhSZ9tbMGXhF5o7U1pgHY0RCA.webp",
-        "Match Title": "Philadelphia Phillies vs San Francisco Giants",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKAolcYKSG4g+hkNoOIc2iwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+        "Team 1 Name": "Baltimore Orioles",
+        "Team 2 Name": "Houston Astros",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp",
+        "Match Title": "Baltimore Orioles vs Houston Astros",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzB1YASjAotIbiD4mQJIyEQ4L1gsCQU+w2fT0qDbMGXhEssgyZaMG8xUQggA.webp",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "03:35 AM | 01-May",
+        "Start Time": "02:05 AM | 01-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - NBC 10",
+                "Language": "English - MASN",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-philadelphia-phillies/1"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-baltimore-orioles/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - NBC 10",
+                "Language": "English - MASN",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-philadelphia-phillies/2"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-baltimore-orioles/2"
             },
             {
                 "Source": "admin",
                 "Stream_No": 3,
-                "Language": "English - NBC 10",
+                "Language": "English - MASN",
                 "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-philadelphia-phillies/3"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-baltimore-orioles/3"
             },
             {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22056/1"
+                "Embed_URL": "https://embedsports.top/embed/golf/22053/1"
             }
         ]
     },
@@ -1080,6 +1123,13 @@
                 "Language": "English - FS1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-battlehawks-vs-louisville-kings/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_louisville-kings-st-louis-battlehawks-live-streaming-1256453289/1"
             }
         ]
     },
