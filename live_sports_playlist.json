@@ -101,42 +101,6 @@
         ]
     },
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "Gujarat Titans",
-        "Team 2 Name": "Royal Challengers Bengaluru",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Gujarat Titans vs. Royal Challengers Bengaluru",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEb7CAjVgAxCQoUQIKZ24hOnEiADGo1cAjqswCVmoh6iFQpDKJLYG3CcewAtjxXySXCpRcrTSloGcPDvRgHJqMmkA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 30-Apr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Indian Premier League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-gujarat-titans-vs-royal-challengers-bengaluru/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Indian Premier League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-gujarat-titans-vs-royal-challengers-bengaluru/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - Indian Premier League",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-gujarat-titans-vs-royal-challengers-bengaluru/3"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -694,6 +658,35 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Olympiacos BC",
+        "Team 2 Name": "AS Monaco Basket",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBREosGFF8Q3EABMQOwyRBm9OHDAIUmfFFy3l680Q6a1NoqXSA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwMLiIoQMENxAqQEENv2GQJvSGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "Olympiacos BC vs AS Monaco Basket",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiJ8QtMtxD7tUkNsTHtKEFYVMkFPsNn1NKlFzBl4RLLLdNaYB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 01-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/olympiacos-vs-monaco-basketball-498442/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/olympiacos-vs-monaco-basketball-498442/2"
+            }
+        ]
+    },
+    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -740,35 +733,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/premier-league-darts-aberdeen-darts-1/5"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Olympiacos BC",
-        "Team 2 Name": "AS Monaco Basket",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBREosGFF8Q3EABMQOwyRBm9OHDAIUmfFFy3l680Q6a1NoqXSA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwMLiIoQMENxAqQEENv2GQJvSGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Olympiacos BC vs AS Monaco Basket",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiJ8QtMtxD7tUkNsTHtKEFYVMkFPsNn1NKlFzBl4RLLLdNaYB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 01-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/olympiacos-vs-monaco-basketball-498442/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/olympiacos-vs-monaco-basketball-498442/2"
             }
         ]
     },
@@ -913,6 +877,13 @@
                 "Language": "English - Conference League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-rayo-vallecano-vs-strasbourg/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-europa-conference-league-knockout-stage_rayo-vallecano-strasbourg-live-streaming-1282356360/1"
             },
             {
                 "Source": "echo",
@@ -1119,6 +1090,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-europa-league-knockout-stage_forest-aston-villa-live-streaming-1282354362/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-europa-league-knockout-stage_forest-aston-villa-live-streaming-1282354362/2"
             },
             {
                 "Source": "echo",
