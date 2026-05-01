@@ -110,35 +110,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "FC Andorra",
-        "Team 2 Name": "Albacete",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIoFABh64Q3EABMQiFCAggzu4zFwEKTPmrZgy8IvNFqmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQAqryQ9VIACa6DEEIgOI1eghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "FC Andorra vs Albacete",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXryQgIIKWCkhuIPiBKntuQxYMgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:15 PM | 01-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-andorra-vs-albacete-football-1396986/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-andorra-vs-albacete-football-1396986/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Maritimo",
         "Team 2 Name": "Leixoes",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIIiAj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
@@ -345,6 +316,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Deportivo La Coruna",
+        "Team 2 Name": "Leganes",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsICMvrkGAY2bie8EVW4EurMGFz5zQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRAGN65Bmqzie8EVW4EurMGFz5zQA.webp",
+        "Match Title": "Deportivo La Coruna vs Leganes",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Deportivo%20La%20Coruna%20vs%20Leganes&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:30 PM | 01-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/deportivo-la-coruna-vs-leganes-football-1392175/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/deportivo-la-coruna-vs-leganes-football-1392175/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -420,35 +420,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Deportivo La Coruna",
-        "Team 2 Name": "Leganes",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsICMvrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRAGN65Bmqzie8EVW4EurMGFz5zQA.webp",
-        "Match Title": "Deportivo La Coruna vs Leganes",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Deportivo%20La%20Coruna%20vs%20Leganes&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:30 PM | 01-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/deportivo-la-coruna-vs-leganes-football-1392175/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/deportivo-la-coruna-vs-leganes-football-1392175/2"
             }
         ]
     },
