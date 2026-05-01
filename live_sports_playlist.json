@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Atlanta Hawks",
-        "Team 2 Name": "New York Knicks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4haWMCBAATEBBCrdiEiBg6QfPSBQhlhGMCZ8UXMGXhF5ol01pg3YqIQQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gUoWGFEATENxAk9RkEZggIIRMsIxgTPurZby9eaPVNaYLWNEQgA.webp",
-        "Match Title": "Atlanta Hawks vs New York Knicks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGG4g4opBpBa+IEiBS4QiRFNMGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 01-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22046/1"
-            }
-        ]
-    },
-    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "Minnesota Wild",
@@ -54,13 +32,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/minnesota-wild-vs-dallas-stars-hockey-424433/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22050/1"
             }
         ]
     },
@@ -77,27 +48,6 @@
         "Start Time": "05:40 AM | 01-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Twins.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-blue-jays-vs-minnesota-twins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Twins.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-blue-jays-vs-minnesota-twins/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - Twins.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-blue-jays-vs-minnesota-twins/3"
-            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -176,13 +126,6 @@
                 "Language": "English - FS1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-battlehawks-vs-louisville-kings/3"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_louisville-kings-st-louis-battlehawks-live-streaming-1256453289/1"
             }
         ]
     },
@@ -199,27 +142,6 @@
         "Start Time": "06:00 AM | 01-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBCSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBCSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - NBCSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/3"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -465,6 +387,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Budo Sento Championship",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Budo%20Sento%20Championship&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 01-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-04-budo-sento-championship-ppv-004/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-04-budo-sento-championship-ppv-004/2"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Alianza Atletico",
@@ -561,35 +512,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/independiente-medellin-vs-cusco-football-1535273/5"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Budo Sento Championship",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Budo%20Sento%20Championship&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 01-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-04-budo-sento-championship-ppv-004/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-04-budo-sento-championship-ppv-004/2"
             }
         ]
     },
