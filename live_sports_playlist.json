@@ -25,35 +25,20 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-ufc-fight-night-della-maddalena-vs-prates/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Naoya Inoue",
-        "Team 2 Name": "Junto Nakatani",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Naoya Inoue vs Junto Nakatani",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBrAADJBDwwJELxBZT5szBARrx6yyQUsIuYxSGOKHofKNqcr3xWYE0xRjCgA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:40 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-naoya-inoue-vs-junto-nakatani/1"
             },
             {
-                "Source": "admin",
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_ufc-fight-night-della-maddalena-vs-prates-live-stream/1"
+            },
+            {
+                "Source": "delta",
                 "Stream_No": 2,
-                "Language": "English - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-naoya-inoue-vs-junto-nakatani/2"
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_ufc-fight-night-della-maddalena-vs-prates-live-stream/2"
             }
         ]
     },
@@ -510,42 +495,6 @@
                 "Language": "English - Bundesliga",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-1-fc-union-berlin-vs-fc-cologne/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Bundesliga Saturday Multiview ⚽ 🔥 ⭐",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Bundesliga%20Saturday%20Multiview%20%E2%9A%BD%20%F0%9F%94%A5%20%E2%AD%90&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/bundesliga-saturday-multiview-game-1516161/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/bundesliga-saturday-multiview-game-1516161/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/bundesliga-saturday-multiview-game-1516161/3"
             }
         ]
     },
@@ -2058,6 +2007,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AMSOIL Championship Off-Road",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMSOIL%20Championship%20Off-Road&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 PM | 02-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-09-amsoil-championship-off-road-ppv-09/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-09-amsoil-championship-off-road-ppv-09/2"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Stuttgart II",
@@ -2112,35 +2090,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/panserraikos-vs-larisa-football-1537095/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AMSOIL Championship Off-Road",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMSOIL%20Championship%20Off-Road&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:30 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-09-amsoil-championship-off-road-ppv-09/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-09-amsoil-championship-off-road-ppv-09/2"
             }
         ]
     },
@@ -2325,64 +2274,6 @@
         ]
     },
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Willow Cricket",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Willow 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Willow Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rally TV",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -2391,7 +2282,7 @@
         "Team 2 Logo": "",
         "Match Title": "Sprint | Miami International Autodrome |",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Sprint%20%7C%20Miami%20International%20Autodrome%20%7C&font=Oswald",
-        "Match Status": "Upcoming ⏳",
+        "Match Status": "Live 🔴",
         "Start Time": "10:00 PM | 02-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
@@ -2434,7 +2325,7 @@
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
         "Match Title": "Como vs Napoli",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgZUWupAQQ3EHxAlTIFCERmY5vgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "Match Status": "Upcoming ⏳",
+        "Match Status": "Live 🔴",
         "Start Time": "10:00 PM | 02-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
@@ -2490,6 +2381,56 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "Miami Grand Prix",
+        "Team 2 Name": "Qualifying",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Miami Grand Prix Sprint",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCQgQsgAxgSIbiD4mQEEClwgYNo9oLAkFPsNn0UBtii4Hy9LFkfJlowL3pRCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 02-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Formula 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-qualifying/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Formula 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-qualifying/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - F1TV Broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-qualifying/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - F1TV Broadcast",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-qualifying/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/21890/1"
+            }
+        ]
+    },
+    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "DC Defenders",
@@ -2498,7 +2439,7 @@
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphAhukXCDIo1IPnpAwQAEwPdNOmAQpM+KLmDLwi80faa0wjsaIhA.webp",
         "Match Title": "DC Defenders vs Dallas Renegades",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHr8SICCBQhqIXiCynzJmCCtW9MFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
-        "Match Status": "Upcoming ⏳",
+        "Match Status": "Live 🔴",
         "Start Time": "10:00 PM | 02-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
@@ -2522,6 +2463,64 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_dc-defenders-dallas-renegades-live-streaming-1266162570/1"
+            }
+        ]
+    },
+    {
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Willow Cricket",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Willow 2",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Willow Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Rally TV",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
             }
         ]
     },
@@ -2802,13 +2801,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/groningen-vs-excelsior-football-1381149/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/groningen-vs-excelsior-football-1381149/3"
             }
         ]
     },
@@ -3694,56 +3686,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/orlando-pride-w-vs-washington-spirit-w-football-1508406/3"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "Miami Grand Prix",
-        "Team 2 Name": "Qualifying",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Miami Grand Prix Sprint",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCQgQsgAxgSIbiD4mQEEClwgYNo9oLAkFPsNn0UBtii4Hy9LFkfJlowL3pRCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Formula 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-sprint/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Formula 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-sprint/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - F1TV Broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-sprint/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - F1TV Broadcast",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-sprint/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/21890/1"
             }
         ]
     },
