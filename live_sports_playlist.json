@@ -1,92 +1,5 @@
 [
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Auckland FC",
-        "Team 2 Name": "Melbourne City",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIRCuBhyEENxB91IGMb0GQJU4wpM+KLmDLwi80faa1toqXSA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnkAGQTNIhuIACYgYIRIkM6QICAYIUmfFFzBl4ReaPtNaYR2NEQgA.webp",
-        "Match Title": "Auckland FC vs Melbourne City",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBIh6ABjkhuBkH00gzMEBoiXTKAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 AM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/auckland-vs-melbourne-city-football-1542879/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/auckland-vs-melbourne-city-football-1542879/2"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "West Coast Eagles",
-        "Team 2 Name": "Richmond Football Club",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAxmsXMAAmIbiB0QQfECeMwjIQ1oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAADGF5gwAEwYhuIHSAgg+IC+ZhmQKXAQpM+KLmDLwi80S6a1toqTogA.webp",
-        "Match Title": "West Coast Eagles vs Richmond Football Club",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYORIgUwJHRDcQUkBBB8QF8zBBbTEpkgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:15 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox Sports 503",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-richmond-vs-west-coast-eagles/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox Sports 503",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-richmond-vs-west-coast-eagles/2"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "West Coast Eagles",
-        "Team 2 Name": "Richmond Tigers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRENnrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREEzrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Match Title": "West Coast Eagles vs Richmond Tigers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=West%20Coast%20Eagles%20vs%20Richmond%20Tigers&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:15 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/west-coast-eagles-vs-richmond-tigers-australian-football-3412/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/west-coast-eagles-vs-richmond-tigers-australian-football-3412/2"
-            }
-        ]
-    },
-    {
         "Category": "Afl",
         "League": "Afl",
         "Team 1 Name": "Geelong Cats",
@@ -1872,6 +1785,13 @@
                 "Language": "English - ABC",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-dallas-renegades-vs-dc-defenders/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_dc-defenders-dallas-renegades-live-streaming-1266162570/1"
             }
         ]
     },
