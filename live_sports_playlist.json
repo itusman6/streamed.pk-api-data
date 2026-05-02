@@ -1472,6 +1472,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "GCW Express Lane",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=GCW%20Express%20Lane&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 02-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-07-gcw-express-lane-ppv-07/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-07-gcw-express-lane-ppv-07/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1547,35 +1576,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "GCW Express Lane",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=GCW%20Express%20Lane&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 AM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-07-gcw-express-lane-ppv-07/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-07-gcw-express-lane-ppv-07/2"
             }
         ]
     },
@@ -1664,6 +1664,20 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-los-angeles-angels/3"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_angels-mets-live-streaming-1265881851/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_angels-mets-live-streaming-1265881851/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1707,6 +1721,20 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-cleveland-guardians-vs-athletics/3"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_athletics-guardians-live-streaming-1265882850/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_athletics-guardians-live-streaming-1265882850/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1748,6 +1776,20 @@
                 "Language": "English - Padres.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-san-diego-padres/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_padres-white-sox-live-streaming-1265883849/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_padres-white-sox-live-streaming-1265883849/2"
             },
             {
                 "Source": "golf",
