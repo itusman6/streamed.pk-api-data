@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Geelong Cats",
-        "Team 2 Name": "North Melbourne Kangaroos",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQAY3rkGcrMJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREDHrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Match Title": "Geelong Cats vs North Melbourne Kangaroos",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Geelong%20Cats%20vs%20North%20Melbourne%20Kangaroos&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:35 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/geelong-cats-vs-north-melbourne-kangaroos-australian-football-3413/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/geelong-cats-vs-north-melbourne-kangaroos-australian-football-3413/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Parramatta Eels",
@@ -54,34 +25,6 @@
                 "Language": "English - FOX League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-eels-vs-warriors/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/parramatta-eels-vs-new-zealand-warriors-game-3373252/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/parramatta-eels-vs-new-zealand-warriors-game-3373252/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/parramatta-eels-vs-new-zealand-warriors-game-3373252/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/parramatta-eels-vs-new-zealand-warriors-game-3373252/4"
             }
         ]
     },
@@ -132,42 +75,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22123/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Naoya Inoue",
-        "Team 2 Name": "Junto Nakatani",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Naoya Inoue vs Junto Nakatani",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBrAADJBDwwJELxBZT5szBARrx6yyQUsIuYxSGOKHofKNqcr3xWYE0xRjCgA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:00 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/naoya-inoue-vs-junto-nakatani-game-177777/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/naoya-inoue-vs-junto-nakatani-game-177777/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22127/1"
             }
         ]
     },
@@ -345,6 +252,49 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Naoya Inoue",
+        "Team 2 Name": "Junto Nakatani",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Naoya Inoue vs Junto Nakatani",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBrAADJBDwwJELxBZT5szBARrx6yyQUsIuYxSGOKHofKNqcr3xWYE0xRjCgA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:40 PM | 02-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-naoya-inoue-vs-junto-nakatani/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-naoya-inoue-vs-junto-nakatani/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_naoya-inoue-vs-junto-nakatani-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22127/1"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Melbourne Victory",
@@ -370,6 +320,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/melbourne-victory-vs-sydney-football-1542880/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Oliveirense",
+        "Team 2 Name": "Lusitânia Lourosa",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAD5UeWxQhuIACYhD2gxFwht2iAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizUAJmD5gkbENxB9cICCFNq9IcyRAwCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "Oliveirense vs Lusitânia Lourosa",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECi4hiokiG4g+hkDA1mUZ0xKZIKfYbPoowKzWxfl6WWZqa0wLmKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 PM | 02-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/oliveirense-vs-lusitania-lourosa-football-1398252/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/oliveirense-vs-lusitania-lourosa-football-1398252/2"
             }
         ]
     },
@@ -428,35 +407,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Oliveirense",
-        "Team 2 Name": "Lusitânia Lourosa",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAD5UeWxQhuIACYhD2gxFwht2iAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizUAJmD5gkbENxB9cICCFNq9IcyRAwCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Oliveirense vs Lusitânia Lourosa",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECi4hiokiG4g+hkDA1mUZ0xKZIKfYbPoowKzWxfl6WWZqa0wLmKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/oliveirense-vs-lusitania-lourosa-football-1398252/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/oliveirense-vs-lusitania-lourosa-football-1398252/2"
             }
         ]
     },
@@ -1554,35 +1504,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "SSV Ulm 1846",
-        "Team 2 Name": "FC Viktoria Köln",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiGwgmdcgwDGzcT3giq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiCogY9cgwDGzcT3giq3Al1ZgwufFaA.webp",
-        "Match Title": "SSV Ulm 1846 vs FC Viktoria Köln",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=SSV%20Ulm%201846%20vs%20FC%20Viktoria%20K%C3%B6ln&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ssv-ulm-1846-vs-fc-viktoria-koln-football-1394410/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ssv-ulm-1846-vs-fc-viktoria-koln-football-1394410/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Stuttgart II",
         "Team 2 Name": "Rot-Weiß Essen",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiFX8QAY3rkGWrOJ7wRVbgS6swYXPmtA.webp",
@@ -1606,6 +1527,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/stuttgart-ii-vs-rot-weiss-essen-football-1394409/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "SSV Ulm 1846",
+        "Team 2 Name": "FC Viktoria Köln",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiGwgmdcgwDGzcT3giq3Al1ZgwufFaA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiCogY9cgwDGzcT3giq3Al1ZgwufFaA.webp",
+        "Match Title": "SSV Ulm 1846 vs FC Viktoria Köln",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=SSV%20Ulm%201846%20vs%20FC%20Viktoria%20K%C3%B6ln&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:30 PM | 02-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ssv-ulm-1846-vs-fc-viktoria-koln-football-1394410/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ssv-ulm-1846-vs-fc-viktoria-koln-football-1394410/2"
             }
         ]
     },
