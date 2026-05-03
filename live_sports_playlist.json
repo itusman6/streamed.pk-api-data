@@ -279,20 +279,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-seattle-mariners/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_mariners-royals-live-streaming-1266178554/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_mariners-royals-live-streaming-1266178554/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -341,35 +327,6 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-la-galaxy-vs-vancouver-whitecaps/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Los Angeles Galaxy",
-        "Team 2 Name": "Vancouver Whitecaps",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBghs9cgwDGzcT3giq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBgh49cgwDGzcT3giq3Al1ZgwufFaA.webp",
-        "Match Title": "Los Angeles Galaxy vs Vancouver Whitecaps",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Los%20Angeles%20Galaxy%20vs%20Vancouver%20Whitecaps&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:30 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-vancouver-whitecaps-football-1490263/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-vancouver-whitecaps-football-1490263/2"
             }
         ]
     },
