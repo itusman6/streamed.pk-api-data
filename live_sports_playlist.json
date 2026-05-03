@@ -251,20 +251,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-philadelphia-76-ers-vs-boston-celtics/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nba_celtics-76ers-live-streaming-1276706016/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nba_celtics-76ers-live-streaming-1276706016/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -701,35 +687,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22126/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Iverson Classic",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Iverson%20Classic&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-07-iverson-classic-ppv-07/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-07-iverson-classic-ppv-07/2"
             }
         ]
     },
@@ -1379,6 +1336,64 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Los Angeles Galaxy",
+        "Team 2 Name": "Vancouver Whitecaps",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBghs9cgwDGzcT3giq3Al1ZgwufFaA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBgh49cgwDGzcT3giq3Al1ZgwufFaA.webp",
+        "Match Title": "Los Angeles Galaxy vs Vancouver Whitecaps",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Los%20Angeles%20Galaxy%20vs%20Vancouver%20Whitecaps&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 03-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-vancouver-whitecaps-football-1490263/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-vancouver-whitecaps-football-1490263/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "LA Galaxy",
+        "Team 2 Name": "Vancouver Whitecaps",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNhg+YcHBQhuICCD4hEJIyAAmIEzgmEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "LA Galaxy vs Vancouver Whitecaps",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGBTAADGBDApmkNxB9Tx8yRCIbIFAWAaY-YbPoowKrW0-l6WWS0mWjBPMVEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:30 AM | 03-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MLS",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-la-galaxy-vs-vancouver-whitecaps/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MLS",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-la-galaxy-vs-vancouver-whitecaps/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1433,64 +1448,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Los Angeles Galaxy",
-        "Team 2 Name": "Vancouver Whitecaps",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBghs9cgwDGzcT3giq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBgh49cgwDGzcT3giq3Al1ZgwufFaA.webp",
-        "Match Title": "Los Angeles Galaxy vs Vancouver Whitecaps",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Los%20Angeles%20Galaxy%20vs%20Vancouver%20Whitecaps&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-vancouver-whitecaps-football-1490263/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/los-angeles-galaxy-vs-vancouver-whitecaps-football-1490263/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "LA Galaxy",
-        "Team 2 Name": "Vancouver Whitecaps",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNhg+YcHBQhuICCD4hEJIyAAmIEzgmEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "LA Galaxy vs Vancouver Whitecaps",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGBTAADGBDApmkNxB9Tx8yRCIbIFAWAaY-YbPoowKrW0-l6WWS0mWjBPMVEIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:30 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MLS",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-la-galaxy-vs-vancouver-whitecaps/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MLS",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-la-galaxy-vs-vancouver-whitecaps/2"
             }
         ]
     }
