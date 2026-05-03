@@ -94,56 +94,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "PFL Storely",
-        "Team 2 Name": "Zendeli",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "PFL Storely v Zendeli",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PFL%20Storely%20v%20Zendeli&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-06-pfl-storely-v-zendeli-ppv-06/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-06-pfl-storely-v-zendeli-ppv-06/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-06-pfl-storely-v-zendeli-ppv-06/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-06-pfl-storely-v-zendeli-ppv-06/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22126/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Colorado Rockies",
@@ -243,62 +193,11 @@
                 "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-02-benavidez-v-zurdo-ppv-02/4"
             },
             {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22124/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "San Diego FC",
-        "Team 2 Name": "LAFC",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "San Diego FC vs. LAFC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEE7MG4gG1YCRAQQMYFJAhE9Yd0b81MERXEhhWbaMTyI2MVmopgbcJx7ACgi2HJJcAYwtcOCNis4X79GAcsoyyQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MLS",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-diego-fc-vs-lafc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MLS",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-diego-fc-vs-lafc/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "ARCA East at Nashville",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=ARCA%20East%20at%20Nashville&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
                 "Source": "echo",
-                "Stream_No": 1,
+                "Stream_No": 5,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-25-arca-east-at-nashville-ppv-25/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-02-benavidez-v-zurdo-ppv-02/5"
             }
         ]
     },
@@ -328,20 +227,6 @@
                 "Language": "English - SNY",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-los-angeles-angels/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_angels-mets-live-streaming-1266177555/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_angels-mets-live-streaming-1266177555/2"
             },
             {
                 "Source": "echo",
