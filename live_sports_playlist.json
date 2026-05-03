@@ -149,27 +149,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-blue-jays-vs-minnesota-twins/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_twins-blue-jays-live-streaming-1266430302/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/minnesota-twins-vs-toronto-blue-jays-baseball-178516/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/minnesota-twins-vs-toronto-blue-jays-baseball-178516/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -497,34 +476,6 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-cincinnati-reds-vs-pittsburgh-pirates/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_pirates-reds-live-streaming-1266433299/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_pirates-reds-live-streaming-1266433299/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/pittsburgh-pirates-vs-cincinnati-reds-baseball-178514/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/pittsburgh-pirates-vs-cincinnati-reds-baseball-178514/2"
             },
             {
                 "Source": "golf",
@@ -1854,6 +1805,42 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Orlando Storm",
+        "Team 2 Name": "Birmingham Stallions",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgN2YFGG64Q2viH0wQAEwMgjEECisEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIgQAsMDAgUIbiAAmICCBK4QifUZMGCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "Orlando Storm vs Birmingham Stallions",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtQGtQIeiBC8QWIycMwQ58xAMskFLCLmMUYVSh6vyjTWPf5tYK7iYhBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 04-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - FOX",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-birmingham-stallions-vs-orlando-storm/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - FOX",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-birmingham-stallions-vs-orlando-storm/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_orlando-storm-birmingham-stallions-live-streaming-1266427305/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1908,42 +1895,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Orlando Storm",
-        "Team 2 Name": "Birmingham Stallions",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgN2YFGG64Q2viH0wQAEwMgjEECisEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIgQAsMDAgUIbiAAmICCBK4QifUZMGCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Orlando Storm vs Birmingham Stallions",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtQGtQIeiBC8QWIycMwQ58xAMskFLCLmMUYVSh6vyjTWPf5tYK7iYhBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 04-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-birmingham-stallions-vs-orlando-storm/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-birmingham-stallions-vs-orlando-storm/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_orlando-storm-birmingham-stallions-live-streaming-1266427305/1"
             }
         ]
     },
