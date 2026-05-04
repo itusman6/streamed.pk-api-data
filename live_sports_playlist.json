@@ -778,6 +778,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-cincinnati-reds-vs-chicago-cubs/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/chicago-cubs-vs-cincinnati-reds-baseball-178534/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -814,11 +821,40 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-cleveland-guardians-vs-kansas-city-royals/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/kansas-city-royals-vs-cleveland-guardians-baseball-178530/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22159/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "St.Louis Cardinals",
+        "Team 2 Name": "Milwaukee Brewers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIll1yDAMbNRPeJKpDCDVmDC58xoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRAx65BgGNmonvElUhhBqzBhc+E0A.webp",
+        "Match Title": "St.Louis Cardinals vs Milwaukee Brewers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=St.Louis%20Cardinals%20vs%20Milwaukee%20Brewers&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:45 AM | 05-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/stlouis-cardinals-vs-milwaukee-brewers-baseball-178526/1"
             }
         ]
     },
@@ -922,6 +958,20 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-philadelphia-76-ers-vs-new-york-knicks/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/new-york-knicks-vs-philadelphia-76ers-basketball-498814/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/new-york-knicks-vs-philadelphia-76ers-basketball-498814/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -956,6 +1006,13 @@
                 "Language": "English - Space City Home Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-houston-astros/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/houston-astros-vs-los-angeles-dodgers-baseball-178531/1"
             },
             {
                 "Source": "golf",
@@ -1124,6 +1181,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-atlanta-braves-vs-seattle-mariners/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/seattle-mariners-vs-atlanta-braves-baseball-178527/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1158,6 +1222,13 @@
                 "Language": "English - NBC Sports BA",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-diego-padres-vs-san-francisco-giants/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/san-francisco-giants-vs-san-diego-padres-baseball-178529/1"
             },
             {
                 "Source": "golf",
