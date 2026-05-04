@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "2026 NASCAR Cup Series at Texas",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20NASCAR%20Cup%20Series%20at%20Texas&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:30 AM | 04-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_2026-nascar-cup-series-at-texas-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -51,49 +29,6 @@
         ]
     },
     {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Tampa Bay Lightning",
-        "Team 2 Name": "Montreal Canadiens",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YFOTIQQ3EDpx6+IFLpDmcjCkz4ouYMqvrzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4WMCjAgQ3EBFy6QfECiMmSIeAQpM+KLmDKr680Q6a0wTsaIhA.webp",
-        "Match Title": "Tampa Bay Lightning vs Montreal Canadiens",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCDIoKSEChDcQfEFJAw9ZgyAgmjBYEgp9hs+tpUouYMvCJZZnky0YN5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:00 AM | 04-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/tampa-bay-lightning-vs-montreal-canadiens-hockey-425082/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/tampa-bay-lightning-vs-montreal-canadiens-hockey-425082/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/tampa-bay-lightning-vs-montreal-canadiens-hockey-425082/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22131/1"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Dallas Wings",
@@ -119,20 +54,6 @@
                 "Language": "English - ION",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-las-vegas-aces-vs-dallas-wings/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_wnba-preseason_wings-las-vegas-live-streaming-1290804903/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_wnba-preseason_wings-las-vegas-live-streaming-1290804903/2"
             }
         ]
     },
@@ -162,13 +83,6 @@
                 "Language": "English - Fox 12 Plus",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-sparks-vs-portland-fire/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_wnba-preseason_fire-sparks-live-streaming-1290805902/1"
             }
         ]
     },
@@ -304,42 +218,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22129/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Mirassol",
-        "Team 2 Name": "Corinthians",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjh8Q4UWhDdtINQBMQJEChAwzekIj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYNWTVxE3EBBB8QiEkZBmYe3AQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Mirassol vs Corinthians",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8retxC8kIKJs18QUkCiMhziGFtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 04-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/mirassol-vs-corinthians-football-1492246/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/mirassol-vs-corinthians-football-1492246/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/mirassol-vs-corinthians-football-1492246/3"
             }
         ]
     },
