@@ -621,6 +621,49 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Toronto FC",
+        "Team 2 Name": "Atlético Ottawa",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBiL65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIpD8QKeuQYBjZuJ7wRVbgS6swYXPmtA.webp",
+        "Match Title": "Toronto FC vs Atlético Ottawa",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Toronto%20FC%20vs%20Atl%C3%A9tico%20Ottawa&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 06-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/toronto-fc-vs-atletico-ottawa-football-1543072/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/toronto-fc-vs-atletico-ottawa-football-1543072/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/toronto-fc-vs-atletico-ottawa-football-1543072/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/toronto-fc-vs-atletico-ottawa-football-1543072/4"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -675,49 +718,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Toronto FC",
-        "Team 2 Name": "Atlético Ottawa",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBiL65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIpD8QKeuQYBjZuJ7wRVbgS6swYXPmtA.webp",
-        "Match Title": "Toronto FC vs Atlético Ottawa",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Toronto%20FC%20vs%20Atl%C3%A9tico%20Ottawa&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 06-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/toronto-fc-vs-atletico-ottawa-football-1543072/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/toronto-fc-vs-atletico-ottawa-football-1543072/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/toronto-fc-vs-atletico-ottawa-football-1543072/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/toronto-fc-vs-atletico-ottawa-football-1543072/4"
             }
         ]
     },
@@ -1161,6 +1161,20 @@
                 "Language": "English - Space City Home Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-houston-astros/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_astros-dodgers-live-streaming-1266647085/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_astros-dodgers-live-streaming-1266647085/2"
             },
             {
                 "Source": "echo",
