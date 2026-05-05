@@ -194,6 +194,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Dunfermline Athletic",
+        "Team 2 Name": "Arbroath",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJkAJtQ05uICCD4hEJQyBQg1JmAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyh8Q3ECE5qNakiBgg1EEIhMaAJgQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Dunfermline Athletic vs Arbroath",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Dunfermline%20Athletic%20vs%20Arbroath&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:45 AM | 06-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/dunfermline-vs-arbroath-football-1543679/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/dunfermline-vs-arbroath-football-1543679/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -248,35 +277,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Dunfermline Athletic",
-        "Team 2 Name": "Arbroath",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJkAJtQ05uICCD4hEJQyBQg1JmAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyh8Q3ECE5qNakiBgg1EEIhMaAJgQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Dunfermline Athletic vs Arbroath",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Dunfermline%20Athletic%20vs%20Arbroath&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:45 AM | 06-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/dunfermline-vs-arbroath-football-1543679/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/dunfermline-vs-arbroath-football-1543679/2"
             }
         ]
     },
