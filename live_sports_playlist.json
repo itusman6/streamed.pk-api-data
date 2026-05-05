@@ -55,20 +55,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-arsenal-vs-atl-tico-madrid/6"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-champions-league-knockout-stage_arsenal-atl-madrid-live-streaming-1301100597/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-champions-league-knockout-stage_arsenal-atl-madrid-live-streaming-1301100597/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -128,6 +114,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Rally TV",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -160,28 +168,6 @@
                 "Language": "Willow Sports",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rally TV",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
             }
         ]
     },
@@ -917,6 +903,28 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "UCV",
+        "Team 2 Name": "Independiente del Valle",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIZRBAx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikNhDx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Match Title": "UCV vs Independiente del Valle",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCV%20vs%20Independiente%20del%20Valle&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 06-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ucv-vs-independiente-del-valle-football-1535297/1"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -942,6 +950,35 @@
                 "Language": "English - CW",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-nxt/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Barcelona SC",
+        "Team 2 Name": "Boca Juniors",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0RkU2EDE0huIACYgSIRFr6HcIFPoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3mgBABmwMQ3EHz0gSBiDsMhzjCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Match Title": "Barcelona SC vs Boca Juniors",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEBsrFlIbiD76QEDbtM4S+gsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 06-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/barcelona-sc-vs-boca-juniors-football-1535283/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/barcelona-sc-vs-boca-juniors-football-1535283/2"
             }
         ]
     },
@@ -1042,6 +1079,57 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22180/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Recoleta",
+        "Team 2 Name": "Santos",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmINSGb8QMENxB8QiEutP61u+AQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQhwIYAAYQKfiG4gAJiD46QEcyctrDBCkz662YMvCLzRuprTAuxoiCA.webp",
+        "Match Title": "Recoleta vs Santos",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRSCkYLSBDcQfIxv0Hzh4zALAdMfsNmawKrWxfl6WWVqa0wLmKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:30 AM | 06-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/deportivo-recoleta-vs-santos-football-1535201/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Academia Puerto Cabello",
+        "Team 2 Name": "Cienciano",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gYIegBNslEKs0hEKNSf2G1BCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAwPEKoAMIEiG4g+IRBFwhTOAwBN9BCkz6q2YMvCLzRqprTAuxoiCA.webp",
+        "Match Title": "Academia Puerto Cabello vs Cienciano",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGA1ks-MFJDcQfIyAghzhyyH0gCwJBT7DZ9LWxRcwZeER2iPTLRgXmKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:30 AM | 06-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/puerto-cabello-vs-cienciano-football-1535200/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/puerto-cabello-vs-cienciano-football-1535200/2"
             }
         ]
     },
@@ -1149,6 +1237,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22181/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Tigres",
+        "Team 2 Name": "Nashville SC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCgQ6mMAAmYddxB8QMEPoi4QiQ8ZAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBCWMH0gg+IbiAAmIGLj3GQiE0cYUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Tigres vs Nashville SC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiDnAw0kFCQheILMdMkQiGCCu7F+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:30 AM | 06-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/tigres-uanl-vs-nashville-sc-football-1540847/1"
             }
         ]
     },
@@ -1321,6 +1431,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22185/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Deportivo Cuenca",
+        "Team 2 Name": "San Lorenzo",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzANcDbCC3cQfEIgAmuYzpS7dBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCI+YAQAZSICCG4g+hkCWN6DAExAwTBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "Deportivo Cuenca vs San Lorenzo",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeqBIhaKYFJDcQfIyAghzhyyC0gCwJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:00 AM | 06-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/deportivo-cuenca-vs-san-lorenzo-football-1535193/1"
             }
         ]
     }
