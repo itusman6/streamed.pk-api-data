@@ -80,42 +80,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Bayern Munich",
-        "Team 2 Name": "Paris SG",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQvVgIAModSD56AJiBQhjaiHsYUmfFFzBl4ReaPtNaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbtVXcQOiCD4hEJEDBD6QpywQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Match Title": "Bayern Munich vs Paris SG",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDhIaIKI2oheILMZDTTITSETnm+YNpgCRcxijCqUPD+X1yv9vRgHuJiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 07-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-champions-league-knockout-stage_bayern-psg-live-streaming-1301812884/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-champions-league-knockout-stage_bayern-psg-live-streaming-1301812884/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22166/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Colorado Rockies",
@@ -337,28 +301,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rally TV",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -395,60 +337,24 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Atletico Torque",
-        "Team 2 Name": "Palestino",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRPxDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRERAh65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "Atletico Torque vs Palestino",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Atletico%20Torque%20vs%20Palestino&font=Oswald",
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Rally TV",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 07-May",
+        "Start Time": "",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "",
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atletico-torque-vs-palestino-football-1535198/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atletico-torque-vs-palestino-football-1535198/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "A. Italiano",
-        "Team 2 Name": "Vasco DA Gama",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIREpT1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRPHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Match Title": "A. Italiano vs Vasco DA Gama",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=A.%20Italiano%20vs%20Vasco%20DA%20Gama&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 07-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/a-italiano-vs-vasco-da-gama-football-1535186/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/a-italiano-vs-vasco-da-gama-football-1535186/2"
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
             }
         ]
     },
@@ -485,6 +391,64 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/cusco-vs-estudiantes-lp-football-1535285/3"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "A. Italiano",
+        "Team 2 Name": "Vasco DA Gama",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIREpT1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRPHrkGAY2bie8EVW4EurMGFz5zQA.webp",
+        "Match Title": "A. Italiano vs Vasco DA Gama",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=A.%20Italiano%20vs%20Vasco%20DA%20Gama&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 07-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/a-italiano-vs-vasco-da-gama-football-1535186/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/a-italiano-vs-vasco-da-gama-football-1535186/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Atletico Torque",
+        "Team 2 Name": "Palestino",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRPxDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRERAh65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Match Title": "Atletico Torque vs Palestino",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Atletico%20Torque%20vs%20Palestino&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 07-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/atletico-torque-vs-palestino-football-1535198/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/atletico-torque-vs-palestino-football-1535198/2"
             }
         ]
     },
