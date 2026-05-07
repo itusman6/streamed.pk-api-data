@@ -499,10 +499,10 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Hapoel Tel Aviv",
-        "Team 2 Name": "Real Madrid",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IACYg1TOuQYBjZpJ7wxVbgS6swYXPitA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IKiESIQ9cgwDGzST3hiq3Al1ZgwufFaA.webp",
+        "Team 1 Name": "Hapoel Tel Aviv BC",
+        "Team 2 Name": "Real Madrid Baloncesto",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTUsCLmBDcQfEABNdIRIcOIYIZYRjAmfFJrLwi80Q6a0wYUVLpA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gpYACa5mIbiBK5De1QZQgYuAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
         "Match Title": "Hapoel Tel Aviv BC vs Real Madrid Baloncesto",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hapoel%20Tel%20Aviv%20BC%20vs%20Real%20Madrid%20Baloncesto&font=Oswald",
         "Match Status": "Upcoming ⏳",
@@ -651,6 +651,27 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-strasbourg-vs-rayo-vallecano/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/strasbourg-vs-rayo-vallecano-football-1540882/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/strasbourg-vs-rayo-vallecano-football-1540882/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/strasbourg-vs-rayo-vallecano-football-1540882/3"
             }
         ]
     },
@@ -709,6 +730,41 @@
                 "Language": "English - TNT Sports 3",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-braga/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/sc-freiburg-vs-sc-braga-football-1540874/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/sc-freiburg-vs-sc-braga-football-1540874/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/sc-freiburg-vs-sc-braga-football-1540874/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/sc-freiburg-vs-sc-braga-football-1540874/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/sc-freiburg-vs-sc-braga-football-1540874/5"
             }
         ]
     },
@@ -738,6 +794,34 @@
                 "Language": "English - TNT Sports 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-aston-villa-vs-nottingham-forest/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/aston-villa-vs-nottingham-forest-football-1540873/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/aston-villa-vs-nottingham-forest-football-1540873/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/aston-villa-vs-nottingham-forest-football-1540873/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/aston-villa-vs-nottingham-forest-football-1540873/4"
             }
         ]
     },
