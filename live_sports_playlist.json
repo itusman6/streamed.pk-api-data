@@ -1,5 +1,34 @@
 [
     {
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "Lucknow Super Giants",
+        "Team 2 Name": "Royal Challengers Bengaluru",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lucknow Super Giants vs. Royal Challengers Bengaluru",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEEkAGNsIegxAhGIbsG79RwARKWiQEeQJjyZO6RVkiss+YJTA24Tj2AFsec+SS5TXc00oQDnM7fpgOwJ6cEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 07-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Indian Premier League",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-lucknow-super-giants-vs-royal-challengers-bengaluru/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Indian Premier League",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-lucknow-super-giants-vs-royal-challengers-bengaluru/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -262,6 +291,20 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-the-golazo-show/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/the-golazo-show-game-6378383/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/the-golazo-show-game-6378383/2"
             }
         ]
     },
@@ -305,6 +348,27 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/premier-league-darts-leeds-darts-1/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/premier-league-darts-leeds-darts-1/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/premier-league-darts-leeds-darts-1/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/premier-league-darts-leeds-darts-1/5"
             }
         ]
     },
@@ -627,6 +691,13 @@
                 "Language": "English - TNT Sports 2",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-crystal-palace-vs-shakhtar-donetsk/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-europa-conference-league-knockout-stage_crystal-palace-shakhtar-live-streaming-1301815881/1"
             },
             {
                 "Source": "echo",
