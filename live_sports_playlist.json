@@ -174,20 +174,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MLB.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-texas-rangers-vs-new-york-yankees/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MLB.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-texas-rangers-vs-new-york-yankees/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -232,34 +218,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Royals.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-cleveland-guardians-vs-kansas-city-royals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Royals.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-cleveland-guardians-vs-kansas-city-royals/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_royals-guardians-live-streaming-1266766965/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_royals-guardians-live-streaming-1266766965/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -296,34 +254,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-cincinnati-reds-vs-chicago-cubs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-cincinnati-reds-vs-chicago-cubs/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_cubs-reds-live-streaming-1266765966/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_cubs-reds-live-streaming-1266765966/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -347,49 +277,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AEW: Wednesday Night Dynamite",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTbkCCBggSwUSWogsQocEEopwfgv7ThE4cP4aQiBjP6DxYlMDbhOPYAWx4z5JLgDGprhwRtujOzfpgOct4QQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 07-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TBS",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-aew-wednesday-night-dynamite/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TBS",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-aew-wednesday-night-dynamite/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/aew-wednesday-night-dynamite-aew-1/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/aew-wednesday-night-dynamite-aew-1/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Colorado Rockies",
@@ -402,20 +289,6 @@
         "Start Time": "07:20 AM | 07-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rockies.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-colorado-rockies/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rockies.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-colorado-rockies/2"
-            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
@@ -466,20 +339,6 @@
         "Start Time": "07:30 AM | 07-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-minnesota-timberwolves-vs-san-antonio-spurs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-minnesota-timberwolves-vs-san-antonio-spurs/2"
-            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
@@ -537,20 +396,6 @@
         "Start Time": "07:30 AM | 07-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TNT",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-anaheim-ducks-vs-vegas-golden-knights/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TNT",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-anaheim-ducks-vs-vegas-golden-knights/2"
-            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
@@ -658,20 +503,6 @@
         "Start Time": "07:40 AM | 07-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DBACKS.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-pittsburgh-pirates-vs-arizona-diamondbacks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DBACKS.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-pittsburgh-pirates-vs-arizona-diamondbacks/2"
-            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
