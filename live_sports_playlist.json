@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "Lucknow Super Giants",
-        "Team 2 Name": "Royal Challengers Bengaluru",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Lucknow Super Giants vs. Royal Challengers Bengaluru",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEEkAGNsIegxAhGIbsG79RwARKWiQEeQJjyZO6RVkiss+YJTA24Tj2AFsec+SS5TXc00oQDnM7fpgOwJ6cEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 07-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Indian Premier League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-lucknow-super-giants-vs-royal-challengers-bengaluru/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Indian Premier League",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-lucknow-super-giants-vs-royal-challengers-bengaluru/2"
-            }
-        ]
-    },
-    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -85,27 +56,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-texas-rangers-vs-new-york-yankees/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-texas-rangers-vs-new-york-yankees/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/new-york-yankees-vs-texas-rangers-baseball-178566/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -140,20 +90,6 @@
                 "Language": "English - Nationals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-minnesota-twins-vs-washington-nationals/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_nationals-twins-live-streaming-1266862869/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_nationals-twins-live-streaming-1266862869/2"
             },
             {
                 "Source": "echo",
@@ -204,57 +140,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/liv-golf-virginia-championship-course-game-162626/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Hapoel Tel Aviv BC",
-        "Team 2 Name": "Real Madrid Baloncesto",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTUsCLmBDcQfEABNdIRIcOIYIZYRjAmfFJrLwi80Q6a0wYUVLpA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gpYACa5mIbiBK5De1QZQgYuAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Hapoel Tel Aviv BC vs Real Madrid Baloncesto",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hapoel%20Tel%20Aviv%20BC%20vs%20Real%20Madrid%20Baloncesto&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 08-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/hapoel-tel-aviv-vs-real-madrid-basketball-499127/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/hapoel-tel-aviv-vs-real-madrid-basketball-499127/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Al-Shabab",
-        "Team 2 Name": "Al-Nassr",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQMwo4AlwhuIPiBIGdIFNsM4YBCkz4ou68vXmi7TWmHVjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqoKMABMwvFCG4g+ICKpAlcxsyE1mCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Al-Shabab vs Al-Nassr",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNDcQfECDohtukntwgUZizHMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 08-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_saudi-pro-league_al-shabab-al-nassr-live-streaming-1096333569/1"
             }
         ]
     },
