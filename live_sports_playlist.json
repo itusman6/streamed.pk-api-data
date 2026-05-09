@@ -279,20 +279,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sportsnet",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-angels-vs-toronto-blue-jays/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sportsnet",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-angels-vs-toronto-blue-jays/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -550,20 +536,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-cincinnati-reds/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_reds-astros-live-streaming-1267114617/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_reds-astros-live-streaming-1267114617/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -655,13 +627,35 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-cf-montr-al-vs-orlando-city-sc/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Prelims UFC 328 🔥 ⭐ 💥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Prelims%20UFC%20328%20%F0%9F%94%A5%20%E2%AD%90%20%F0%9F%92%A5&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 10-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-01-prelims-ufc-328-ppv-01/1"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_montreal-orlando-live-streaming-1241412345/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-01-prelims-ufc-328-ppv-01/2"
             }
         ]
     },
@@ -720,35 +714,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/fluminense-vs-vitoria-football-1492254/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Prelims UFC 328 🔥 ⭐ 💥",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Prelims%20UFC%20328%20%F0%9F%94%A5%20%E2%AD%90%20%F0%9F%92%A5&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 10-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-01-prelims-ufc-328-ppv-01/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-01-prelims-ufc-328-ppv-01/2"
             }
         ]
     },
@@ -1039,6 +1004,42 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Pacific FC",
+        "Team 2 Name": "Cavalry FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfosX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfiCIgU9cgwDGzcT3giq3Al1ZgwufFaA.webp",
+        "Match Title": "Pacific FC vs Cavalry FC",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Pacific%20FC%20vs%20Cavalry%20FC&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 10-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/pacific-fc-vs-cavalry-fc-football-1543074/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/pacific-fc-vs-cavalry-fc-football-1543074/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/pacific-fc-vs-cavalry-fc-football-1543074/3"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1115,42 +1116,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Pacific FC",
-        "Team 2 Name": "Cavalry FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfosX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfiCIgU9cgwDGzcT3giq3Al1ZgwufFaA.webp",
-        "Match Title": "Pacific FC vs Cavalry FC",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Pacific%20FC%20vs%20Cavalry%20FC&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:00 AM | 10-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/pacific-fc-vs-cavalry-fc-football-1543074/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/pacific-fc-vs-cavalry-fc-football-1543074/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/pacific-fc-vs-cavalry-fc-football-1543074/3"
             }
         ]
     },
