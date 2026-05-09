@@ -117,35 +117,6 @@
     {
         "Category": "Rugby",
         "League": "Rugby",
-        "Team 1 Name": "ACT Brumbies",
-        "Team 2 Name": "Western Force",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwcKBKFghuIEnoO6IIYzBMgUBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjhLgYUCBIhuWkHxCIYIExB0gUOghSZ8UXMGXhF5o+01phHY0RCA.webp",
-        "Match Title": "ACT Brumbies vs Western Force",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VATPhgUbMFJDcQfEPpAgIRkIgsoQJAsCQU+w2fRRgVO3WS30ssjpMtGCeYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:35 PM | 09-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/brumbies-vs-western-force-rugby-51846/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/brumbies-vs-western-force-rugby-51846/2"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
         "Team 1 Name": "Manly Sea Eagles",
         "Team 2 Name": "Brisbane Broncos",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9WABhCIAJiF3c9ICIcTG+Ic8ZgEKTPii5gy8IvNEOmtME7GiIQA.webp",
@@ -516,13 +487,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/bundesliga-2-multiview-bundes3-1/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/bundesliga-2-multiview-bundes3-1/3"
             }
         ]
     },
@@ -556,64 +520,6 @@
         ]
     },
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Willow Cricket",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Willow 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Willow Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Rally TV",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "South Shields",
@@ -622,7 +528,7 @@
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4haYMKphqQ3EABMQqkiBQGQJsxDUEKTPii5gy8IvNGOm652NEQgA.webp",
         "Match Title": "South Shields vs Kidderminster Harriers",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTBkbiCExqQkDGDcKFEAGMhjOQJAQZ-RCXEgswTSi0hpgzv029gbcJx7AC2PBfJJcslFwtNKqqZzd36YBzAqpwQQA.webp",
-        "Match Status": "Upcoming ⏳",
+        "Match Status": "Live 🔴",
         "Start Time": "05:30 PM | 09-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
@@ -651,7 +557,7 @@
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphwATEDGDqIuENxB8Q6-YZR7dMEPAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
         "Match Title": "Hornchurch vs Torquay United",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdECEDEYgQwAREYUQAY2pjg3CtjkTOiEQxDcQJYCRBZlWfoK1iZ1FMDbhOPYAWx5r5JLmlWuHBG0WcrjvRgHPKcEEA.webp",
-        "Match Status": "Upcoming ⏳",
+        "Match Status": "Live 🔴",
         "Start Time": "05:30 PM | 09-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
@@ -680,7 +586,7 @@
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwF8w3IhBAwQ3EABNcukCRAoQiHHxAQCFJnxRcwZeEXminTWmBdjREEA.webp",
         "Match Title": "Middlesbrough vs Southampton",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoPZjavMNJC8QWIyZQh9+w4eb5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp",
-        "Match Status": "Upcoming ⏳",
+        "Match Status": "Live 🔴",
         "Start Time": "05:30 PM | 09-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
@@ -751,7 +657,7 @@
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgAJmD7roJENxAQDIY8f2Ic+5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
         "Match Title": "Liverpool vs Chelsea",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWBAowSMFK0huIPiBIgYIRDiMXrBYLpj9hs+tpUouYMvCJZZnky0YN5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
+        "Match Status": "Live 🔴",
         "Start Time": "05:30 PM | 09-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
@@ -821,24 +727,60 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Rot-Weiß Essen",
-        "Team 2 Name": "Verl",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiCqL65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIKiH4hs9cgwDGzcT3giq3Al1ZgwufFaA.webp",
-        "Match Title": "Rot-Weiß Essen vs Verl",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rot-Wei%C3%9F%20Essen%20vs%20Verl&font=Oswald",
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Willow Cricket",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 PM | 09-May",
+        "Start Time": "",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "",
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rot-weiss-essen-vs-verl-football-1394419/1"
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Willow 2",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Willow Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Rally TV",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
             }
         ]
     },
@@ -861,6 +803,28 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/energie-cottbus-vs-sv-wehen-football-1394414/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Rot-Weiß Essen",
+        "Team 2 Name": "Verl",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiCqL65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIKiH4hs9cgwDGzcT3giq3Al1ZgwufFaA.webp",
+        "Match Title": "Rot-Weiß Essen vs Verl",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rot-Wei%C3%9F%20Essen%20vs%20Verl&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/rot-weiss-essen-vs-verl-football-1394419/1"
             }
         ]
     },
