@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Auckland FC",
-        "Team 2 Name": "Adelaide United",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIRCuBhyEENxB91IGMb0GQJU4wpM+KLmDLwi80faa1toqXSA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6wwKMGVUATENxAQQfEIkMkDIXTFwEKTPii6by9eaMdNaYTWNEQgA.webp",
-        "Match Title": "Auckland FC vs Adelaide United",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzYQcbiFo5dfECRCmYIFCAggjiGAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 PM | 09-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/auckland-vs-adelaide-united-football-1543790/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/auckland-vs-adelaide-united-football-1543790/2"
-            }
-        ]
-    },
-    {
         "Category": "Afl",
         "League": "Afl",
         "Team 1 Name": "Essendon",
@@ -588,6 +559,50 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Energie Cottbus",
+        "Team 2 Name": "SV Wehen",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRFRAx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIREpT1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "Energie Cottbus vs SV Wehen",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Energie%20Cottbus%20vs%20SV%20Wehen&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/energie-cottbus-vs-sv-wehen-football-1394414/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "SC Freiburg Women",
+        "Team 2 Name": "VfL Wolfsburg Women",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3oAGMKIAmpEDBDcQmkIj16cBvSBAQCFJnxRcN5evNGOmtMBrGiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphhsQAEzB8w4RNw0hDJEH0MhEp4ygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "SC Freiburg Women vs VfL Wolfsburg Women",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiBAMQA8DBDcdIDXxCINmxKcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/sc-freiburg-w-vs-vfl-wolfsburg-w-football-1401379/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Osnabrück",
         "Team 2 Name": "Ulm",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOBIEuEABMQ3HSBJb9elCER8QEEHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
@@ -828,6 +843,28 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Bayern Munich Women",
+        "Team 2 Name": "Eintracht Frankfurt Women",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQg+YEmrC8UIbiAAmIRDBCmc+00b4EKTG1w3l680SmBNaYDWNEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hhu1OLz4huIACYhEMEMZy7zICAQpM+KLmDKr680faa0wjsaIhA.webp",
+        "Match Title": "Bayern Munich Women vs Eintracht Frankfurt Women",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOEmzApYTUhDcQfECSMhEpkObMwCwTTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:45 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/bayern-munich-w-vs-eintracht-frankfurt-w-football-1401378/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Brighton & Hove Albion",
         "Team 2 Name": "Wolverhampton Wanderers",
         "Team 1 Logo": "",
@@ -988,6 +1025,28 @@
                 "Language": "English - LaLigaTV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-sevilla-vs-espanyol/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Waldhof Mannheim",
+        "Team 2 Name": "Jahn Regensburg",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADQAgCYgSIFCG7bVu-SBggtOPvoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyl1q9biE0ATEDBAGciXShCn4BCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Match Title": "Waldhof Mannheim vs Jahn Regensburg",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Waldhof%20Mannheim%20vs%20Jahn%20Regensburg&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:30 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/waldhof-mannheim-vs-ssv-jahn-regensburg-football-1394417/1"
             }
         ]
     },
@@ -2136,6 +2195,28 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-atlanta-united-fc-vs-la-galaxy/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Angelo Leo vs Raeese Aleem",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Angelo%20Leo%20vs%20Raeese%20Aleem&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 10-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_angelo-leo-vs-raeese-aleem-live-stream/1"
             }
         ]
     },
