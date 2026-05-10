@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "WWE Backlash Tampa",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTeiRiAghOWECGDCAxtWrBu4oeOwhEM-iJAkQMEFknASh+UoY6hKYG3CcewAtjxXySXFMtcOCNt0ZOH9GAcBpwQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:00 AM | 10-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN Unlimited",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-backlash-tampa/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN Unlimited",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-backlash-tampa/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Philadelphia Phillies",
@@ -518,13 +489,6 @@
                 "Language": "English - NBC Sports BA",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-pittsburgh-pirates-vs-san-francisco-giants/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22272/1"
             }
         ]
     },
@@ -554,13 +518,6 @@
                 "Language": "English - Sportsnet LA",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-atlanta-braves-vs-los-angeles-dodgers/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22273/1"
             }
         ]
     },
