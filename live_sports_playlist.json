@@ -379,20 +379,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-yankees-vs-milwaukee-brewers/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_brewers-yankees-live-streaming-1267121610/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_brewers-yankees-live-streaming-1267121610/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -923,56 +909,6 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-fc-dallas-vs-real-salt-lake/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_dallas-salt-lake-live-streaming-1241416341/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-dallas-vs-real-salt-lake-football-1490272/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-dallas-vs-real-salt-lake-football-1490272/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Independ. Rivadavia",
-        "Team 2 Name": "Union Santa Fe",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIAMYh49cg2XNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikCTrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Match Title": "Independ. Rivadavia vs Union Santa Fe",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Independ.%20Rivadavia%20vs%20Union%20Santa%20Fe&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 10-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/independ-rivadavia-vs-union-santa-fe-football-1544179/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/independ-rivadavia-vs-union-santa-fe-football-1544179/2"
             }
         ]
     },
@@ -1281,13 +1217,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-tigres-uanl-football-1542916/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/guadalajara-chivas-vs-tigres-uanl-football-1542916/3"
             }
         ]
     },
@@ -1459,12 +1388,12 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Portland Timbers",
-        "Team 2 Name": "Sporting Kansas City",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkploAGNiEQxgSENxAkDIPiBRHEhwygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLDcwZOOD4huICCG2ISIRABMQxmHoIUmfFF3Xl680Q6a0w6saIhA.webp",
-        "Match Title": "Portland Timbers vs Sporting Kansas City",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzMQKNmCQhE3EHxAwQU4yCOIcOPgWBIK91iLEowKnbrLwiWWR0mWjBPMVEIIA.webp",
+        "Team 1 Name": "Seattle Sounders",
+        "Team 2 Name": "San Diego FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0wKEKPhgQIbiD4gYIACYG9F44hMEKTPii5gy2+vNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACADD1xgQdEN1UhEEEABNcekDFMgQBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "Seattle Sounders vs San Diego FC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWklkoQiRNxB8DIfYZI7zEXAWBIKfYbPoowKlFxfl6WLXObAwLmKiEEA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "08:30 AM | 10-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1474,14 +1403,35 @@
                 "Stream_No": 1,
                 "Language": "English - Apple TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-portland-timbers-vs-sporting-kansas-city/1"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-sounders-fc-vs-san-diego-fc/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
                 "Language": "English - Apple TV",
                 "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-portland-timbers-vs-sporting-kansas-city/2"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-sounders-fc-vs-san-diego-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_seattle-san-diego-fc-live-streaming-1241421336/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/seattle-sounders-vs-san-diego-football-1490275/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/seattle-sounders-vs-san-diego-football-1490275/2"
             }
         ]
     },
@@ -1518,18 +1468,32 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_mls_san-jose-vancouver-live-streaming-1241420337/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/san-jose-earthquakes-vs-vancouver-whitecaps-football-1490276/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/san-jose-earthquakes-vs-vancouver-whitecaps-football-1490276/2"
             }
         ]
     },
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Seattle Sounders",
-        "Team 2 Name": "San Diego FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0wKEKPhgQIbiD4gYIACYG9F44hMEKTPii5gy2+vNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACADD1xgQdEN1UhEEEABNcekDFMgQBCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Match Title": "Seattle Sounders vs San Diego FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWklkoQiRNxB8DIfYZI7zEXAWBIKfYbPoowKlFxfl6WLXObAwLmKiEEA.webp",
+        "Team 1 Name": "Portland Timbers",
+        "Team 2 Name": "Sporting Kansas City",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkploAGNiEQxgSENxAkDIPiBRHEhwygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLDcwZOOD4huICCG2ISIRABMQxmHoIUmfFF3Xl680Q6a0w6saIhA.webp",
+        "Match Title": "Portland Timbers vs Sporting Kansas City",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzMQKNmCQhE3EHxAwQU4yCOIcOPgWBIK91iLEowKnbrLwiWWR0mWjBPMVEIIA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "08:30 AM | 10-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1539,21 +1503,28 @@
                 "Stream_No": 1,
                 "Language": "English - Apple TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-sounders-fc-vs-san-diego-fc/1"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-portland-timbers-vs-sporting-kansas-city/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
                 "Language": "English - Apple TV",
                 "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-sounders-fc-vs-san-diego-fc/2"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-portland-timbers-vs-sporting-kansas-city/2"
             },
             {
-                "Source": "delta",
+                "Source": "echo",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_seattle-san-diego-fc-live-streaming-1241421336/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/portland-timbers-vs-sporting-kansas-city-football-1490277/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/portland-timbers-vs-sporting-kansas-city-football-1490277/2"
             }
         ]
     },
