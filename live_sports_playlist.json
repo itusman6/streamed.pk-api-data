@@ -580,35 +580,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Melbourne Football Club",
-        "Team 2 Name": "West Coast Eagles",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAATGtFUhuICCD66QMEIhQmQZiYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAxmsXMAAmIbiB0QQfECeMwjIQ1oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Melbourne Football Club vs West Coast Eagles",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRLT5gBTEiG4g+h3CBggUJiwcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:10 AM | 10-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox Footy",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-west-coast-eagles-vs-melbourne/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox Footy",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-west-coast-eagles-vs-melbourne/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Melbourne Storm",
@@ -1556,35 +1527,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "LIV Golf Virginia - Championship Course",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=LIV%20Golf%20Virginia%20-%20Championship%20Course&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:00 PM | 10-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/liv-golf-virginia-championship-course-game-162626/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/liv-golf-virginia-championship-course-game-162626/2"
-            }
-        ]
-    },
-    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -1624,6 +1566,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/truist-championship-pga-tour-pga-526234/4"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "LIV Golf Virginia - Championship Course",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=LIV%20Golf%20Virginia%20-%20Championship%20Course&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 10-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/liv-golf-virginia-championship-course-game-162626/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/liv-golf-virginia-championship-course-game-162626/2"
             }
         ]
     },
