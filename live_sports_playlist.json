@@ -123,6 +123,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Huesca",
+        "Team 2 Name": "Real Sociedad II",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCoh+9cg0XNxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCFXZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Match Title": "Huesca vs Real Sociedad II",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Huesca%20vs%20Real%20Sociedad%20II&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:30 AM | 12-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/huesca-vs-real-sociedad-ii-football-1392187/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/huesca-vs-real-sociedad-ii-football-1392187/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -221,35 +250,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Huesca",
-        "Team 2 Name": "Real Sociedad II",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCoh+9cg0XNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCFXZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "Huesca vs Real Sociedad II",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Huesca%20vs%20Real%20Sociedad%20II&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:30 AM | 12-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/huesca-vs-real-sociedad-ii-football-1392187/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/huesca-vs-real-sociedad-ii-football-1392187/2"
             }
         ]
     },
