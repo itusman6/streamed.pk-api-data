@@ -159,6 +159,28 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Al Taawon",
+        "Team 2 Name": "Al-Ahli Jeddah",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFIuX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "Al Taawon vs Al-Ahli Jeddah",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Al%20Taawon%20vs%20Al-Ahli%20Jeddah&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 12-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/al-taawon-vs-al-ahli-jeddah-football-1436199/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -263,28 +285,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Al Taawon",
-        "Team 2 Name": "Al-Ahli Jeddah",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFIuX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Al Taawon vs Al-Ahli Jeddah",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Al%20Taawon%20vs%20Al-Ahli%20Jeddah&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 12-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/al-taawon-vs-al-ahli-jeddah-football-1436199/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Huesca",
         "Team 2 Name": "Real Sociedad II",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCoh+9cg0XNxPeCKrcCXVmDC58FoA.webp",
@@ -337,6 +337,13 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-napoli-vs-bologna/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_serie-a_napoli-bologna-live-streaming-1096212690/1"
             },
             {
                 "Source": "echo",
