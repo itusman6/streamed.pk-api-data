@@ -251,6 +251,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Saudi Pro League",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-al-nassr-vs-al-hilal/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Saudi Pro League",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-al-nassr-vs-al-hilal/2"
+            },
+            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
