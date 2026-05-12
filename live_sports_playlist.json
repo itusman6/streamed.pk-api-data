@@ -677,6 +677,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Atletico Nacional",
+        "Team 2 Name": "Internacional de Bogota",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgDG9cg3VZxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "Atletico Nacional vs Internacional de Bogota",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Atletico%20Nacional%20vs%20Internacional%20de%20Bogota&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:20 AM | 13-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/atletico-nacional-vs-internacional-de-bogota-football-1544227/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/atletico-nacional-vs-internacional-de-bogota-football-1544227/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -775,35 +804,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Atletico Nacional",
-        "Team 2 Name": "Internacional de Bogota",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgDG9cg3VZxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Atletico Nacional vs Internacional de Bogota",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Atletico%20Nacional%20vs%20Internacional%20de%20Bogota&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:20 AM | 13-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atletico-nacional-vs-internacional-de-bogota-football-1544227/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atletico-nacional-vs-internacional-de-bogota-football-1544227/2"
             }
         ]
     },
@@ -1177,6 +1177,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-arizona-diamondbacks-vs-texas-rangers/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_rangers-diamondbacks-live-streaming-1276867854/1"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -1225,6 +1232,20 @@
                 "Language": "English - Space City Home Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-mariners-vs-houston-astros/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_astros-mariners-live-streaming-1276868853/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_astros-mariners-live-streaming-1276868853/2"
             },
             {
                 "Source": "echo",
