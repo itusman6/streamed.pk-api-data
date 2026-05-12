@@ -1,76 +1,5 @@
 [
     {
-        "Category": "Darts",
-        "League": "Darts",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Players Championship 15",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEAY2AQQEIUJCJEIECQEiQDENwUrpiFNWCyYCscJBjFMRlvEMUwNuE49gBbHkvkkufha4cEbbiYv36YByGQkA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 PM | 12-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Board 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-players-championship-15/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Board 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-players-championship-15/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - Board 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-players-championship-15/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - Board 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-players-championship-15/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - Board 3",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-players-championship-15/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - Board 3",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-players-championship-15/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "English - Board 4",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-players-championship-15/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "English - Board 4",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-players-championship-15/8"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Real Betis",
@@ -96,27 +25,6 @@
                 "Language": "English - LaLigaTV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-real-betis-vs-elche/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_laliga_real-betis-elche-live-streaming-1096323579/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/real-betis-vs-elche-football-1391170/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/real-betis-vs-elche-football-1391170/2"
             }
         ]
     },
@@ -153,41 +61,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_saudi-pro-league_al-nassr-al-hilal-live-streaming-1095959943/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/al-nassr-vs-al-hilal-saudi-fc-football-1436194/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/al-nassr-vs-al-hilal-saudi-fc-football-1436194/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/al-nassr-vs-al-hilal-saudi-fc-football-1436194/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/al-nassr-vs-al-hilal-saudi-fc-football-1436194/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/al-nassr-vs-al-hilal-saudi-fc-football-1436194/5"
             }
         ]
     },
@@ -491,6 +364,20 @@
                 "Language": "English - Premier Sports 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-osasuna-vs-atl-tico-madrid/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_laliga_osasuna-atl-madrid-live-streaming-1096322580/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_laliga_osasuna-atl-madrid-live-streaming-1096322580/2"
             }
         ]
     },
@@ -710,20 +597,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-angels-vs-cleveland-guardians/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cleveland-guardians-vs-los-angeles-angels-baseball-178634/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cleveland-guardians-vs-los-angeles-angels-baseball-178634/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -758,20 +631,6 @@
                 "Language": "English - MASN",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-yankees-vs-baltimore-orioles/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/baltimore-orioles-vs-new-york-yankees-baseball-178638/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/baltimore-orioles-vs-new-york-yankees-baseball-178638/2"
             },
             {
                 "Source": "golf",
@@ -810,20 +669,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-washington-nationals-vs-cincinnati-reds/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cincinnati-reds-vs-washington-nationals-baseball-178635/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cincinnati-reds-vs-washington-nationals-baseball-178635/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -860,20 +705,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-pittsburgh-pirates/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/pittsburgh-pirates-vs-colorado-rockies-baseball-178629/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/pittsburgh-pirates-vs-colorado-rockies-baseball-178629/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -908,20 +739,6 @@
                 "Language": "English - NESN",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-philadelphia-phillies-vs-boston-red-sox/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/boston-red-sox-vs-philadelphia-phillies-baseball-178637/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/boston-red-sox-vs-philadelphia-phillies-baseball-178637/2"
             },
             {
                 "Source": "golf",
@@ -1095,27 +912,6 @@
                 "Language": "English - BravesVision",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-atlanta-braves/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atlanta-braves-vs-chicago-cubs-baseball-178639/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atlanta-braves-vs-chicago-cubs-baseball-178639/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atlanta-braves-vs-chicago-cubs-baseball-178639/3"
             },
             {
                 "Source": "golf",
