@@ -145,78 +145,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "PAOK",
-        "Team 2 Name": "AEK Athens",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJDcQZJAlCqQAExAxcIPsZAQdOXQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0mrPuQghuIACYgYuEHxMhEBnBAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "PAOK vs AEK Athens",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRDBC0BM-CG4g+IEiFMpjhkJvMKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:30 PM | 13-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/paok-vs-aek-athens-fc-football-1537130/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/paok-vs-aek-athens-fc-football-1537130/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/paok-vs-aek-athens-fc-football-1537130/3"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Olympiakos Piraeus",
-        "Team 2 Name": "Panathinaikos",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsikPHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IIiADG9cg3VZxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Olympiakos Piraeus vs Panathinaikos",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Olympiakos%20Piraeus%20vs%20Panathinaikos&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:30 PM | 13-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/olympiakos-piraeus-vs-panathinaikos-football-1537129/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/olympiakos-piraeus-vs-panathinaikos-football-1537129/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/olympiakos-piraeus-vs-panathinaikos-football-1537129/3"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Brest",
         "Team 2 Name": "Strasbourg",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgAJiBQNSICCG4gSmkCb7GzMXOoIUmfLWzBl4ReaK1NaYJ2NEQgA.webp",
@@ -1142,6 +1070,13 @@
                 "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-getafe-vs-mallorca/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_laliga_getafe-mallorca-live-streaming-1096320582/1"
             },
             {
                 "Source": "echo",
