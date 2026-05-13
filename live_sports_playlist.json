@@ -27,34 +27,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-angels-vs-cleveland-guardians/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_guardians-angels-live-streaming-1276856865/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_guardians-angels-live-streaming-1276856865/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cleveland-guardians-vs-los-angeles-angels-baseball-178634/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cleveland-guardians-vs-los-angeles-angels-baseball-178634/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -409,35 +381,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_pwhl-women-playoffs_montreal-minnesota-live-streaming-1305211482/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Boston Legacy W",
-        "Team 2 Name": "Orlando Pride W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIAMYhEq5fXINNWcT3giq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEMEMpj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Boston Legacy W vs Orlando Pride W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Boston%20Legacy%20W%20vs%20Orlando%20Pride%20W&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 13-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/boston-legacy-w-vs-orlando-pride-w-football-1508422/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/boston-legacy-w-vs-orlando-pride-w-football-1508422/2"
             }
         ]
     },
@@ -1469,6 +1412,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-liberty-vs-portland-fire/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_wnba_fire-liberty-live-streaming-1210322466/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1503,6 +1453,13 @@
                 "Language": "English - Arizona's Family 3TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-minnesota-lynx-vs-phoenix-mercury/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_wnba_mercury-lynx-live-streaming-1210321467/1"
             },
             {
                 "Source": "golf",
