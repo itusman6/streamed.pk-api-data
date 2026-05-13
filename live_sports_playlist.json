@@ -145,42 +145,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Forge",
-        "Team 2 Name": "Supra du Québec",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQIMQAYQMUCG4gS63IZB8T6gCaGCFJnxRcwZeEXmjHTWmGdjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YEiAAmYbiH16+IIzBB7E51SBQEKTPii4by9eaMdNaYDWNEQgA.webp",
-        "Match Title": "Forge vs Supra du Québec",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Forge%20vs%20Supra%20du%20Qu%C3%A9bec&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 PM | 13-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/forge-vs-supra-du-quebec-football-1517281/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/forge-vs-supra-du-quebec-football-1517281/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/forge-vs-supra-du-quebec-football-1517281/3"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Arka Gdynia",
         "Team 2 Name": "Górnik Zabrze",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQgAJsDAIQA-CG7qQqkCBKmQiPob4EKTG1zBl4ReaJTAmtLaKl0gA.webp",
@@ -345,14 +309,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga TV",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-espanyol-vs-athletic-club/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga TV",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-espanyol-vs-athletic-club/2"
             },
@@ -586,63 +550,6 @@
         ]
     },
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Willow Cricket",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Willow 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Willow Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Willow 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Willow Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/6"
-            }
-        ]
-    },
-    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -719,6 +626,63 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
+            }
+        ]
+    },
+    {
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Willow Cricket",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Willow 2",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Willow Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Willow 2",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Willow Sports",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/6"
             }
         ]
     },
@@ -1197,14 +1161,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga TV",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-getafe-vs-mallorca/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga TV",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-getafe-vs-mallorca/2"
             },
