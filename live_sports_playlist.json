@@ -79,6 +79,63 @@
         ]
     },
     {
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Willow Cricket",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Willow 2",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Willow Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Willow 2",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Willow Sports",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/6"
+            }
+        ]
+    },
+    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -155,63 +212,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Willow Cricket",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Willow 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Willow Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Willow 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Willow Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/6"
             }
         ]
     },
@@ -705,16 +705,23 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - EFL League One",
+                "Language": "English - Sky Sports Football",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-bradford-city-vs-bolton-wanderers/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - EFL League One",
+                "Language": "English - Sky Sports Football",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-bradford-city-vs-bolton-wanderers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_league-one-playoffs_bradford-bolton-live-streaming-1314434250/1"
             },
             {
                 "Source": "echo",
@@ -855,14 +862,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - Premier Sports 1",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-real-oviedo/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - Premier Sports 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-real-oviedo/2"
             },
@@ -1015,6 +1022,20 @@
                 "Language": "English - BravesVision",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-atlanta-braves/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/atlanta-braves-vs-chicago-cubs-baseball-178665/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/atlanta-braves-vs-chicago-cubs-baseball-178665/2"
             },
             {
                 "Source": "golf",
