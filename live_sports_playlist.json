@@ -101,6 +101,56 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PGA Championship | Men's golf major",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PGA%20Championship%20%7C%20Men%27s%20golf%20major&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 PM | 15-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/pga-championship-mens-golf-major-game-162626/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/pga-championship-mens-golf-major-game-162626/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/pga-championship-mens-golf-major-game-162626/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/pga-championship-mens-golf-major-game-162626/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/pga-championship-mens-golf-major-game-162626/5"
+            }
+        ]
+    },
+    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -318,16 +368,16 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Zaglebie Lubin",
-        "Team 2 Name": "Pogon Szczecin",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEENnrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEECHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Match Title": "Zaglebie Lubin vs Pogon Szczecin",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Zaglebie%20Lubin%20vs%20Pogon%20Szczecin&font=Oswald",
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Canada Ice Hockey",
+        "Team 2 Name": "Sweden Ice Hockey",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgUFEMAAmoENxB8QWgyBSrcF1RMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCJRSfoMTcQfEABNdIFCFMQQMCxYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Canada Ice Hockey vs Sweden Ice Hockey",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Canada%20Ice%20Hockey%20vs%20Sweden%20Ice%20Hockey&font=Oswald",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "10:00 PM | 15-May",
+        "Start Time": "08:20 PM | 15-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
@@ -335,14 +385,28 @@
                 "Stream_No": 1,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/zaglebie-lubin-vs-pogon-szczecin-football-1380680/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/canada-vs-sweden-hockey-396706/1"
             },
             {
                 "Source": "echo",
                 "Stream_No": 2,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/zaglebie-lubin-vs-pogon-szczecin-football-1380680/2"
+                "Embed_URL": "https://embedsports.top/embed/echo/canada-vs-sweden-hockey-396706/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/canada-vs-sweden-hockey-396706/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/canada-vs-sweden-hockey-396706/4"
             }
         ]
     },
@@ -386,6 +450,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/indy-500-practice-racing-0059/4"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Zaglebie Lubin",
+        "Team 2 Name": "Pogon Szczecin",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEENnrkGAY2bie8EVW4EurMGFz5zQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEECHrkGAY2bie8EVW4EurMGFz5zQA.webp",
+        "Match Title": "Zaglebie Lubin vs Pogon Szczecin",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Zaglebie%20Lubin%20vs%20Pogon%20Szczecin&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 15-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/zaglebie-lubin-vs-pogon-szczecin-football-1380680/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/zaglebie-lubin-vs-pogon-szczecin-football-1380680/2"
             }
         ]
     },
@@ -501,6 +594,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/salford-city-vs-grimsby-football-1543762/2"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Czech Republic Ice Hockey",
+        "Team 2 Name": "Denmark Ice Hockey",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTAmaEDFygQ3EABNcuzSEQoQfCwYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmDEPSQha3ELpW49IGCAN8NpkCgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Czech Republic Ice Hockey vs Denmark Ice Hockey",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECg1huIGCBkkQOvkf24QiQzkMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:20 AM | 16-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/czech-republic-vs-denmark-hockey-396713/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/czech-republic-vs-denmark-hockey-396713/2"
             }
         ]
     },
@@ -1395,6 +1517,13 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-antonio-spurs-vs-minnesota-timberwolves/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22386/1"
             }
         ]
     },
@@ -1411,6 +1540,20 @@
         "Start Time": "07:38 AM | 16-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - KTTV",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-los-angeles-angels/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - KTTV",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-los-angeles-angels/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
