@@ -187,46 +187,11 @@
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgUFEMAAmoENxB8QWgyBSrcF1RMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCJRSfoMTcQfEABNdIFCFMQQMCxYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
         "Match Title": "Canada Ice Hockey vs Sweden Ice Hockey",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEAYxAMQJYNxEgsICNIHZgM8YJSSQiECG4VG8rVJUoxwEtQHV5ZYG3CcewAvMNhySXP0NcOCNls6GH9GAcCjoQQA.webp",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Canada%20Ice%20Hockey%20vs%20Sweden%20Ice%20Hockey&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "08:20 PM | 15-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN1",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-sweden/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN1",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-sweden/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "Swedish - Viaplay",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-sweden/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "Swedish - Viaplay",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-sweden/4"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-b_canada-sweden-live-streaming-1277275446/1"
-            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -254,42 +219,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/canada-vs-sweden-hockey-396706/4"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Finland Ice Hockey",
-        "Team 2 Name": "Germany Ice Hockey",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApghCCDj00IbiAAmuPVsMg+IEsYMEKTPmrZgy8IvNFqmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxREwwACZgk-ENxAbcekDBARjOfXwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
-        "Match Title": "Finland Ice Hockey vs Germany Ice Hockey",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEGEAGNgEfsG7ZsILCAYgSwEvxAgpMCiG7KtwuRKUyIG0UcQytMFMDbhOPYAUlWw5JLkFWuHBGwmcrjvRgHCKMIkA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:20 PM | 15-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN5",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-finland-vs-germany/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN5",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-finland-vs-germany/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-a_finland-germany-live-streaming-1277272449/1"
             }
         ]
     },
@@ -362,6 +291,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/indy-500-practice-racing-0059/4"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Rizespor",
+        "Team 2 Name": "Beşiktaş",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJB8EpYIRzcQAExAlVIHSgNGTBCkz4ouYMvCLzRtprTD2xoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSUzwwAE0ogYIMQAYQvEFmMh1IC9VMQQiFAQr4BKHmDJrGCsS6f0wb8TEIIA.webp",
+        "Match Title": "Rizespor vs Beşiktaş",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRBBDwwfENxBS9IXSRCbDm07s0SmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 PM | 15-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/rizespor-vs-besiktas-football-1394736/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/rizespor-vs-besiktas-football-1394736/2"
             }
         ]
     },
@@ -499,35 +457,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Rizespor",
-        "Team 2 Name": "Beşiktaş",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJB8EpYIRzcQAExAlVIHSgNGTBCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSUzwwAE0ogYIMQAYQvEFmMh1IC9VMQQiFAQr4BKHmDJrGCsS6f0wb8TEIIA.webp",
-        "Match Title": "Rizespor vs Beşiktaş",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRBBDwwfENxBS9IXSRCbDm07s0SmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 15-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rizespor-vs-besiktas-football-1394736/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rizespor-vs-besiktas-football-1394736/2"
             }
         ]
     },
