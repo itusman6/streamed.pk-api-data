@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "MotoGP Grand Prix of Catalunya 🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=MotoGP%20Grand%20Prix%20of%20Catalunya%20%F0%9F%8F%81&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 PM | 15-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/motogp-grand-prix-of-catalunya-game-122273/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/motogp-grand-prix-of-catalunya-game-122273/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -234,6 +205,20 @@
                 "Language": "English - TSN1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-sweden/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Swedish - Viaplay",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-sweden/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "Swedish - Viaplay",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-sweden/4"
             },
             {
                 "Source": "delta",
