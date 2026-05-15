@@ -58,6 +58,35 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Cronulla Sharks",
+        "Team 2 Name": "Canterbury Bankstown Bulldogs",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmPMNxAxg+EIk0qQEEIcTG+JkCisEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Cronulla Sharks vs Canterbury Bankstown Bulldogs",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIAMIGHIbAkIbhpBSQ5kkdwgUIRCQIGKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 PM | 15-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox League",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-sharks-vs-bulldogs/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-sharks-vs-bulldogs/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -191,35 +220,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Cronulla Sharks",
-        "Team 2 Name": "Canterbury Bankstown Bulldogs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmPMNxAxg+EIk0qQEEIcTG+JkCisEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Cronulla Sharks vs Canterbury Bankstown Bulldogs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIAMIGHIbAkIbhpBSQ5kkdwgUIRCQIGKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 PM | 15-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-sharks-vs-bulldogs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-sharks-vs-bulldogs/2"
             }
         ]
     },
@@ -574,6 +574,13 @@
                 "Language": "English - EFL League Two",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-salford-city-vs-grimsby-town/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_league-two-playoffs_salford-grimsby-live-streaming-1314477207/1"
             }
         ]
     },
@@ -603,6 +610,13 @@
                 "Language": "English - EFL League Two",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-notts-county-vs-chesterfield/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_league-two-playoffs_notts-county-chesterfield-live-streaming-1314478206/1"
             }
         ]
     },
@@ -668,6 +682,28 @@
                 "Language": "English - DAZN",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chukhadzhian-vs-donovan/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "2026 Truck Series at Dover",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20Truck%20Series%20at%20Dover&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "03:00 AM | 16-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_2026-truck-series-at-dover-live-stream/1"
             }
         ]
     },
@@ -1158,6 +1194,13 @@
                 "Language": "English - FOX",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-orlando-storm-vs-dallas-renegades/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_dallas-renegades-orlando-storm-live-streaming-1277172549/1"
             }
         ]
     },
