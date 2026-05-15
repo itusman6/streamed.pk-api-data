@@ -29,35 +29,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Gold Coast Football Club",
-        "Team 2 Name": "Port Adelaide Football Club",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0qiPiAH4Q3LSER6SIFLhDGAJiBgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8w3MABN1wfCH3cQJfSAgnDME-sYUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Gold Coast Football Club vs Port Adelaide Football Club",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBAhgABh6VgUkNxB9TuDSBQXrJhUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:10 PM | 15-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/gold-coast-suns-vs-port-adelaide-power-australian-football-3428/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/gold-coast-suns-vs-port-adelaide-power-australian-football-3428/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -126,6 +97,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/atpwta-1000-rome-tn-1/4"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "World SBK Czech Republic | World SBK Championship Season 🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20SBK%20Czech%20Republic%20%7C%20World%20SBK%20Championship%20Season%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 PM | 15-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/world-sbk-czech-republic-world-sbk-championship-season-game-4u8337/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/world-sbk-czech-republic-world-sbk-championship-season-game-4u8337/2"
             }
         ]
     },
@@ -1395,13 +1395,6 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-antonio-spurs-vs-minnesota-timberwolves/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22386/1"
             }
         ]
     },
@@ -1418,20 +1411,6 @@
         "Start Time": "07:38 AM | 16-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - KTTV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-los-angeles-angels/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - KTTV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-los-angeles-angels/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
