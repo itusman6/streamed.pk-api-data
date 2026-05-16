@@ -114,20 +114,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ABC",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dc-defenders-vs-louisville-kings/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ABC",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dc-defenders-vs-louisville-kings/2"
-            },
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -434,35 +420,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22413/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Saracens",
-        "Team 2 Name": "Gloucester",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EAGENxAoQiHJr4gSIYweMATLSAMQCFJnxRcwZeEXmjHTWmGdjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFGFGEQ7ENxAkQiNShAQj6kHz0EKTPii6by9eaMdNaYTWNEQgA.webp",
-        "Match Title": "Saracens vs Gloucester",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLNSw9+7ENxB8QJECcOmQUg3oLAkFPsNn0UYFSi6vy9LaPdNaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:30 PM | 16-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/saracens-vs-gloucester-rugby-50119/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/saracens-vs-gloucester-rugby-50119/2"
             }
         ]
     },
@@ -942,12 +899,12 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Sporting CP",
-        "Team 2 Name": "Gil Vicente",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1YhgSEABNOIENy25dRkiBMoQfXQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqQDBPxAQQ3EABNcBozF0gSIU-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Sporting CP vs Gil Vicente",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VARBB9cc7CG5bDMEChMgpIEuZDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Team 1 Name": "Estoril Praia",
+        "Team 2 Name": "Benfica",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzBhuIFKBAg2IdQBNc24yRAQQMEKYmEYwJn01swZeEXmjNTWqtFS6QA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw4KMHzApcIbiAAmh3Yn1GjIXAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Estoril Praia vs Benfica",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reijApQIXTBDcQfIyH0oQ5qSBLWQUgsCQU+w2RrArtbD+XpZZ2ky0YB5iohBAA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "01:30 AM | 17-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -957,14 +914,14 @@
                 "Stream_No": 1,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sporting-cp-vs-gil-vicente-football-1396542/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/estoril-vs-benfica-football-1396537/1"
             },
             {
                 "Source": "echo",
                 "Stream_No": 2,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sporting-cp-vs-gil-vicente-football-1396542/2"
+                "Embed_URL": "https://embedsports.top/embed/echo/estoril-vs-benfica-football-1396537/2"
             }
         ]
     },
@@ -1000,12 +957,12 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Estoril Praia",
-        "Team 2 Name": "Benfica",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzBhuIFKBAg2IdQBNc24yRAQQMEKYmEYwJn01swZeEXmjNTWqtFS6QA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw4KMHzApcIbiAAmh3Yn1GjIXAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Estoril Praia vs Benfica",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reijApQIXTBDcQfIyH0oQ5qSBLWQUgsCQU+w2RrArtbD+XpZZ2ky0YB5iohBAA.webp",
+        "Team 1 Name": "Sporting CP",
+        "Team 2 Name": "Gil Vicente",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1YhgSEABNOIENy25dRkiBMoQfXQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqQDBPxAQQ3EABNcBozF0gSIU-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Sporting CP vs Gil Vicente",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VARBB9cc7CG5bDMEChMgpIEuZDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "01:30 AM | 17-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1015,14 +972,14 @@
                 "Stream_No": 1,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/estoril-vs-benfica-football-1396537/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/sporting-cp-vs-gil-vicente-football-1396542/1"
             },
             {
                 "Source": "echo",
                 "Stream_No": 2,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/estoril-vs-benfica-football-1396537/2"
+                "Embed_URL": "https://embedsports.top/embed/echo/sporting-cp-vs-gil-vicente-football-1396542/2"
             }
         ]
     },
@@ -1374,6 +1331,13 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-cf-montr-al-vs-chicago-fire-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_montreal-chicago-live-streaming-1241977779/1"
             },
             {
                 "Source": "echo",
