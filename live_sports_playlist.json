@@ -1978,6 +1978,28 @@
     {
         "Category": "Fight",
         "League": "Fight",
+        "Team 1 Name": "UFC Fight Night 276 Allen",
+        "Team 2 Name": "Costa",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "UFC Fight Night 276 Allen vs Costa",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEAYxCJBJEGJQgIITlIbVpYkNyXYQMAdOBSQwblvnqUjIQonrewNuE49gBbHkvkkufka4cEbPZyP36YBxajFpAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "03:00 AM | 17-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22451/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
         "Team 1 Name": "MVP MMA 1 Rousey",
         "Team 2 Name": "Carano",
         "Team 1 Logo": "",
@@ -2579,28 +2601,6 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-dynamo-fc-vs-vancouver-whitecaps/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "UFC Fight Night 276 Allen",
-        "Team 2 Name": "Costa",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UFC Fight Night 276 Allen vs Costa",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UFC%20Fight%20Night%20276%20Allen%20vs%20Costa&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22451/1"
             }
         ]
     },
