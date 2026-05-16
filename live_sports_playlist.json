@@ -188,35 +188,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "St Louis BattleHawks",
-        "Team 2 Name": "Houston Gamblers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwFoQcCCC0oQ3EABMQfA1pA7DMXCGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyyQQiACb8wKENxB8DIGCA1H9JkCAgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "St Louis BattleHawks vs Houston Gamblers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkj4g4gqFhC8Q+4we1mYICCBQskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ABC",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-gamblers-vs-st-louis-battlehawks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ABC",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-gamblers-vs-st-louis-battlehawks/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Colorado Rockies",
@@ -242,20 +213,6 @@
                 "Language": "English - Rockies.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-arizona-diamondbacks-vs-colorado-rockies/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/colorado-rockies-vs-arizona-diamondbacks-baseball-178692/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/colorado-rockies-vs-arizona-diamondbacks-baseball-178692/2"
             },
             {
                 "Source": "golf",
@@ -566,35 +523,6 @@
         ]
     },
     {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Vegas Golden Knights vs Anaheim Ducks",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vegas%20Golden%20Knights%20vs%20Anaheim%20Ducks&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-ducks-live-streaming-1307093598/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-ducks-live-streaming-1307093598/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "UFC Fight Night 276 Allen",
@@ -862,35 +790,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "North Carolina Courage W",
-        "Team 2 Name": "Chicago Red Stars W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFMuX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFMpABjeuQYas4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "North Carolina Courage W vs Chicago Red Stars W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Carolina%20Courage%20W%20vs%20Chicago%20Red%20Stars%20W&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:30 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/north-carolina-courage-w-vs-chicago-red-stars-w-football-1508427/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/north-carolina-courage-w-vs-chicago-red-stars-w-football-1508427/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "River Plate",
         "Team 2 Name": "Rosario Central",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQtemxTqQ3EABMQEECRM7tfXSD4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
@@ -921,6 +820,57 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/river-plate-vs-rosario-central-football-1545164/3"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "North Carolina Courage W",
+        "Team 2 Name": "Chicago Red Stars W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFMuX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFMpABjeuQYas4nvBFVuBLqzBhc+S0A.webp",
+        "Match Title": "North Carolina Courage W vs Chicago Red Stars W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Carolina%20Courage%20W%20vs%20Chicago%20Red%20Stars%20W&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 17-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/north-carolina-courage-w-vs-chicago-red-stars-w-football-1508427/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/north-carolina-courage-w-vs-chicago-red-stars-w-football-1508427/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Davis",
+        "Team 2 Name": "Albright 2",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Davis - Albright 2",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Davis%20-%20Albright%202&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 17-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22456/1"
             }
         ]
     },
@@ -1457,6 +1407,13 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-d-c-united-vs-st-louis-city-sc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_dc-united-st-louis-live-streaming-1241979777/1"
             }
         ]
     },
@@ -1486,6 +1443,13 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-england-revolution-vs-minnesota-united-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_new-england-minnesota-live-streaming-1241980776/1"
             }
         ]
     },
@@ -1515,6 +1479,13 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-charlotte-fc-vs-toronto-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_charlotte-toronto-live-streaming-1241978778/1"
             },
             {
                 "Source": "echo",
@@ -1594,6 +1565,13 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-orlando-city-sc-vs-atlanta-united-fc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_orlando-atlanta-live-streaming-1241982774/1"
             }
         ]
     },
@@ -1623,6 +1601,13 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-philadelphia-union-vs-columbus-crew/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_philadelphia-columbus-live-streaming-1241983773/1"
             }
         ]
     },
