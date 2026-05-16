@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "2026 Truck Series at Dover",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20Truck%20Series%20at%20Dover&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 16-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_2026-truck-series-at-dover-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Pittsburgh Pirates",
@@ -84,28 +62,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22392/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Cleveland Cavaliers",
-        "Team 2 Name": "Detroit Pistons",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSUwxWoEClaQQvEFn0gjelCBJGQ1IwQr4BWjmDLwiCsVrv0wT8WIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Cleveland Cavaliers vs Detroit Pistons",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYLDB9cWkIm4htJEClx6QEC2ZIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 16-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22385/1"
             }
         ]
     },
@@ -276,20 +232,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-chicago-white-sox/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chicago-white-sox-vs-chicago-cubs-baseball-178678/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chicago-white-sox-vs-chicago-cubs-baseball-178678/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -335,32 +277,40 @@
         ]
     },
     {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Minnesota Wild vs Colorado Avalanche",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Minnesota%20Wild%20vs%20Colorado%20Avalanche&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 16-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_wild-avalanche-live-streaming-1306875816/1"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "WWE: Friday Night Smackdown",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTTxAMYhhWEDGDcQJYcBIUQiFCFGj+jBSAbKxEirOpThIAdkMtgbcJx7AC2PBfJJcAlFwtNKEXZzd36YBzA3pwQQA.webp",
+        "Match Title": "Friday Night SmackDown",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Friday%20Night%20SmackDown&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 16-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - USA",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - USA",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/2"
-            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
@@ -381,28 +331,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/wwe-friday-night-smackdown-game-11114/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Minnesota Wild vs Colorado Avalanche",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Minnesota%20Wild%20vs%20Colorado%20Avalanche&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 16-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_wild-avalanche-live-streaming-1306875816/1"
             }
         ]
     },
@@ -511,20 +439,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_cardinals-royals-live-streaming-1277183538/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/stlouis-cardinals-vs-kansas-city-royals-baseball-178669/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/stlouis-cardinals-vs-kansas-city-royals-baseball-178669/2"
             },
             {
                 "Source": "golf",
@@ -1072,6 +986,35 @@
         ]
     },
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Adelaide Crows",
+        "Team 2 Name": "North Melbourne Kangaroos",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQJOuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREDHrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
+        "Match Title": "Adelaide Crows vs North Melbourne Kangaroos",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Adelaide%20Crows%20vs%20North%20Melbourne%20Kangaroos&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:15 AM | 16-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/adelaide-crows-vs-north-melbourne-kangaroos-australian-football-3429/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/adelaide-crows-vs-north-melbourne-kangaroos-australian-football-3429/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1205,35 +1148,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Adelaide Crows",
-        "Team 2 Name": "North Melbourne Kangaroos",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQJOuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREDHrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Match Title": "Adelaide Crows vs North Melbourne Kangaroos",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Adelaide%20Crows%20vs%20North%20Melbourne%20Kangaroos&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "09:15 AM | 16-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/adelaide-crows-vs-north-melbourne-kangaroos-australian-football-3429/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/adelaide-crows-vs-north-melbourne-kangaroos-australian-football-3429/2"
             }
         ]
     },
