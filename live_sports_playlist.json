@@ -408,6 +408,13 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-a_great-britain-usa-live-streaming-1277440281/1"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -449,6 +456,13 @@
                 "Language": "English - TSN3",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-italy-vs-slovakia/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-b_italy-slovakia-live-streaming-1277443278/1"
             },
             {
                 "Source": "echo",
