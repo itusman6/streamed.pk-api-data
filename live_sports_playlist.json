@@ -1,70 +1,5 @@
 [
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Keyshawn Davis vs Nahir Albright",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Keyshawn%20Davis%20vs%20Nahir%20Albright&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_keyshawn-davis-vs-nahir-albright-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "St Kilda Saints",
-        "Team 2 Name": "Richmond Tigers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREFLrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREEzrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Match Title": "St Kilda Saints vs Richmond Tigers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=St%20Kilda%20Saints%20vs%20Richmond%20Tigers&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:15 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/st-kilda-saints-vs-richmond-tigers-australian-football-3433/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/st-kilda-saints-vs-richmond-tigers-australian-football-3433/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/st-kilda-saints-vs-richmond-tigers-australian-football-3433/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/st-kilda-saints-vs-richmond-tigers-australian-football-3433/4"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "New Zealand Warriors",
@@ -111,6 +46,49 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/new-zealand-warriors-vs-brisbane-broncos-game-197832/3"
+            }
+        ]
+    },
+    {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "West Coast Eagles",
+        "Team 2 Name": "Greater Western Sydney Giants",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAxmsXMAAmIbiB0QQfECeMwjIQ1oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EATEKurcEIbhpAQQfECeMwTIRCgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "West Coast Eagles vs Greater Western Sydney Giants",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELUJJgMtkhDcQUkHxAkjJkBANncBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:15 PM | 17-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/west-coast-eagles-vs-greater-western-sydney-giants-australian-football-3434/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/west-coast-eagles-vs-greater-western-sydney-giants-australian-football-3434/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/west-coast-eagles-vs-greater-western-sydney-giants-australian-football-3434/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/west-coast-eagles-vs-greater-western-sydney-giants-australian-football-3434/4"
             }
         ]
     },
@@ -248,49 +226,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "West Coast Eagles",
-        "Team 2 Name": "Greater Western Sydney Giants",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAxmsXMAAmIbiB0QQfECeMwjIQ1oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EATEKurcEIbhpAQQfECeMwTIRCgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "West Coast Eagles vs Greater Western Sydney Giants",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELUJJgMtkhDcQUkHxAkjJkBANncBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:15 PM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/west-coast-eagles-vs-greater-western-sydney-giants-australian-football-3434/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/west-coast-eagles-vs-greater-western-sydney-giants-australian-football-3434/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/west-coast-eagles-vs-greater-western-sydney-giants-australian-football-3434/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/west-coast-eagles-vs-greater-western-sydney-giants-australian-football-3434/4"
             }
         ]
     },
@@ -620,14 +555,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Premier League",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-manchester-united-vs-nottingham-forest/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Premier League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-manchester-united-vs-nottingham-forest/2"
             },
@@ -763,14 +698,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports F1",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-fulham/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports F1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-fulham/2"
             },
@@ -799,14 +734,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Main Event",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-brighton-hove-albion/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Main Event",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-brighton-hove-albion/2"
             },
@@ -835,14 +770,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Premier League",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-everton-vs-sunderland/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Premier League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-everton-vs-sunderland/2"
             },
@@ -871,14 +806,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Football",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-brentford-vs-crystal-palace/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Football",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-brentford-vs-crystal-palace/2"
             },
@@ -1087,14 +1022,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Premier League",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-newcastle-united-vs-west-ham-united/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Premier League",
+                "Language": "English - Sky Sports Premier League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-newcastle-united-vs-west-ham-united/2"
             },
@@ -1166,14 +1101,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-sevilla-vs-real-madrid/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-sevilla-vs-real-madrid/2"
             },
@@ -1260,14 +1195,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-rayo-vallecano-vs-villarreal/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-rayo-vallecano-vs-villarreal/2"
             }
@@ -1318,14 +1253,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-levante-vs-mallorca/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-levante-vs-mallorca/2"
             }
@@ -1347,14 +1282,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-elche-vs-getafe/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-elche-vs-getafe/2"
             }
@@ -1412,14 +1347,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-atl-tico-madrid-vs-girona/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-atl-tico-madrid-vs-girona/2"
             }
@@ -1441,14 +1376,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-athletic-club-vs-celta-vigo/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - LaLiga",
+                "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-athletic-club-vs-celta-vigo/2"
             }
@@ -1780,14 +1715,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Serie A",
+                "Language": "English - Paramount+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-sassuolo-vs-lecce/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Serie A",
+                "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-sassuolo-vs-lecce/2"
             }
@@ -1888,16 +1823,23 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Serie A",
+                "Language": "English - Paramount+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-juventus-vs-fiorentina/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Serie A",
+                "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-juventus-vs-fiorentina/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_serie-a_juventus-fiorentina-live-streaming-1096564338/1"
             }
         ]
     },
@@ -1917,14 +1859,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Serie A",
+                "Language": "English - Paramount+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-inter-milan-vs-hellas-verona/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Serie A",
+                "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-inter-milan-vs-hellas-verona/2"
             }
@@ -1956,6 +1898,13 @@
                 "Language": "English - Serie A",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-genoa-vs-ac-milan/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_serie-a_genoa-milan-live-streaming-1096562340/1"
             }
         ]
     },
@@ -1985,6 +1934,13 @@
                 "Language": "English - Serie A",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-como-vs-parma/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_serie-a_como-parma-live-streaming-1096561341/1"
             }
         ]
     },
@@ -2438,14 +2394,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-lorient-vs-le-havre-ac/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-lorient-vs-le-havre-ac/2"
             }
@@ -2467,14 +2423,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-lille-vs-aj-auxerre/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-lille-vs-aj-auxerre/2"
             }
@@ -2496,14 +2452,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-brest-vs-angers/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "French - Ligue 1",
+                "Language": "French - Ligue 1+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-brest-vs-angers/2"
             }
