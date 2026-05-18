@@ -80,35 +80,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": " Fury FC 119 ⭐",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=%20Fury%20FC%20119%20%E2%AD%90&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:30 AM | 18-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-03-fury-fc-119-ppv-03/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-03-fury-fc-119-ppv-03/2"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Minnesota Lynx",
@@ -134,13 +105,6 @@
                 "Language": "English - Victory+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-minnesota-lynx/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22432/1"
             }
         ]
     },
@@ -170,13 +134,6 @@
                 "Language": "English - Spectrum Sports Net",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-tempo-vs-los-angeles-sparks/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22433/1"
             }
         ]
     },
@@ -518,6 +475,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Primos Pro Wrestling Alpha 9",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Primos%20Pro%20Wrestling%20Alpha%209&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 18-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-10-primos-pro-wrestling-alpha-9-ppv-10/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-10-primos-pro-wrestling-alpha-9-ppv-10/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -651,35 +637,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Primos Pro Wrestling Alpha 9",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Primos%20Pro%20Wrestling%20Alpha%209&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 18-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-10-primos-pro-wrestling-alpha-9-ppv-10/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-10-primos-pro-wrestling-alpha-9-ppv-10/2"
             }
         ]
     }
