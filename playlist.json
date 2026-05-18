@@ -1,53 +1,5 @@
 [
     {
-        "Category": "MLB",
-        "League": "MLB",
-        "Team 1 Name": "Tampa Bay Rays",
-        "Team 2 Name": "Miami Marlins",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Tampa Bay Rays VS Miami Marlins",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tampa%20Bay%20Rays%20VS%20Miami%20Marlins&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "10:15 PM 17-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===gNyYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "PREMIER LEAGUE",
-        "League": "PREMIER LEAGUE",
-        "Team 1 Name": "Newcastle United",
-        "Team 2 Name": "West Ham United",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Newcastle United VS West Ham United",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Newcastle%20United%20VS%20West%20Ham%20United&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "10:30 PM 17-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id=0ITPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "LA LIGA ",
-        "League": "LA LIGA ",
-        "Team 1 Name": "Sevilla",
-        "Team 2 Name": "Real Madrid",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Sevilla VS Real Madrid",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sevilla%20VS%20Real%20Madrid&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "11:00 PM 17-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===wM1ETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
         "Category": "WNBA",
         "League": "WNBA",
         "Team 1 Name": "Atlanta Dream",
@@ -376,7 +328,7 @@
         "Team 2 Logo": "",
         "Match Title": "Detroit Pistons VS Cleveland Cavaliers",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Detroit%20Pistons%20VS%20Cleveland%20Cavaliers&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "06:00 AM 18-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -392,7 +344,7 @@
         "Team 2 Logo": "",
         "Match Title": "Nashville SC VS LAFC",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nashville%20SC%20VS%20LAFC&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "06:00 AM 18-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
