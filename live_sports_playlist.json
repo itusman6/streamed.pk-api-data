@@ -1,77 +1,5 @@
 [
     {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Slovenia Ice Hockey",
-        "Team 2 Name": "Slovakia Ice Hockey",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuuMHxB8Ea7SBgGQKEKoghzAE1wEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplFNWSUmxDcQAE1zaQMPSFM4c8AhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Slovenia Ice Hockey vs Slovakia Ice Hockey",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBwpoKShxC9NRkCBQgSICEcMwWSClhFzG21bo5gy8ItTm78rMBgnuJiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:20 AM | 20-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-b_slovenia-slovakia-live-streaming-1307470221/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/slovenia-vs-slovakia-hockey-396681/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/slovenia-vs-slovakia-hockey-396681/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/slovenia-vs-slovakia-hockey-396681/3"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Bournemouth",
-        "Team 2 Name": "Manchester City",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgYIEMCa8ADCG4gSIRBDUg++ywYAmBCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPrDBqsYFCG4gIIFSD6HjuCyX0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Bournemouth vs Manchester City",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAYwU7QmYhuIPiBIgYIRDkPmIuAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:30 AM | 20-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sports Main Event",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-afc-bournemouth-vs-manchester-city/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sports Main Event",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-afc-bournemouth-vs-manchester-city/2"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Chelsea",
@@ -97,27 +25,6 @@
                 "Language": "English - Sky Sports Premier League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chelsea-vs-tottenham-hotspur/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_chelsea-tottenham-live-streaming-1314675009/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chelsea-vs-tottenham-football-1379333/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chelsea-vs-tottenham-football-1379333/2"
             },
             {
                 "Source": "golf",
