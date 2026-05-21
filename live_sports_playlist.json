@@ -1,5 +1,48 @@
 [
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Hawthorn Hawks",
+        "Team 2 Name": "Adelaide Crows",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQIeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQJOuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Match Title": "Hawthorn Hawks vs Adelaide Crows",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hawthorn%20Hawks%20vs%20Adelaide%20Crows&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:30 PM | 21-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hawthorn-hawks-vs-adelaide-crows-australian-football-3435/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hawthorn-hawks-vs-adelaide-crows-australian-football-3435/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hawthorn-hawks-vs-adelaide-crows-australian-football-3435/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hawthorn-hawks-vs-adelaide-crows-australian-football-3435/4"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -137,35 +180,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Hawthorn Hawks",
-        "Team 2 Name": "Adelaide Crows",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQIeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQJOuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Match Title": "Hawthorn Hawks vs Adelaide Crows",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hawthorn%20Hawks%20vs%20Adelaide%20Crows&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:30 PM | 21-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/hawthorn-hawks-vs-adelaide-crows-australian-football-3435/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/hawthorn-hawks-vs-adelaide-crows-australian-football-3435/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Canberra Raiders",
@@ -191,6 +205,42 @@
                 "Language": "English - Fox League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-raiders-vs-dolphins/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "UCI Giro dItalia | UCI World Tour 🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCI%20Giro%20dItalia%20%7C%20UCI%20World%20Tour%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:30 PM | 21-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/uci-giro-ditalia-uci-world-tour-game-13622/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/uci-giro-ditalia-uci-world-tour-game-13622/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/uci-giro-ditalia-uci-world-tour-game-13622/3"
             }
         ]
     },
@@ -282,6 +332,49 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "The CJ Cup Byron Nelson | PGA Tour",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=The%20CJ%20Cup%20Byron%20Nelson%20%7C%20PGA%20Tour&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 21-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/the-cj-cup-byron-nelson-pga-tour-pga-526234/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/the-cj-cup-byron-nelson-pga-tour-pga-526234/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/the-cj-cup-byron-nelson-pga-tour-pga-526234/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/the-cj-cup-byron-nelson-pga-tour-pga-526234/4"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Detroit Tigers",
@@ -307,6 +400,20 @@
                 "Language": "English - Tigers.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-cleveland-guardians-vs-detroit-tigers/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/detroit-tigers-vs-cleveland-guardians-baseball-178761/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/detroit-tigers-vs-cleveland-guardians-baseball-178761/2"
             },
             {
                 "Source": "golf",
@@ -509,6 +616,20 @@
                 "Language": "English - YES",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-blue-jays-vs-new-york-yankees/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/new-york-yankees-vs-toronto-blue-jays-baseball-178758/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/new-york-yankees-vs-toronto-blue-jays-baseball-178758/2"
             },
             {
                 "Source": "golf",
