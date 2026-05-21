@@ -1,85 +1,5 @@
 [
     {
-        "Category": "NBA",
-        "League": "NBA",
-        "Team 1 Name": "Oklahoma City Thunder",
-        "Team 2 Name": "San Antonio Spurs",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Oklahoma City Thunder VS San Antonio Spurs",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Oklahoma%20City%20Thunder%20VS%20San%20Antonio%20Spurs&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "06:30 AM 21-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===AMyUTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "MLB",
-        "League": "MLB",
-        "Team 1 Name": "San Diego Padres",
-        "Team 2 Name": "Los Angeles Dodgers",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "San Diego Padres VS Los Angeles Dodgers",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=San%20Diego%20Padres%20VS%20Los%20Angeles%20Dodgers&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "06:40 AM 21-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===gMyYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "WNBA",
-        "League": "WNBA",
-        "Team 1 Name": "Chicago Sky",
-        "Team 2 Name": "Dallas Wings",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Chicago Sky VS Dallas Wings",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Chicago%20Sky%20VS%20Dallas%20Wings&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "07:00 AM 21-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===gMwcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "MLB",
-        "League": "MLB",
-        "Team 1 Name": "Los Angeles Angels",
-        "Team 2 Name": "Athletics",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Los Angeles Angels VS Athletics",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Los%20Angeles%20Angels%20VS%20Athletics&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "07:38 AM 21-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===gMxYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "WNBA",
-        "League": "WNBA",
-        "Team 1 Name": "Seattle Storm",
-        "Team 2 Name": "Connecticut Sun",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Seattle Storm VS Connecticut Sun",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Seattle%20Storm%20VS%20Connecticut%20Sun&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "08:00 AM 21-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===wMxcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
         "Category": "MLB",
         "League": "MLB",
         "Team 1 Name": "Detroit Tigers",
@@ -637,6 +557,22 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
             "https://data-2.vercel.app/?id===gNwETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "GERMAN CUP",
+        "League": "GERMAN CUP",
+        "Team 1 Name": "Bayern Munich",
+        "Team 2 Name": "VfB Stuttgart",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Bayern Munich VS VfB Stuttgart",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20Munich%20VS%20VfB%20Stuttgart&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "12:00 AM 24-05-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===QMyETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
