@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Oklahoma City Thunder",
-        "Team 2 Name": "San Antonio Spurs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS4KADMSQgyMELxBYDIY-pQgzu3QBMCFfAJQ8wZeEQVjH9+mGfixEIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSXQg1KDrn7UQvEFn1qQOnQZhGsBCvgEbNZeEQViNN+mDBjpDIA.webp",
-        "Match Title": "Oklahoma City Thunder vs San Antonio Spurs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGYRCUwKEHu4g+IEiF05EiXTBASmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 21-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22541/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "San Diego Padres",
@@ -71,20 +49,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-athletics-vs-los-angeles-angels/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_angels-athletics-live-streaming-1307527164/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_angels-athletics-live-streaming-1307527164/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -119,13 +83,6 @@
                 "Language": "English - CW Seattle",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-connecticut-sun-vs-seattle-storm/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22544/1"
             }
         ]
     },
