@@ -159,6 +159,35 @@
         ]
     },
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Hawthorn Hawks",
+        "Team 2 Name": "Adelaide Crows",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQIeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQJOuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Match Title": "Hawthorn Hawks vs Adelaide Crows",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hawthorn%20Hawks%20vs%20Adelaide%20Crows&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "03:30 PM | 21-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hawthorn-hawks-vs-adelaide-crows-australian-football-3435/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hawthorn-hawks-vs-adelaide-crows-australian-football-3435/2"
+            }
+        ]
+    },
+    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Canberra Raiders",
