@@ -27,20 +27,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-athletics-vs-los-angeles-angels/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_angels-athletics-live-streaming-1307678013/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_angels-athletics-live-streaming-1307678013/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -77,34 +63,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-arizona-diamondbacks/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_diamondbacks-rockies-live-streaming-1307679012/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_diamondbacks-rockies-live-streaming-1307679012/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/arizona-diamondbacks-vs-colorado-rockies-baseball-178762/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/arizona-diamondbacks-vs-colorado-rockies-baseball-178762/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -139,13 +97,6 @@
                 "Language": "English - Prime Video",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-sparks-vs-phoenix-mercury/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_wnba_mercury-sparks-live-streaming-1210461327/1"
             },
             {
                 "Source": "golf",
@@ -533,6 +484,56 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "Canadian Grand Prix",
+        "Team 2 Name": "Practice 1",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Canadian Grand Prix Practice 1",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGTjgxKbENxB8DICCBS4QMC8dMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:30 PM | 22-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Formula 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Formula 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - F1TV Broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - F1TV Broadcast",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22512/1"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Chicago Cubs",
@@ -551,56 +552,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22591/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "Canadian Grand Prix",
-        "Team 2 Name": "Practice 1",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Canadian Grand Prix Practice 1",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGTjgxKbENxB8DICCBS4QMC8dMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:30 AM | 23-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Formula 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Formula 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - F1TV Broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - F1TV Broadcast",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22512/1"
             }
         ]
     },
