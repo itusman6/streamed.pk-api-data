@@ -123,100 +123,6 @@
         ]
     },
     {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Germany Ice Hockey",
-        "Team 2 Name": "Hungary Ice Hockey",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxREwwACZgk-ENxAbcekDBARjOfXwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhARVDYPhAwQKENxB99IEoZAATE1YMwCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Germany Ice Hockey vs Hungary Ice Hockey",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQcQvMFuqcdILMZBmUIEiAinqmlkgpYRcxijCqtHD+UYGxWviswGAe4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:20 PM | 22-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN4",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-germany-vs-hungary/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN4",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-germany-vs-hungary/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Canada Ice Hockey",
-        "Team 2 Name": "Slovenia Ice Hockey",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgUFEMAAmoENxB8QWgyBSrcF1RMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuuMHxB8Ea7SBgGQKEKoghzAE1wEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Canada Ice Hockey vs Slovenia Ice Hockey",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqEbSwSELOoheILMZBmUIEiAinEMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:20 PM | 22-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN1",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-slovenia/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN1",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-slovenia/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-b_canada-slovenia-live-streaming-1307933757/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Olympiacos",
-        "Team 2 Name": "Fenerbahce",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgIIJnXIMAxs0k94YqtwJdWYMLnw2gA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAxiBj1yDdc0k94YqtwJdWYMLnw2gA.webp",
-        "Match Title": "Olympiacos vs Fenerbahce",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Olympiacos%20vs%20Fenerbahce&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 PM | 22-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/olympiacos-vs-fenerbahce-basketball-499238/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/olympiacos-vs-fenerbahce-basketball-499238/2"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -536,35 +442,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Darts",
-        "League": "Darts",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "International Darts Open | Day 1 - Evening",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmGhRAoQArCGIghIRXJkxgEEDBARsExXskLEKCsDFDxpAYkWImxvmAHCG2PMDD0kuYscGOE5OYCxoyUYI5qzGpAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 22-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - PDC.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-international-darts-open-day-1-evening/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - PDC.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-international-darts-open-day-1-evening/2"
             }
         ]
     },
