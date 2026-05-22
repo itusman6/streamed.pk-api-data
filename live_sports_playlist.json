@@ -148,20 +148,6 @@
                 "Language": "English - TSN4",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-germany-vs-hungary/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/germany-vs-hungary-hockey-396729/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/germany-vs-hungary-hockey-396729/2"
             }
         ]
     },
@@ -198,27 +184,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-b_canada-slovenia-live-streaming-1307933757/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/canada-vs-slovenia-hockey-396711/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/canada-vs-slovenia-hockey-396711/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/canada-vs-slovenia-hockey-396711/3"
             }
         ]
     },
@@ -291,6 +256,56 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/the-cj-cup-byron-nelson-pga-tour-pga-526234/4"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "Canadian Grand Prix",
+        "Team 2 Name": "Practice 1",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Canadian Grand Prix - Practice 1",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmISBTYQWbDLEDpNEE3EgIIRCCXiZ8qSBiSawRTE3AxYxSn0S+YAcIYzb9JLmITB9hOSHM8TpRg9sAQ-hBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:30 PM | 22-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sport 2 NZ",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sport 2 NZ",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Apple TV (F1TV)",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Apple TV (F1TV)",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22512/1"
             }
         ]
     },
@@ -521,6 +536,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
+            }
+        ]
+    },
+    {
+        "Category": "Darts",
+        "League": "Darts",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "International Darts Open | Day 1 - Evening",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmGhRAoQArCGIghIRXJkxgEEDBARsExXskLEKCsDFDxpAYkWImxvmAHCG2PMDD0kuYscGOE5OYCxoyUYI5qzGpAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:00 PM | 22-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - PDC.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-international-darts-open-day-1-evening/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - PDC.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-international-darts-open-day-1-evening/2"
             }
         ]
     },
