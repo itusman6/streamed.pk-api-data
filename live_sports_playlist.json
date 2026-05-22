@@ -107,20 +107,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Apple TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-chicago-cubs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Apple TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-chicago-cubs/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -205,49 +191,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22513/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "3rd Sprint Shootout | Circuit Gilles-Villeneuve |",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=3rd%20Sprint%20Shootout%20%7C%20Circuit%20Gilles-Villeneuve%20%7C&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:12 AM | 23-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/3rd-sprint-shootout-circuit-gilles-villeneuve-formula-1-2649/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/3rd-sprint-shootout-circuit-gilles-villeneuve-formula-1-2649/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/3rd-sprint-shootout-circuit-gilles-villeneuve-formula-1-2649/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/3rd-sprint-shootout-circuit-gilles-villeneuve-formula-1-2649/4"
             }
         ]
     },
@@ -416,6 +359,20 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-cincinnati-reds/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_reds-cardinals-live-streaming-1307810880/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_reds-cardinals-live-streaming-1307810880/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -457,6 +414,20 @@
                 "Language": "English - NBC Sports Phil",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-cleveland-guardians-vs-philadelphia-phillies/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_phillies-guardians-live-streaming-1307811879/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_phillies-guardians-live-streaming-1307811879/2"
             },
             {
                 "Source": "echo",
@@ -1037,7 +1008,7 @@
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "Amari Jones vs Vincenzo Gualtieri",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuFr80INiF4gshkChDV9xiCBKGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrzCyADCGqtOIXiCwmQKEBBDXpIRLeb5gSClhFzGKMKpQ9v5Rn0xXyd6MG9xMQggA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "06:15 AM | 23-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
