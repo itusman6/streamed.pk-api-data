@@ -25,41 +25,6 @@
                 "Language": "English - TSN3",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-latvia-vs-united-states/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-a_latvia-usa-live-streaming-1307932758/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/latvia-vs-usa-hockey-396699/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/latvia-vs-usa-hockey-396699/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/latvia-vs-usa-hockey-396699/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/latvia-vs-usa-hockey-396699/4"
             }
         ]
     },
@@ -549,6 +514,28 @@
                 "Language": "English - Indian Premier League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-lucknow-super-giants-vs-punjab-kings/2"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Slovakia vs Czechia",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Slovakia%20vs%20Czechia&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:20 PM | 23-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-b_slovakia-czechia-live-streaming-1308118572/1"
             }
         ]
     },
@@ -1996,14 +1983,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - MLB.TV",
+                "Language": "English - Reds.TV",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-cincinnati-reds/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - MLB.TV",
+                "Language": "English - Reds.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-cincinnati-reds/2"
             },
