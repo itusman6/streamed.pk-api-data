@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Auckland FC",
-        "Team 2 Name": "Sydney FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIRCuBhyEENxB91IGMb0GQJU4wpM+KLmDLwi80faa1toqXSA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjL0+YbiHBIQmkiAggAJrtMwQfAxYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Auckland FC vs Sydney FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VemhBRRSdiG4g+IEiFMwQKLRdwgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:10 PM | 23-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TNT Sports 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-auckland-fc-vs-sydney-fc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TNT Sports 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-auckland-fc-vs-sydney-fc/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Western Force",
@@ -762,14 +733,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Paramount+",
+                "Language": "English - Sky Sports Football",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-hull-city-vs-middlesbrough/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Paramount+",
+                "Language": "English - Sky Sports Football",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-hull-city-vs-middlesbrough/2"
             },
