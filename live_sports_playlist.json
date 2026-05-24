@@ -174,35 +174,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "New York Liberty",
-        "Team 2 Name": "Dallas Wings",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm-ENw2wwfDSBL7chkIZQhdMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "New York Liberty vs Dallas Wings",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCAEoQUkPV3cdIEiEPbtIEIksgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:30 AM | 25-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dallas-wings-vs-new-york-liberty/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dallas-wings-vs-new-york-liberty/2"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "Louisville Kings",
@@ -380,6 +351,20 @@
                 "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_padres-athletics-live-streaming-1308184506/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/san-diego-padres-vs-athletics-baseball-178796/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/san-diego-padres-vs-athletics-baseball-178796/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -464,27 +449,6 @@
                 "Language": "English - DBACKS.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-arizona-diamondbacks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_diamondbacks-rockies-live-streaming-1308182508/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_diamondbacks-rockies-live-streaming-1308182508/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/arizona-diamondbacks-vs-colorado-rockies-baseball-178807/1"
             },
             {
                 "Source": "golf",
@@ -584,6 +548,42 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Cavalry",
+        "Team 2 Name": "Pacific",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4UUIMryQhuGkPsSISO3CAAmIFAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMNzBJQFJCG4gSIY4kRGDOEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Cavalry vs Pacific",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cavalry%20vs%20Pacific&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 25-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/cavalry-fc-vs-pacific-fc-football-1517288/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/cavalry-fc-vs-pacific-fc-football-1517288/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/cavalry-fc-vs-pacific-fc-football-1517288/3"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Bay FC W",
         "Team 2 Name": "Chicago Red Stars W",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAQQ8euQYBjZuJ7wRVbgS6swYXPmtA.webp",
@@ -672,6 +672,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_wnba_storm-mystics-live-streaming-1210592196/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Coca-Cola 600",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcbEFhAQQQiSBoUQCgTVkVmIAVmwq50ocD2Vx46XIjBJm6UxDEUwPmAHCG2PPfpJctwfZYczegJ2jJRgjubM5kA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 25-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox Sports 505 AU",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-coca-cola-600/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox Sports 505 AU",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-coca-cola-600/2"
             }
         ]
     },
