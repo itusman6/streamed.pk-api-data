@@ -43,6 +43,42 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Manziel",
+        "Team 2 Name": "Menery Brandrisk",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Manziel v Menery Brandrisk",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Manziel%20v%20Menery%20Brandrisk&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 AM | 24-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-07-manziel-v-menery-brandrisk-ppv-07/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-07-manziel-v-menery-brandrisk-ppv-07/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22666/1"
+            }
+        ]
+    },
+    {
         "Category": "Afl",
         "League": "Afl",
         "Team 1 Name": "Western Bulldogs",
@@ -1913,7 +1949,7 @@
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22651/1"
+                "Embed_URL": "https://embedsports.top/embed/golf/22672/1"
             }
         ]
     },
