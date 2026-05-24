@@ -1548,6 +1548,35 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Olympiacos BC",
+        "Team 2 Name": "Real Madrid Baloncesto",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBREosGFF8Q3EABMQOwyRBm9OHDAIUmfFFy3l680Q6a1NoqXSA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gpYACa5mIbiBK5De1QZQgYuAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Olympiacos BC vs Real Madrid Baloncesto",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFDxCimtCCG4g+IKYZCITIEHvMFgSCn2Gz6KMCo1s35ellkadwGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:00 AM | 25-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/olympiacos-vs-real-madrid-basketball-499832/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/olympiacos-vs-real-madrid-basketball-499832/2"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Kansas City Royals",
