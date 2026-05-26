@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "Royal Challengers Bangalore",
-        "Team 2 Name": "Gujarat Titans",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYFMCZIQZACYhuOkMeOJEhvkb4EKTa1zBl4ReaI1NaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMNzB8QUHNu5qQJHSAPaIRkDBAgCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Royal Challengers Bangalore vs Gujarat Titans",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiEQkQUsN1wh9G-Tik6QMA-pIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 26-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Indian Premier League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-royal-challengers-bengaluru-vs-gujarat-titans/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Indian Premier League",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-royal-challengers-bengaluru-vs-gujarat-titans/2"
-            }
-        ]
-    },
-    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "Roland Garros",
@@ -442,35 +413,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Gremio",
-        "Team 2 Name": "Atletico Torque",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRDHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRPxDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "Gremio vs Atletico Torque",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Gremio%20vs%20Atletico%20Torque&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 27-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/gremio-vs-atletico-torque-football-1535223/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/gremio-vs-atletico-torque-football-1535223/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Lanus",
         "Team 2 Name": "Mirassol",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikP3rkGAY2bie8EVW4EurMGFz5zQA.webp",
@@ -494,6 +436,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/lanus-vs-mirassol-football-1535323/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Gremio",
+        "Team 2 Name": "Atletico Torque",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRDHrkGAY2bie8EVW4EurMGFz5zQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRPxDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Match Title": "Gremio vs Atletico Torque",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Gremio%20vs%20Atletico%20Torque&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 27-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/gremio-vs-atletico-torque-football-1535223/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/gremio-vs-atletico-torque-football-1535223/2"
             }
         ]
     },
