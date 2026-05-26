@@ -234,6 +234,28 @@
     {
         "Category": "Hockey",
         "League": "Hockey",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Czechia vs Canada",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Czechia%20vs%20Canada&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:20 AM | 27-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-b_czechia-canada-live-streaming-1308489201/1"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
         "Team 1 Name": "Switzerland Ice Hockey",
         "Team 2 Name": "Finland Ice Hockey",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQglYAWxzcQAE1wgdMPSFMkQEUwQpM+KLmDLwi80faa0wjsaIhA.webp",
