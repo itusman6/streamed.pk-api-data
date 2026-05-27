@@ -123,20 +123,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sportsnet One",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-toronto-blue-jays/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sportsnet One",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-toronto-blue-jays/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -221,20 +207,6 @@
                 "Language": "English - Brewers.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-milwaukee-brewers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_brewers-cardinals-live-streaming-1308390300/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_brewers-cardinals-live-streaming-1308390300/2"
             },
             {
                 "Source": "echo",
@@ -568,35 +540,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Santos",
-        "Team 2 Name": "Deportivo Cuenca",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQhwIYAAYQKfiG4gAJiD46QEcyctrDBCkz662YMvCLzRuprTAuxoiCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzANcDbCC3cQfEIgAmuYzpS7dBCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Match Title": "Santos vs Deportivo Cuenca",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmCRgSIKSBRg+IbiCNGIISyeuXdBYFpj9hs+gZUou28vSyzPTLRg2mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 27-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/santos-vs-deportivo-cuenca-football-1535230/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/santos-vs-deportivo-cuenca-football-1535230/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "San Lorenzo",
         "Team 2 Name": "Recoleta",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCI+YAQAZSICCG4g+hkCWN6DAExAwTBCkz4ouYMvCLzRTprTAuxoiCA.webp",
@@ -620,122 +563,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/san-lorenzo-vs-deportivo-recoleta-football-1535229/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Flamengo",
-        "Team 2 Name": "Cusco",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgUsaHzAgQ3EBBB8QiEsZ0gYh-QQpM+KLmDKr680Q6a0wTsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzUQwJJBAATENx0gYIRPsR8QFoxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Flamengo vs Cusco",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKAJAheWMCm0g+hkBC0HuuMwqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 27-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/flamengo-vs-cusco-football-1535320/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/flamengo-vs-cusco-football-1535320/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Nacional Montevideo",
-        "Team 2 Name": "Coquimbo Unido",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgQ7XGAEoQ3EHxCIAJoZBmDJxDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxzzaTcBBDcQAExAxc2kCf06+uAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Nacional Montevideo vs Coquimbo Unido",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmDJkUIPiBghuu4xBBmjRnDpIFgSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 27-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/club-nacional-vs-coquimbo-unido-football-1535326/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/club-nacional-vs-coquimbo-unido-football-1535326/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Universitario",
-        "Team 2 Name": "Deportes Tolima",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnARcIFCBhsQ3EABMtIRHsR8NBgwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0sCZsCSQQ3EHxAATI6twhEiHCAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Universitario vs Deportes Tolima",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMA2teABjkhuIPkZAQQ5w4ZwoQUgpop9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 27-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/universitario-vs-deportes-tolima-football-1535329/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/universitario-vs-deportes-tolima-football-1535329/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Estudiantes L.P.",
-        "Team 2 Name": "Independiente Medellin",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCBj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikFRAh65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "Estudiantes L.P. vs Independiente Medellin",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Estudiantes%20L.P.%20vs%20Independiente%20Medellin&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 27-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/estudiantes-lp-vs-independiente-medellin-football-1535319/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/estudiantes-lp-vs-independiente-medellin-football-1535319/2"
             }
         ]
     },
