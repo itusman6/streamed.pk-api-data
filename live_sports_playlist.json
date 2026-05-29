@@ -217,6 +217,13 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_charlie-edwards-vs-sikho-nqothole-live-stream/1"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -272,78 +279,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/mens-vitality-blast-worcs-vs-warwickshire-cricket-hundred-1/4"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Bristol Bears",
-        "Team 2 Name": "Bath Rugby",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzLyQ6kHD4huIACYhtGzfsM6QKAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIh6YEHByJuIVRBAATIyFMoQiY3wIUm1rmDLwi80SmBNaYR2NEQgA.webp",
-        "Match Title": "Bristol Bears vs Bath Rugby",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEMpACADHNwhuWkCQ1GNfEFKMKmSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/bristol-vs-bath-rugby-50124/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/bristol-vs-bath-rugby-50124/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Nice",
-        "Team 2 Name": "St Etienne",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPIoQAsGDXcQAE1wgdJEGsQgQxlAQpM+KLmDLwi80faa1NoqXSA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJBTgSEJsTcQAExAk9q3CET6UqghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Nice vs St Etienne",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmQghE1BmGkheILCFMwQ5xCRDWT0lkgpYRcxijCqUPD+Ua6xXviswGAe4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nice-vs-saint-etienne-football-1545409/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nice-vs-saint-etienne-football-1545409/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nice-vs-saint-etienne-football-1545409/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nice-vs-saint-etienne-football-1545409/4"
             }
         ]
     },
@@ -1057,6 +992,13 @@
                 "Language": "English - TNT",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-montreal-canadiens-vs-carolina-hurricanes/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/carolina-hurricanes-vs-montreal-canadiens-hockey-425616/1"
             },
             {
                 "Source": "golf",
