@@ -679,6 +679,35 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Ottawa Redblacks",
+        "Team 2 Name": "Montreal Alouettes",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIcAKRgkIPiG4gSICCAAmIGBdxnDxghSZ8UXMGXhF5o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gAJhXlZYIVWtwhDJEMeMQDaghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Ottawa Redblacks vs Montreal Alouettes",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXmDBIQZevhDcQUkIhggUOkBFxXzBYEgp9hs+ijAqUXD+XpZZXky0mqL0oUA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 30-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TSN2",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-montreal-alouettes-vs-ottawa-red-blacks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TSN2",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-montreal-alouettes-vs-ottawa-red-blacks/2"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Baltimore Orioles",
