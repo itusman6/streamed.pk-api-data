@@ -189,6 +189,64 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Queensland Reds",
+        "Team 2 Name": "Fijian Drua",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gIIFBrFIQqkiH3r1q1QBM1IDYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ACADONIhuIACYgIuA8b4gYIC7oIUmfFFzBl4ReaPtNaYR2NEQgA.webp",
+        "Match Title": "Queensland Reds vs Fijian Drua",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIAMIKWFH1uIQ3x0gzEDSEQkrOgsCQU+w2fRR62KLnvL0ssryZaMA96fSA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:35 PM | 29-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/reds-vs-fijian-drua-rugby-51857/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/reds-vs-fijian-drua-rugby-51857/2"
+            }
+        ]
+    },
+    {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Carlton Blues",
+        "Team 2 Name": "Geelong Cats",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQUuuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQAY3rkGcrMJ7wxVcYQaswYXPn1A.webp",
+        "Match Title": "Carlton Blues vs Geelong Cats",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Carlton%20Blues%20vs%20Geelong%20Cats&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:40 PM | 29-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/carlton-blues-vs-geelong-cats-australian-football-3445/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/carlton-blues-vs-geelong-cats-australian-football-3445/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -322,64 +380,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Queensland Reds",
-        "Team 2 Name": "Fijian Drua",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gIIFBrFIQqkiH3r1q1QBM1IDYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ACADONIhuIACYgIuA8b4gYIC7oIUmfFFzBl4ReaPtNaYR2NEQgA.webp",
-        "Match Title": "Queensland Reds vs Fijian Drua",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIAMIKWFH1uIQ3x0gzEDSEQkrOgsCQU+w2fRR62KLnvL0ssryZaMA96fSA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:35 PM | 29-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/reds-vs-fijian-drua-rugby-51857/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/reds-vs-fijian-drua-rugby-51857/2"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Carlton Blues",
-        "Team 2 Name": "Geelong Cats",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQUuuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQAY3rkGcrMJ7wxVcYQaswYXPn1A.webp",
-        "Match Title": "Carlton Blues vs Geelong Cats",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Carlton%20Blues%20vs%20Geelong%20Cats&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:40 PM | 29-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/carlton-blues-vs-geelong-cats-australian-football-3445/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/carlton-blues-vs-geelong-cats-australian-football-3445/2"
             }
         ]
     },
