@@ -264,7 +264,7 @@
         "Team 2 Logo": "",
         "Match Title": "Athletics VS New York Yankees",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Athletics%20VS%20New%20York%20Yankees&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "07:40 AM 30-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -280,7 +280,7 @@
         "Team 2 Logo": "",
         "Match Title": "Seattle Mariners VS Arizona Diamondbacks",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Seattle%20Mariners%20VS%20Arizona%20Diamondbacks&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "08:10 AM 30-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -296,7 +296,7 @@
         "Team 2 Logo": "",
         "Match Title": "Los Angeles Dodgers VS Philadelphia Phillies",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Los%20Angeles%20Dodgers%20VS%20Philadelphia%20Phillies&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "08:10 AM 30-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -320,6 +320,22 @@
         ]
     },
     {
+        "Category": "BOXING",
+        "League": "BOXING",
+        "Team 1 Name": "Dmitry Bivol",
+        "Team 2 Name": "Michael Eifert",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Dmitry Bivol VS Michael Eifert",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Dmitry%20Bivol%20VS%20Michael%20Eifert&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "09:00 PM 30-05-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===QNxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
         "Category": "UEFA CHAMPIONS LEAGUE",
         "League": "UEFA CHAMPIONS LEAGUE",
         "Team 1 Name": "Paris Saint-Germain",
@@ -334,6 +350,22 @@
         "Stream URL": [
             "https://data-2.vercel.app/?id===QOxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
             "https://data-2.vercel.app/?id===AMyETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "CFL",
+        "League": "CFL",
+        "Team 1 Name": "BKFC 90 Birmingham Tierney",
+        "Team 2 Name": "Franco",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "BKFC 90 Birmingham Tierney VS Franco",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=BKFC%2090%20Birmingham%20Tierney%20VS%20Franco&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "12:00 AM 31-05-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===gMxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
@@ -481,6 +513,22 @@
         ]
     },
     {
+        "Category": "BOXING",
+        "League": "BOXING",
+        "Team 1 Name": "O'Shaquie Foster",
+        "Team 2 Name": "Raymond Ford",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "O'Shaquie Foster VS Raymond Ford",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=O%27Shaquie%20Foster%20VS%20Raymond%20Ford&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "03:30 AM 31-05-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===QMxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
         "Category": "MLB",
         "League": "MLB",
         "Team 1 Name": "Cincinnati Reds",
@@ -526,6 +574,22 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
             "https://data-2.vercel.app/?id===AMyUTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "BOXING",
+        "League": "BOXING",
+        "Team 1 Name": "Stephanie Han",
+        "Team 2 Name": "Holly Holms 2",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Stephanie Han VS Holly Holms 2",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Stephanie%20Han%20VS%20Holly%20Holms%202&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "07:00 AM 31-05-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===ANxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
