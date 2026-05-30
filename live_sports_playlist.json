@@ -283,34 +283,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TNT",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-montreal-canadiens-vs-carolina-hurricanes/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TNT",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-montreal-canadiens-vs-carolina-hurricanes/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_hurricanes-canadiens-live-streaming-1327122549/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_hurricanes-canadiens-live-streaming-1327122549/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -405,34 +377,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-texas-rangers/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_rangers-royals-live-streaming-1308739950/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_rangers-royals-live-streaming-1308739950/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/texas-rangers-vs-kansas-city-royals-baseball-178858/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/texas-rangers-vs-kansas-city-royals-baseball-178858/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -481,20 +425,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_astros-brewers-live-streaming-1308740949/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/houston-astros-vs-milwaukee-brewers-baseball-178864/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/houston-astros-vs-milwaukee-brewers-baseball-178864/2"
             },
             {
                 "Source": "golf",
@@ -697,35 +627,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_chl-memorial-cup-knockout-stage_everett-silvertips-sagueneens-live-streaming-1332711954/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "PWR Lucha Libre (en Espanol)",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PWR%20Lucha%20Libre%20%28en%20Espanol%29&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-09-pwr-lucha-libre-en-espanol-ppv-09/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-09-pwr-lucha-libre-en-espanol-ppv-09/2"
             }
         ]
     },
@@ -1030,6 +931,28 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "LUX 061",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=LUX%20061&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:00 AM | 30-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_lux-061-live-stream/1"
+            }
+        ]
+    },
+    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -1059,38 +982,38 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "LUX 061",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=LUX%20061&font=Oswald",
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Sydney Swans",
+        "Team 2 Name": "Richmond Football Club",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAADGF5gwAEwYhuIHSAgg+IC+ZhmQKXAQpM+KLmDLwi80S6a1toqTogA.webp",
+        "Match Title": "Sydney Swans vs Richmond Football Club",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCywNxKSG4g9JEIhggIIPof0aCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "09:00 AM | 30-May",
+        "Start Time": "09:15 AM | 30-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_lux-061-live-stream/1"
-            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-11-lux-061-ppv-11/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/sydney-swans-vs-richmond-tigers-australian-football-3446/1"
             },
             {
                 "Source": "echo",
                 "Stream_No": 2,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-11-lux-061-ppv-11/2"
+                "Embed_URL": "https://embedsports.top/embed/echo/sydney-swans-vs-richmond-tigers-australian-football-3446/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/sydney-swans-vs-richmond-tigers-australian-football-3446/3"
             }
         ]
     },
@@ -1228,42 +1151,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Sydney Swans",
-        "Team 2 Name": "Richmond Football Club",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAADGF5gwAEwYhuIHSAgg+IC+ZhmQKXAQpM+KLmDLwi80S6a1toqTogA.webp",
-        "Match Title": "Sydney Swans vs Richmond Football Club",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCywNxKSG4g9JEIhggIIPof0aCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "09:15 AM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sydney-swans-vs-richmond-tigers-australian-football-3446/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sydney-swans-vs-richmond-tigers-australian-football-3446/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sydney-swans-vs-richmond-tigers-australian-football-3446/3"
             }
         ]
     },
