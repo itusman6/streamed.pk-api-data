@@ -111,49 +111,6 @@
     {
         "Category": "Rugby",
         "League": "Rugby",
-        "Team 1 Name": "ACT Brumbies",
-        "Team 2 Name": "Moana Pasifika",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwcKBKFghuIEnoO6IIYzBMgUBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIAJiBRhum3CB0aIeo0b4gSe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "ACT Brumbies vs Moana Pasifika",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXvT4haYECRDcQWqSFMQj2vZZQFgSCn2Gz6KMCpRc35ellkemOm5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:35 AM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/brumbies-vs-moana-pasifika-rugby-51858/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/brumbies-vs-moana-pasifika-rugby-51858/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/brumbies-vs-moana-pasifika-rugby-51858/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/brumbies-vs-moana-pasifika-rugby-51858/4"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
         "Team 1 Name": "Newcastle Knights",
         "Team 2 Name": "Parramatta Eels",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15lE8tCBIhuIACYgI+kIiN8Q5lCBgEKTPii5g1ReaMdNaYZ2NEQgA.webp",
@@ -206,6 +163,42 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/brisbane-lions-vs-fremantle-dockers-australian-football-3447/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "MotoGP Italian",
+        "Team 2 Name": "Grand Prix",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "MotoGP Italian Grand Prix 🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=MotoGP%20Italian%20Grand%20Prix%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:40 PM | 30-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/motogp-italian-grand-prix-game-122273/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/motogp-italian-grand-prix-game-122273/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22810/1"
             }
         ]
     },
@@ -343,42 +336,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "MotoGP Italian",
-        "Team 2 Name": "Grand Prix",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "MotoGP Italian Grand Prix 🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=MotoGP%20Italian%20Grand%20Prix%20%F0%9F%8F%81&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:40 PM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/motogp-italian-grand-prix-game-122273/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/motogp-italian-grand-prix-game-122273/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22810/1"
             }
         ]
     },
