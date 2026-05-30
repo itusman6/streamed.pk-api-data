@@ -132,35 +132,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "MotoAmerica Superbikes Road America",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=MotoAmerica%20Superbikes%20Road%20America&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:40 PM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-15-motoamerica-superbikes-road-america-pppv15/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-15-motoamerica-superbikes-road-america-pppv15/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Dmitry Bivol",
@@ -865,6 +836,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fubo Sports Network",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-bkfc-90-tierney-vs-franco/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fubo Sports Network",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-bkfc-90-tierney-vs-franco/2"
+            },
+            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -942,6 +927,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live-event_stephanie-han-vs-holly-holm-live-stream/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Portland Thorns W",
+        "Team 2 Name": "Utah Royals W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEMEMpJ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEMEMoj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "Portland Thorns W vs Utah Royals W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Portland%20Thorns%20W%20vs%20Utah%20Royals%20W&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 31-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/portland-thorns-w-vs-utah-royals-w-football-1508444/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/portland-thorns-w-vs-utah-royals-w-football-1508444/2"
             }
         ]
     },
@@ -1079,35 +1093,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Portland Thorns W",
-        "Team 2 Name": "Utah Royals W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEMEMpJ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEMEMoj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Portland Thorns W vs Utah Royals W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Portland%20Thorns%20W%20vs%20Utah%20Royals%20W&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 31-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/portland-thorns-w-vs-utah-royals-w-football-1508444/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/portland-thorns-w-vs-utah-royals-w-football-1508444/2"
             }
         ]
     },
