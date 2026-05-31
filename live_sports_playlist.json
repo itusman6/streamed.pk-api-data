@@ -474,42 +474,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "Detroit Tigers",
-        "Team 2 Name": "Chicago White Sox",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Detroit Tigers vs. Chicago White Sox",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmCCBDAaICJOkgh4uVNJimILCEQKazEGo06BMtVJ1DgYylZAwUwPmAHCG2PPfpJcxO4McJy5gJ2jJRgjhbMFkA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:10 AM | 01-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CHSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-detroit-tigers-vs-chicago-white-sox/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CHSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-detroit-tigers-vs-chicago-white-sox/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22802/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "Milwaukee Brewers",
         "Team 2 Name": "Houston Astros",
         "Team 1 Logo": "",
@@ -540,6 +504,42 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22803/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Detroit Tigers",
+        "Team 2 Name": "Chicago White Sox",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Detroit Tigers vs. Chicago White Sox",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmCCBDAaICJOkgh4uVNJimILCEQKazEGo06BMtVJ1DgYylZAwUwPmAHCG2PPfpJcxO4McJy5gJ2jJRgjhbMFkA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:10 AM | 01-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CHSN",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-detroit-tigers-vs-chicago-white-sox/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CHSN",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-detroit-tigers-vs-chicago-white-sox/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22802/1"
             }
         ]
     },
@@ -682,10 +682,10 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "USA",
+        "Team 1 Name": "United States",
         "Team 2 Name": "Senegal",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRCBAR65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIePXIMAxs3E94IqtwJdWYMLnxmgA.webp",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "United States vs. Senegal",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EDRBMQWYEJAwKFEInGUsIWRGAQ5E3SiWLplFdmYHJJzVhTA+YAcIambYeklzEbg+wnJDmeE6UYPZaARBAA.webp",
         "Match Status": "Live 🔴",
@@ -705,41 +705,6 @@
                 "Language": "English - TBS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-united-states-vs-senegal/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_usa-senegal-live-streaming-1324651023/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/usa-vs-senegal-football-1503008/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/usa-vs-senegal-football-1503008/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/usa-vs-senegal-football-1503008/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/usa-vs-senegal-football-1503008/4"
             }
         ]
     },
@@ -972,49 +937,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "FURY FC 120",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcbEMRCIUwIc2kVgEZmJA0QQkCCUyZq1ShAQQMCkYNma08xoNS+YAcIbY8wMPSS5iUwfYTkZAlKMlGD2CrIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:30 AM | 01-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - UFC Fight Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-fury-fc-120/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - UFC Fight Pass",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-fury-fc-120/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-06-fury-fc-120-ppv-06/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-06-fury-fc-120-ppv-06/2"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Brazil",
@@ -1054,6 +976,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/brazil-vs-panama-football-1536926/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "FURY FC 120",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcbEMRCIUwIc2kVgEZmJA0QQkCCUyZq1ShAQQMCkYNma08xoNS+YAcIbY8wMPSS5iUwfYTkZAlKMlGD2CrIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:30 AM | 01-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - UFC Fight Pass",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-fury-fc-120/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - UFC Fight Pass",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-fury-fc-120/2"
             }
         ]
     },
