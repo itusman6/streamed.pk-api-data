@@ -135,13 +135,6 @@
                 "Language": "English - FS2",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-norway-vs-sweden/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_norway-sweden-live-streaming-1337460201/1"
             }
         ]
     },
@@ -171,13 +164,6 @@
                 "Language": "English - Sky Sport 5 NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-t-rkiye-vs-north-macedonia/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_turkiye-north-macedonia-live-streaming-1337461200/1"
             },
             {
                 "Source": "echo",
@@ -257,6 +243,13 @@
                 "Language": "English - Sky Sport 1 NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-austria-vs-tunisia/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_austria-tunisia-live-streaming-1337462199/1"
             },
             {
                 "Source": "echo",
@@ -511,12 +504,26 @@
         "Team 2 Name": "Costa Rica",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgQ9cgwDGzcT3giq3Al1ZgwufCaA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFPXIMAxs3E94IqtwJdWYMLnxmgA.webp",
-        "Match Title": "Colombia vs Costa Rica",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Colombia%20vs%20Costa%20Rica&font=Oswald",
+        "Match Title": "Colombia vs. Costa Rica",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmISERDmIFCBgUQWaSFKKxAxIhlNZy4GMmV1u9cAinZe2SmB8wA4Q2x4b9JLmLXBdhOUkDrjJRgdqbMpkA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "05:00 AM | 02-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Men's International Friendly",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-colombia-vs-costa-rica/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Men's International Friendly",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-colombia-vs-costa-rica/2"
+            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
