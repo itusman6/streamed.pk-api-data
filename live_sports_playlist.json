@@ -112,39 +112,10 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Norway",
-        "Team 2 Name": "Sweden",
+        "Team 1 Name": "Türkiye",
+        "Team 2 Name": "North Macedonia",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Norway vs. Sweden",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECGA0JEkDRAxgEbCAggUIIdKzAhISk13aFY5nPXKFzEwNlr5I4HzADhDbHgf0kuYikEOWHIoaAr6MlGBOFgIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 01-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FS2",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-norway-vs-sweden/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FS2",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-norway-vs-sweden/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Türkiye",
-        "Team 2 Name": "FYR Macedonia",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkqX1yDRc3E94IqtwJdWYMLnxmgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikDBDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
         "Match Title": "Türkiye vs. North Macedonia",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmISDGIQzEFhCUaM4BDkqFA2TWAKFQ4LojMlIFBSMxTiXQogm+YAcIbY8wMPSS5iJwfYTldAiaMlGD2SoYQQA.webp",
         "Match Status": "Live 🔴",
@@ -164,27 +135,6 @@
                 "Language": "English - Sky Sport 5 NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-t-rkiye-vs-north-macedonia/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/turkiye-vs-fyr-macedonia-football-1543821/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/turkiye-vs-fyr-macedonia-football-1543821/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/turkiye-vs-fyr-macedonia-football-1543821/3"
             }
         ]
     },
