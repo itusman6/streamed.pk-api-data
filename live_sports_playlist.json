@@ -2,28 +2,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "Washington Nationals",
-        "Team 2 Name": "Miami Marlins",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Washington Nationals - Miami Marlins",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Washington%20Nationals%20-%20Miami%20Marlins&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:45 AM | 02-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22813/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "Cincinnati Reds",
         "Team 2 Name": "Kansas City Royals",
         "Team 1 Logo": "",
@@ -106,35 +84,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22817/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Canada",
-        "Team 2 Name": "Uzbekistan",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Canada vs. Uzbekistan",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EBGBCQAyRBAwpwWShDEQWEBtI0KwGmOaKQQnUpAodAxDApyQepub5gBwhtjzAw9JLmLnBzgjkxgLmjJRgzooGEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 02-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN3",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-uzbekistan/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN3",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-uzbekistan/2"
             }
         ]
     },
@@ -579,6 +528,13 @@
                 "Language": "English - Sky Sport Select NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-croatia-vs-belgium/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_croatia-belgium-live-streaming-1337481180/1"
             }
         ]
     },
@@ -637,6 +593,13 @@
                 "Language": "English - BBC Three",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-wales-vs-ghana/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_wales-ghana-live-streaming-1337484177/1"
             }
         ]
     },
@@ -937,6 +900,13 @@
                 "Language": "English - Premier Sports 2",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-haiti-vs-new-zealand/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_haiti-new-zealand-live-streaming-1337485176/1"
             }
         ]
     },
