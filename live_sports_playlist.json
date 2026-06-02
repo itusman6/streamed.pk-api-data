@@ -158,8 +158,8 @@
         "League": "Football",
         "Team 1 Name": "Croatia",
         "Team 2 Name": "Belgium",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh49cgwDGzcT3giq3Al1ZgwufCaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgSdcgwDGzcT3giq3Al1ZgwufCaA.webp",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "Croatia vs. Belgium",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EGJggJNEIiHAhIJpOwhpEZsAgh1NedsUgUqxfIrL1CiUcQWUwPmAHCG2PPfpJcxO4McJycgJ2jJRgjpoaEEA.webp",
         "Match Status": "Live 🔴",
@@ -179,41 +179,6 @@
                 "Language": "English - Sky Sport Select NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-croatia-vs-belgium/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_croatia-belgium-live-streaming-1337481180/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/croatia-vs-belgium-football-1512766/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/croatia-vs-belgium-football-1512766/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/croatia-vs-belgium-football-1512766/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/croatia-vs-belgium-football-1512766/4"
             }
         ]
     },
@@ -765,42 +730,6 @@
     {
         "Category": "Basketball",
         "League": "Basketball",
-        "Team 1 Name": "Chicago Sky",
-        "Team 2 Name": "Washington Mystics",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Chicago Sky vs. Washington Mystics",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmISEoQQMYEOwgmIFHNI1xMkKSxytYxDBCT9xEKprBJArBsXmZSvmAHCG2PMDD0kuYksGOE5LICSoyUYI62AhBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 03-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MNMT",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-washington-mystics/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MNMT",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-washington-mystics/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22859/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
         "Team 1 Name": "Connecticut Sun",
         "Team 2 Name": "Atlanta Dream",
         "Team 1 Logo": "",
@@ -831,6 +760,42 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22858/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Chicago Sky",
+        "Team 2 Name": "Washington Mystics",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Chicago Sky vs. Washington Mystics",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmISEoQQMYEOwgmIFHNI1xMkKSxytYxDBCT9xEKprBJArBsXmZSvmAHCG2PMDD0kuYksGOE5LICSoyUYI62AhBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 AM | 03-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MNMT",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-washington-mystics/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MNMT",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-washington-mystics/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22859/1"
             }
         ]
     },
