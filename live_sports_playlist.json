@@ -196,41 +196,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Nationals.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-washington-nationals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Nationals.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-washington-nationals/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_nationals-marlins-live-streaming-1309302387/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_nationals-marlins-live-streaming-1309302387/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/washington-nationals-vs-miami-marlins-baseball-178927/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -303,90 +268,11 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-minnesota-twins/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_twins-white-sox-live-streaming-1309304385/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_twins-white-sox-live-streaming-1309304385/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/minnesota-twins-vs-chicago-white-sox-baseball-178926/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22842/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "DR Congo",
-        "Team 2 Name": "Denmark",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQgQopMCRg+IbiF041uiCBQgYuXAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "DR Congo vs Denmark",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EIhhjsIaVhClEQ4EOkgBTEBMQDlWZiEWUak3UYkgKGitmB1gfMAOENrKO-SS5irwQ4TlFAq6MlGAOwBDM4UA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 04-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fubo Sports Network 4",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-congo-dr-vs-denmark/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fubo Sports Network 4",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-congo-dr-vs-denmark/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Albania",
-        "Team 2 Name": "Israel",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmlYE160+IbiB16diFSBIgTZiAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNIh6YYABM6IbiBK79IPiBim155YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Albania vs Israel",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EKSzZJEEFhCUa2GcAWyYIBUPXBNNdSH0L5zCsGmIVW3cRTA+YAcIaSbYeklzXBtlhwjbjNoyUYPamxhBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 04-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fubo Sports Network 3",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-albania-vs-israel/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fubo Sports Network 3",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-albania-vs-israel/2"
             }
         ]
     },
@@ -558,41 +444,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_luxembourg-italy-live-streaming-1337504157/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/luxembourg-vs-italy-football-1540589/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/luxembourg-vs-italy-football-1540589/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/luxembourg-vs-italy-football-1540589/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/luxembourg-vs-italy-football-1540589/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/luxembourg-vs-italy-football-1540589/5"
             }
         ]
     },
