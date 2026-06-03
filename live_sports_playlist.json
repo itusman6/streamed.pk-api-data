@@ -233,6 +233,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Gibraltar",
+        "Team 2 Name": "British Virgin Islands",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhR6sABNgABhDcQmtcZyI+IRCTUEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8w2EPUIhVIACYgYhkChAkzuiCD4EKTG1zBl4ReaJTAmtdaKl0gA.webp",
+        "Match Title": "Gibraltar vs British Virgin Islands",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EAIERmISVhAhmUmMCEgaUiGOwhZQ4GpraQpFXN0GsykIhiqjKYHzADhDbHgf0kuYvcFOE5LoC9oyUYE7AkhJAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 PM | 03-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fubo Sports Network 2",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-gibraltar-vs-british-virgin-islands/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fubo Sports Network 2",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-gibraltar-vs-british-virgin-islands/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -366,35 +395,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Gibraltar",
-        "Team 2 Name": "British Virgin Islands",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhR6sABNgABhDcQmtcZyI+IRCTUEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8w2EPUIhVIACYgYhkChAkzuiCD4EKTG1zBl4ReaJTAmtdaKl0gA.webp",
-        "Match Title": "Gibraltar vs British Virgin Islands",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EAIERmISVhAhmUmMCEgaUiGOwhZQ4GpraQpFXN0GsykIhiqjKYHzADhDbHgf0kuYvcFOE5LoC9oyUYE7AkhJAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 03-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fubo Sports Network 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-gibraltar-vs-british-virgin-islands/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fubo Sports Network 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-gibraltar-vs-british-virgin-islands/2"
             }
         ]
     },
@@ -538,6 +538,20 @@
                 "Language": "English - Twins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-minnesota-twins/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_twins-white-sox-live-streaming-1309304385/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_twins-white-sox-live-streaming-1309304385/2"
             },
             {
                 "Source": "echo",
