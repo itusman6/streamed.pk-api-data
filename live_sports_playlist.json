@@ -79,13 +79,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/boston-red-sox-vs-baltimore-orioles-baseball-178925/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -108,41 +101,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - YES",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-cleveland-guardians-vs-new-york-yankees/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - YES",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-cleveland-guardians-vs-new-york-yankees/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_yankees-guardians-live-streaming-1309188501/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_yankees-guardians-live-streaming-1309188501/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/new-york-yankees-vs-cleveland-guardians-baseball-178917/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -164,34 +122,6 @@
         "Start Time": "05:10 AM | 03-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Reds.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-cincinnati-reds/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Reds.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-cincinnati-reds/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cincinnati-reds-vs-kansas-city-royals-baseball-178921/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cincinnati-reds-vs-kansas-city-royals-baseball-178921/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -229,83 +159,11 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-blue-jays-vs-atlanta-braves/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atlanta-braves-vs-toronto-blue-jays-baseball-178923/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atlanta-braves-vs-toronto-blue-jays-baseball-178923/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22829/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Atlanta Dream",
-        "Team 2 Name": "Connecticut Sun",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Atlanta Dream vs Connecticut Sun",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCDKJeKSCG4gpm-SBSmQFiMYlMkFPsNn1dKlFzBaiWWW6a0wHmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 03-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - PeachtreeTV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-connecticut-sun-vs-atlanta-dream/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - PeachtreeTV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-connecticut-sun-vs-atlanta-dream/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Washington Mystics",
-        "Team 2 Name": "Chicago Sky",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgpuSLhDcQJXVr2q9KLQBMCFJnxRcwZeEXmibTWmDtjREIA.webp",
-        "Match Title": "Washington Mystics vs Chicago Sky",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMgPhgUwMNpDcQUkCQMgU5kFYhn4BYEgp9hs+ijAqdbD+XpZZOky0eqL0oUA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 03-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MNMT",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-washington-mystics/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MNMT",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-washington-mystics/2"
             }
         ]
     },
@@ -335,20 +193,6 @@
                 "Language": "English - Twins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-minnesota-twins/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/minnesota-twins-vs-chicago-white-sox-baseball-178911/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/minnesota-twins-vs-chicago-white-sox-baseball-178911/2"
             },
             {
                 "Source": "golf",
@@ -385,20 +229,6 @@
                 "Language": "English - Brewers.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-milwaukee-brewers/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_brewers-giants-live-streaming-1309191498/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_brewers-giants-live-streaming-1309191498/2"
             },
             {
                 "Source": "echo",
@@ -552,63 +382,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Haiti",
-        "Team 2 Name": "New Zealand",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwFswIcH3UhuIEiBQadIRPsQxcBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQ3MOBjAADCH3cQfEBFyr9ZtYmWFtTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Haiti vs New Zealand",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EMRCJKiLBJAzEQ4BBAwQQkBsQ1gi9YlXjEKZmNPqUakNvMVjfMAOENseYGHpJcxY4IcJyigLGjJRgDkrMSkA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 03-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Premier Sports 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-haiti-vs-new-zealand/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Premier Sports 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-haiti-vs-new-zealand/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_haiti-new-zealand-live-streaming-1337485176/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/haiti-vs-new-zealand-football-1544806/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/haiti-vs-new-zealand-football-1544806/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/haiti-vs-new-zealand-football-1544806/3"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -663,27 +436,6 @@
                 "Language": "English - Marquee Sports Net",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-athletics-vs-chicago-cubs/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_cubs-athletics-live-streaming-1309194495/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_cubs-athletics-live-streaming-1309194495/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chicago-cubs-vs-athletics-baseball-178922/1"
             },
             {
                 "Source": "golf",
@@ -748,35 +500,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22834/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Junior",
-        "Team 2 Name": "Atletico Nacional",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikImz1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgDG9cg3VZxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Junior vs Atletico Nacional",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Junior%20vs%20Atletico%20Nacional&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 03-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/junior-vs-atletico-nacional-football-1546412/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/junior-vs-atletico-nacional-football-1546412/2"
             }
         ]
     },
