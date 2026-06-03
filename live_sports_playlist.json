@@ -383,6 +383,85 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Albania",
+        "Team 2 Name": "Israel",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmlYE160+IbiB16diFSBIgTZiAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNIh6YYABM6IbiBK79IPiBim155YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Albania vs Israel",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EKSzZJEEFhCUa2GcAWyYIBUPXBNNdSH0L5zCsGmIVW3cRTA+YAcIaSbYeklzXBtlhwjbjNoyUYPamxhBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 04-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fubo Sports Network 3",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-albania-vs-israel/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fubo Sports Network 3",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-albania-vs-israel/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "DR Congo",
+        "Team 2 Name": "Denmark",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQgQopMCRg+IbiF041uiCBQgYuXAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "DR Congo vs Denmark",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EIhhjsIaVhClEQ4EOkgBTEBMQDlWZiEWUak3UYkgKGitmB1gfMAOENrKO-SS5irwQ4TlFAq6MlGAOwBDM4UA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 04-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fubo Sports Network 4",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-congo-dr-vs-denmark/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fubo Sports Network 4",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-congo-dr-vs-denmark/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_denmark-dr-congo-live-streaming-1337503158/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/congo-dr-vs-denmark-football-1543822/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/congo-dr-vs-denmark-football-1543822/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -516,85 +595,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Albania",
-        "Team 2 Name": "Israel",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmlYE160+IbiB16diFSBIgTZiAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNIh6YYABM6IbiBK79IPiBim155YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Albania vs Israel",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EKSzZJEEFhCUa2GcAWyYIBUPXBNNdSH0L5zCsGmIVW3cRTA+YAcIaSbYeklzXBtlhwjbjNoyUYPamxhBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 04-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fubo Sports Network 3",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-albania-vs-israel/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fubo Sports Network 3",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-albania-vs-israel/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "DR Congo",
-        "Team 2 Name": "Denmark",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQgQopMCRg+IbiF041uiCBQgYuXAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "DR Congo vs Denmark",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EIhhjsIaVhClEQ4EOkgBTEBMQDlWZiEWUak3UYkgKGitmB1gfMAOENrKO-SS5irwQ4TlFAq6MlGAOwBDM4UA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 04-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fubo Sports Network 4",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-congo-dr-vs-denmark/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fubo Sports Network 4",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-congo-dr-vs-denmark/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_denmark-dr-congo-live-streaming-1337503158/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/congo-dr-vs-denmark-football-1543822/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/congo-dr-vs-denmark-football-1543822/2"
             }
         ]
     },
