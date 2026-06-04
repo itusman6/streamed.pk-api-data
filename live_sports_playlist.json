@@ -280,13 +280,6 @@
                 "Language": "English - FOX Soccer Plus",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-andorra-vs-liechtenstein/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22901/1"
             }
         ]
     },
@@ -666,50 +659,6 @@
         "League": "Football",
         "Team 1 Name": "France",
         "Team 2 Name": "Ivory Coast",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "France - Ivory Coast",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=France%20-%20Ivory%20Coast&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 05-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22905/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "France vs Côte d'Ivoire",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=France%20vs%20C%C3%B4te%20d%27Ivoire&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:10 AM | 05-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_france-cote-divoire-live-streaming-1337527134/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "France",
-        "Team 2 Name": "Ivory Coast",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgha+EHCQgSIbiD64QAEz0nzIHXoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YcGS0huICCBIG9IACZGz++AQpM+KLmDLwi80faa0wjsaIhA.webp",
         "Match Title": "France vs Ivory Coast",
@@ -773,6 +722,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22905/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "France vs Côte d'Ivoire",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=France%20vs%20C%C3%B4te%20d%27Ivoire&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:10 AM | 05-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_france-cote-divoire-live-streaming-1337527134/1"
             }
         ]
     },
