@@ -239,35 +239,6 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "KLM Open | DP World Tour",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=KLM%20Open%20%7C%20DP%20World%20Tour&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 PM | 04-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/klm-open-dp-world-tour-atp1000/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/klm-open-dp-world-tour-atp1000/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
         "Match Title": "LIV Golf Andalusia | LIV Golf Series",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=LIV%20Golf%20Andalusia%20%7C%20LIV%20Golf%20Series&font=Oswald",
         "Match Status": "Live 🔴",
@@ -496,6 +467,13 @@
                 "Language": "English - BBC Two Northern Ireland",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-northern-ireland-vs-guinea/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_northern-ireland-guinea-live-streaming-1337522139/1"
             },
             {
                 "Source": "golf",
@@ -864,6 +842,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-spain-vs-iraq/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_spain-iraq-live-streaming-1337526135/1"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -926,6 +911,28 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/leeds-rhinos-vs-st-helens-game-184842/4"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "France vs Côte d'Ivoire",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=France%20vs%20C%C3%B4te%20d%27Ivoire&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:10 AM | 05-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_france-cote-divoire-live-streaming-1337527134/1"
             }
         ]
     },
@@ -1156,6 +1163,13 @@
                 "Language": "English - FS2",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-czechia-vs-guatemala/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_czechia-guatemala-live-streaming-1337528133/1"
             },
             {
                 "Source": "golf",
@@ -1401,6 +1415,13 @@
                 "Language": "Spanish - FOX Deportes",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-mexico-vs-serbia/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_mexico-serbia-live-streaming-1337529132/1"
             },
             {
                 "Source": "golf",
