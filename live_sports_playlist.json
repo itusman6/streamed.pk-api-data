@@ -621,6 +621,35 @@
     {
         "Category": "Cricket",
         "League": "Cricket",
+        "Team 1 Name": "Somerset t20",
+        "Team 2 Name": "Glamorgan t20",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyggQcKHxAoQ3EABMQJEImMx1JtWoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYACYN+wMCG56QJEChAwQiI0bN8QEAhSZ8UXMGXhF5o501phXY0QggA.webp",
+        "Match Title": "Somerset t20 vs Glamorgan t20",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGHBIw22jm4gpIEiEQQQKEHxDmDEptpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 05-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/mens-vitality-blast-somerset-vs-glamorgan-cricket-hundred-1/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/mens-vitality-blast-somerset-vs-glamorgan-cricket-hundred-1/2"
+            }
+        ]
+    },
+    {
+        "Category": "Cricket",
+        "League": "Cricket",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
@@ -752,35 +781,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "Somerset t20",
-        "Team 2 Name": "Glamorgan t20",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyggQcKHxAoQ3EABMQJEImMx1JtWoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYACYN+wMCG56QJEChAwQiI0bN8QEAhSZ8UXMGXhF5o501phXY0QggA.webp",
-        "Match Title": "Somerset t20 vs Glamorgan t20",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGHBIw22jm4gpIEiEQQQKEHxDmDEptpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 05-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/mens-vitality-blast-somerset-vs-glamorgan-cricket-hundred-1/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/mens-vitality-blast-somerset-vs-glamorgan-cricket-hundred-1/2"
             }
         ]
     },
