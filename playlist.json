@@ -1,53 +1,5 @@
 [
     {
-        "Category": "WNBA",
-        "League": "WNBA",
-        "Team 1 Name": "Minnesota Lynx",
-        "Team 2 Name": "Golden State Valkyries",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Minnesota Lynx VS Golden State Valkyries",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Minnesota%20Lynx%20VS%20Golden%20State%20Valkyries&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "07:00 AM 05-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===QMxcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "MLB",
-        "League": "MLB",
-        "Team 1 Name": "Arizona Diamondbacks",
-        "Team 2 Name": "Los Angeles Dodgers",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Arizona Diamondbacks VS Los Angeles Dodgers",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Arizona%20Diamondbacks%20VS%20Los%20Angeles%20Dodgers&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "07:40 AM 05-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===AMwYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "INTERNATIONAL FRIENDLY",
-        "League": "INTERNATIONAL FRIENDLY",
-        "Team 1 Name": "Mexico",
-        "Team 2 Name": "Serbia",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Mexico VS Serbia",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Mexico%20VS%20Serbia&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "08:00 AM 05-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===QNxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
         "Category": "FORMULA 1",
         "League": "FORMULA 1",
         "Team 1 Name": "Monaco Grand Prix",
@@ -56,7 +8,7 @@
         "Team 2 Logo": "",
         "Match Title": "Monaco Grand Prix VS Practice 1",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Monaco%20Grand%20Prix%20VS%20Practice%201&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "05:30 PM 05-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
