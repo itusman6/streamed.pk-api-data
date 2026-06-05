@@ -247,20 +247,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-chicago-cubs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-chicago-cubs/2"
-            },
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -293,8 +279,8 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "Edward Vazquez",
-        "Team 2 Name": "Daniel Lugo",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "Vazquez vs Lugo",
@@ -309,13 +295,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live-event_vazquez-vs-lugo-live-stream/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22930/1"
             }
         ]
     },
@@ -506,6 +485,20 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-seattle-mariners-vs-detroit-tigers/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_tigers-mariners-live-streaming-1309552137/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_tigers-mariners-live-streaming-1309552137/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -547,6 +540,13 @@
                 "Language": "English - NBC Sports Phil",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-philadelphia-phillies/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_phillies-white-sox-live-streaming-1309553136/1"
             },
             {
                 "Source": "echo",
