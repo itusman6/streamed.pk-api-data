@@ -338,13 +338,6 @@
                 "Language": "English - Sky Sport 6 NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-azerbaijan-vs-malta/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_azerbaijan-malta-live-streaming-1337546115/1"
             }
         ]
     },
@@ -565,6 +558,28 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Edward Vazquez",
+        "Team 2 Name": "Daniel Lugo",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Vazquez vs Lugo",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vazquez%20vs%20Lugo&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "03:30 AM | 06-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22930/1"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Paraguay",
@@ -583,28 +598,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_paraguay-nicaragua-live-streaming-1337547114/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Edward Vazquez",
-        "Team 2 Name": "Daniel Lugo",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Vazquez v Lugo",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vazquez%20v%20Lugo&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:30 AM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22930/1"
             }
         ]
     },
