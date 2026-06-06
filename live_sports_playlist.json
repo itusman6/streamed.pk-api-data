@@ -18,49 +18,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedstreams.top/embed/delta/live-event_tuff-n-uff-154-live-stream/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/ppv-event-03-tuff-n-uff-154-ppv-03/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/ppv-event-03-tuff-n-uff-154-ppv-03/2"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "North Melbourne Kangaroos",
-        "Team 2 Name": "Fremantle Dockers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREDHrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQA+uQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Match Title": "North Melbourne Kangaroos vs Fremantle Dockers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Melbourne%20Kangaroos%20vs%20Fremantle%20Dockers&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:15 AM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/north-melbourne-kangaroos-vs-fremantle-dockers-australian-football-3453/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/north-melbourne-kangaroos-vs-fremantle-dockers-australian-football-3453/2"
             }
         ]
     },
@@ -90,6 +47,64 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedstreams.top/embed/echo/motogp-grand-prix-of-hungary-game-122273/2"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Chiefs Super Rugby",
+        "Team 2 Name": "Queensland Reds",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIQQKZrDBIQ3ECX2G9anCF3qCFJnw1swZeEXmiNTWmHtjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gIIFBrFIQqkiH3r1q1QBM1IDYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Chiefs Super Rugby vs Queensland Reds",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBIhaWMQAYQ3EFJB8QWkKcPHLIBUyQU+w2fRSa2KLpvL1doryZaMA96UQggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:05 PM | 06-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/echo/chiefs-vs-reds-rugby-53252/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/echo/chiefs-vs-reds-rugby-53252/2"
+            }
+        ]
+    },
+    {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Gold Coast Football Club",
+        "Team 2 Name": "Brisbane Lions",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0qiPiAH4Q3LSER6SIFLhDGAJiBgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATNWHDqYIbiAgg++kDsQhzukwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Gold Coast Football Club vs Brisbane Lions",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiG5heEXNk0g+h3CBggUJixpQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:15 PM | 06-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/echo/gold-coast-suns-vs-brisbane-lions-australian-football-3454/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/echo/gold-coast-suns-vs-brisbane-lions-australian-football-3454/2"
             }
         ]
     },
@@ -227,64 +242,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedstreams.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Chiefs Super Rugby",
-        "Team 2 Name": "Queensland Reds",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIQQKZrDBIQ3ECX2G9anCF3qCFJnw1swZeEXmiNTWmHtjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gIIFBrFIQqkiH3r1q1QBM1IDYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Chiefs Super Rugby vs Queensland Reds",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBIhaWMQAYQ3EFJB8QWkKcPHLIBUyQU+w2fRSa2KLpvL1doryZaMA96UQggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:05 PM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/chiefs-vs-reds-rugby-53252/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/chiefs-vs-reds-rugby-53252/2"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Gold Coast Football Club",
-        "Team 2 Name": "Brisbane Lions",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0qiPiAH4Q3LSER6SIFLhDGAJiBgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATNWHDqYIbiAgg++kDsQhzukwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Gold Coast Football Club vs Brisbane Lions",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiG5heEXNk0g+h3CBggUJixpQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:15 PM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/gold-coast-suns-vs-brisbane-lions-australian-football-3454/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/gold-coast-suns-vs-brisbane-lions-australian-football-3454/2"
             }
         ]
     },
