@@ -65,6 +65,42 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Edward Vazquez",
+        "Team 2 Name": "Daniel Lugo",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Vazquez v Lugo",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vazquez%20v%20Lugo&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 06-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/echo/ppv-event-04-vazquez-v-lugo-ppv-004/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/echo/ppv-event-04-vazquez-v-lugo-ppv-004/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/golf/22930/1"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Philadelphia Phillies",
