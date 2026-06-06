@@ -2,28 +2,6 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "Josh Padley",
-        "Team 2 Name": "Aqib Fiaz",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Josh Padley vs Aqib Fiaz",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKollhWYFKRC8QWECZghpJgyDMXJ+YEgpYRcxijCq9HD+UbU5evb0YB7iYhBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/22970/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
@@ -142,56 +120,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_chris-billam-smith-vs-ryan-rozicki-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "PDC World Series of Darts (Nordic Darts Masters)  🎯",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PDC%20World%20Series%20of%20Darts%20%28Nordic%20Darts%20Masters%29%20%20%F0%9F%8E%AF&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/pdc-world-series-of-darts-nordic-darts-masters-darts-1/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/pdc-world-series-of-darts-nordic-darts-masters-darts-1/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/pdc-world-series-of-darts-nordic-darts-masters-darts-1/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/pdc-world-series-of-darts-nordic-darts-masters-darts-1/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/pdc-world-series-of-darts-nordic-darts-masters-darts-1/5"
             }
         ]
     },
@@ -417,27 +345,6 @@
                 "Language": "English - Space City Home Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-houston-astros/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_astros-athletics-live-streaming-1309701987/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_astros-athletics-live-streaming-1309701987/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/houston-astros-vs-athletics-baseball-178974/1"
             },
             {
                 "Source": "golf",
@@ -843,6 +750,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Worlf of Outlaws Sprint Cars Plymouth",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Worlf%20of%20Outlaws%20Sprint%20Cars%20Plymouth&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 07-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-18-worlf-of-outlaws-sprint-cars-plymouth-ppv-18/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-18-worlf-of-outlaws-sprint-cars-plymouth-ppv-18/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -980,35 +916,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Worlf of Outlaws Sprint Cars Plymouth",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Worlf%20of%20Outlaws%20Sprint%20Cars%20Plymouth&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-18-worlf-of-outlaws-sprint-cars-plymouth-ppv-18/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-18-worlf-of-outlaws-sprint-cars-plymouth-ppv-18/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "New York Yankees",
@@ -1119,6 +1026,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/22926/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Fight to Win 316",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fight%20to%20Win%20316&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 07-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-10-fight-to-win-316-ppv-10/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-10-fight-to-win-316-ppv-10/2"
             }
         ]
     },
