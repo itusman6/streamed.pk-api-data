@@ -468,13 +468,6 @@
                 "Language": "English - ITV1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-england-vs-new-zealand/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/22945/1"
             }
         ]
     },
@@ -504,35 +497,6 @@
                 "Language": "English - BBC Two",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bolivia-vs-scotland/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/22944/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Qatar",
-        "Team 2 Name": "El Salvador",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiwIQtFNnUhuIACYgIuEHxAwQFgxeWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwFJmuXKRDcQJEChCGdiCIY0wCFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Match Title": "Qatar vs El Salvador",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Qatar%20vs%20El%20Salvador&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:00 AM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_int-friendly-games_qatar-el-salvador-live-streaming-1337598063/1"
             }
         ]
     },
