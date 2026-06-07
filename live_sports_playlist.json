@@ -1124,6 +1124,71 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "2026 NASCAR Cup Series at Michigan",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20NASCAR%20Cup%20Series%20at%20Michigan&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 08-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_2026-nascar-cup-series-at-michigan-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Ecuador",
+        "Team 2 Name": "Guatemala",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMBoAmuMChDcQJEPsP6QJkIhgGCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYNdxB8QUkJu0QQKPSBJbTJmAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Ecuador vs Guatemala",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNeKRABjYBElVpIYcEQwRIGNOAKpIBZppYQWdYgh6Q5tUZlGTVFOTkChIptnphCwJLimOhMG5OOWUyRwIVciDZUlkgA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 08-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - PPV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-guatemala/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - PPV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-guatemala/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ecuador-vs-guatemala-football-1542182/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ecuador-vs-guatemala-football-1542182/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1257,71 +1322,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "2026 NASCAR Cup Series at Michigan",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20NASCAR%20Cup%20Series%20at%20Michigan&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 08-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_2026-nascar-cup-series-at-michigan-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Ecuador",
-        "Team 2 Name": "Guatemala",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMBoAmuMChDcQJEPsP6QJkIhgGCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYNdxB8QUkJu0QQKPSBJbTJmAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Ecuador vs Guatemala",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNeKRABjYBElVpIYcEQwRIGNOAKpIBZppYQWdYgh6Q5tUZlGTVFOTkChIptnphCwJLimOhMG5OOWUyRwIVciDZUlkgA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 AM | 08-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "German - SPORTDIGITAL FUSSBALL",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-guatemala/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "German - SPORTDIGITAL FUSSBALL",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-guatemala/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ecuador-vs-guatemala-football-1542182/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ecuador-vs-guatemala-football-1542182/2"
             }
         ]
     },
