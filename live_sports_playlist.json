@@ -196,20 +196,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Twins.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-minnesota-twins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Twins.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-minnesota-twins/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -232,20 +218,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Space City Home Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-houston-astros/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Space City Home Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-houston-astros/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -267,20 +239,6 @@
         "Start Time": "12:15 AM | 08-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Cardinals.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-st-louis-cardinals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Cardinals.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-st-louis-cardinals/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -395,35 +353,6 @@
                 "Language": "English - TSN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-sky-vs-toronto-tempo/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/22951/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "North Carolina Tar Heels vs USC Trojans",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Carolina%20Tar%20Heels%20vs%20USC%20Trojans&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 08-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_north-carolina-tar-heels-usc-trojans-live-streaming-1341480177/1"
             }
         ]
     },
@@ -510,13 +439,6 @@
                 "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-arizona-diamondbacks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-nationals-live-streaming-1309865823/1"
             },
             {
                 "Source": "echo",
@@ -736,6 +658,71 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Oklahoma Sooners vs Kansas Jayhawks",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oklahoma%20Sooners%20vs%20Kansas%20Jayhawks&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 08-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_oklahoma-sooners-kansas-jayhawks-live-streaming-1338550110/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "St Louis BattleHawks",
+        "Team 2 Name": "Louisville Kings",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwFoQcCCC0oQ3EABMQfA1pA7DMXCGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQUCSm1ghuIPnpAwQAEwNGcIEPAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "St Louis BattleHawks vs Louisville Kings",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGMQWEBNIhhskCQXKQKdevlkyEEFWlqaMxTKkzEevcfUpyEUGEEim2emELAkuCXaFPWB2FSegJgeHInYAddIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 08-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - FOX",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-louisville-kings-vs-st-louis-battlehawks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - FOX",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-louisville-kings-vs-st-louis-battlehawks/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ufl-knockout-stage_st-louis-battlehawks-louisville-kings-live-streaming-1338046614/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ufl-knockout-stage_st-louis-battlehawks-louisville-kings-live-streaming-1338046614/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -869,71 +856,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Oklahoma Sooners vs Kansas Jayhawks",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oklahoma%20Sooners%20vs%20Kansas%20Jayhawks&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 08-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_oklahoma-sooners-kansas-jayhawks-live-streaming-1338550110/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "St Louis BattleHawks",
-        "Team 2 Name": "Louisville Kings",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwFoQcCCC0oQ3EABMQfA1pA7DMXCGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQUCSm1ghuIPnpAwQAEwNGcIEPAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "St Louis BattleHawks vs Louisville Kings",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGMQWEBNIhhskCQXKQKdevlkyEEFWlqaMxTKkzEevcfUpyEUGEEim2emELAkuCXaFPWB2FSegJgeHInYAddIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 08-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-louisville-kings-vs-st-louis-battlehawks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-louisville-kings-vs-st-louis-battlehawks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ufl-knockout-stage_st-louis-battlehawks-louisville-kings-live-streaming-1338046614/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ufl-knockout-stage_st-louis-battlehawks-louisville-kings-live-streaming-1338046614/2"
             }
         ]
     },
