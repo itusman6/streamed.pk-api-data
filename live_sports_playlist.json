@@ -245,6 +245,35 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
+        "Match Title": "Women's VNL 2026 | China v Poland",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICMEQ0swKiBLiQiLEpAoQMDSGHaQMhSp1kZiHXJAgAxiJHy1wCb3ISBQmwWz0whYElyWUNzBuTglhUnoPeHJghwiIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 PM | 07-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - VBTV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-women-s-vnl-2026-china-v-poland/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - VBTV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-women-s-vnl-2026-china-v-poland/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "LIV Golf Andalusia | LIV Golf Series",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=LIV%20Golf%20Andalusia%20%7C%20LIV%20Golf%20Series&font=Oswald",
         "Match Status": "Live 🔴",
@@ -654,6 +683,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-atlanta-braves/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atlanta-braves-vs-pittsburgh-pirates-baseball-178993/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -731,6 +767,13 @@
                 "Language": "English - NBC Sports Phil",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-philadelphia-phillies/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/philadelphia-phillies-vs-chicago-white-sox-baseball-178985/1"
             },
             {
                 "Source": "golf",
@@ -812,6 +855,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-detroit-tigers/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-seattle-mariners-baseball-178990/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -846,6 +896,13 @@
                 "Language": "English - Marlins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-miami-marlins/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/miami-marlins-vs-tampa-bay-rays-baseball-178988/1"
             },
             {
                 "Source": "golf",
@@ -949,6 +1006,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-houston-astros/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/houston-astros-vs-athletics-baseball-178987/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -983,6 +1047,13 @@
                 "Language": "English - Twins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-minnesota-twins/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/minnesota-twins-vs-kansas-city-royals-baseball-178980/1"
             },
             {
                 "Source": "golf",
