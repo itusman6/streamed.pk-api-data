@@ -44,24 +44,38 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Oregon Ducks vs Texas Longhorns",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oregon%20Ducks%20vs%20Texas%20Longhorns&font=Oswald",
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Collingwood Magpies",
+        "Team 2 Name": "Melbourne Demons",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQEeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Match Title": "Collingwood Magpies vs Melbourne Demons",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Collingwood%20Magpies%20vs%20Melbourne%20Demons&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 08-Jun",
+        "Start Time": "11:15 AM | 08-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "echo",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_oregon-ducks-texas-live-streaming-1338551109/1"
+                "Embed_URL": "https://embed.st/embed/echo/collingwood-magpies-vs-melbourne-demons-australian-football-3458/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/collingwood-magpies-vs-melbourne-demons-australian-football-3458/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/collingwood-magpies-vs-melbourne-demons-australian-football-3458/3"
             }
         ]
     },
@@ -203,42 +217,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Collingwood Magpies",
-        "Team 2 Name": "Melbourne Demons",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQEeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Match Title": "Collingwood Magpies vs Melbourne Demons",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Collingwood%20Magpies%20vs%20Melbourne%20Demons&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:15 AM | 08-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/collingwood-magpies-vs-melbourne-demons-australian-football-3458/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/collingwood-magpies-vs-melbourne-demons-australian-football-3458/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/collingwood-magpies-vs-melbourne-demons-australian-football-3458/3"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Canterbury Bankstown Bulldogs",
@@ -248,9 +226,23 @@
         "Match Title": "Canterbury Bankstown Bulldogs vs Parramatta Eels",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VelmBSaIEiG4g+IKSFN6DiA1YLAkFPsNn0UYFSi6vyG2e6a0wrmKiEEA.webp",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 PM | 08-Jun",
+        "Start Time": "12:05 PM | 08-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bulldogs-vs-eels/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bulldogs-vs-eels/2"
+            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -381,6 +373,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MASN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-baltimore-orioles/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MASN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-baltimore-orioles/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -402,6 +408,20 @@
         "Start Time": "04:40 AM | 09-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CLEGuardians.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-cleveland-guardians/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CLEGuardians.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-cleveland-guardians/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -425,6 +445,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Rays.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-tampa-bay-rays/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Rays.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-tampa-bay-rays/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -446,6 +480,20 @@
         "Start Time": "05:00 AM | 09-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Peacock",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-washington-mystics/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Peacock",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-washington-mystics/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -469,6 +517,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC Sports BO",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-connecticut-sun/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC Sports BO",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-connecticut-sun/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -490,6 +552,20 @@
         "Start Time": "05:07 AM | 09-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sportsnet One",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-toronto-blue-jays/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sportsnet One",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-toronto-blue-jays/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -513,6 +589,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ABC",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-new-york-knicks/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ABC",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-new-york-knicks/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -534,6 +624,20 @@
         "Start Time": "07:38 AM | 09-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Angels.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-los-angeles-angels/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Angels.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-los-angeles-angels/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -557,6 +661,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Gray Media",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-san-diego-padres/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Gray Media",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-san-diego-padres/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -578,6 +696,20 @@
         "Start Time": "07:45 AM | 09-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC Sports BA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-san-francisco-giants/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC Sports BA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-san-francisco-giants/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -601,6 +733,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - USA Net",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-las-vegas-aces/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - USA Net",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-las-vegas-aces/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -622,6 +768,20 @@
         "Start Time": "08:05 AM | 09-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC Sports CA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-athletics/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC Sports CA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-athletics/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
