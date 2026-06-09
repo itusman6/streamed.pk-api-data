@@ -168,20 +168,6 @@
                 "Language": "English - NBC Sports BO",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-connecticut-sun/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_connecticut-liberty-live-streaming-1210858929/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/22972/1"
             }
         ]
     },
@@ -211,20 +197,6 @@
                 "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-washington-mystics/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_mystics-fever-live-streaming-1210859928/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/22973/1"
             }
         ]
     },
@@ -254,13 +226,6 @@
                 "Language": "English - Sportsnet One",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-toronto-blue-jays/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_blue-jays-phillies-live-streaming-1309962726/1"
             },
             {
                 "Source": "echo",
@@ -563,6 +528,127 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Peru",
+        "Team 2 Name": "Spain",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplGF4YJD0ghuIErhAodICCZDndjCkz4ouYMuvrzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhya0+YbmBTYQ3EH1wgAJruNmUICLgIUmfFFzBl4ReaIergYJ2NEQgA.webp",
+        "Match Title": "Peru vs Spain",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMjUQoQEESBggqIZbOFyQ2UsAghEw3SDU6sBmiXGGQKbVtklr-MIJFNNDwsCS4AxtaFPWVS1rAmB4cicbMgggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 09-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sport 2 NZ",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-peru-vs-spain/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sport 2 NZ",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-peru-vs-spain/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_int-friendly-games_spain-peru-live-streaming-1344986667/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/peru-vs-spain-football-1540356/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/peru-vs-spain-football-1540356/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/peru-vs-spain-football-1540356/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/peru-vs-spain-football-1540356/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23008/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Las Vegas Aces",
+        "Team 2 Name": "Seattle Storm",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8wSEDBB8wIENxAATXCAiaQiAySNGCFJn1VswZeEXmjVTWmBdjREEA.webp",
+        "Match Title": "Las Vegas Aces vs Seattle Storm",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMDDswogAxgpIbiD4gSIC6cQ4UIW1ILAkFPsNn0UOthrY7y9LFkNJlowL3pRCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 09-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - USA Net",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-las-vegas-aces/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - USA Net",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-las-vegas-aces/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_las-vegas-storm-live-streaming-1210860927/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_las-vegas-storm-live-streaming-1210860927/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/22974/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -696,127 +782,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Peru",
-        "Team 2 Name": "Spain",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplGF4YJD0ghuIErhAodICCZDndjCkz4ouYMuvrzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhya0+YbmBTYQ3EH1wgAJruNmUICLgIUmfFFzBl4ReaIergYJ2NEQgA.webp",
-        "Match Title": "Peru vs Spain",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMjUQoQEESBggqIZbOFyQ2UsAghEw3SDU6sBmiXGGQKbVtklr-MIJFNNDwsCS4AxtaFPWVS1rAmB4cicbMgggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 09-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sport 2 NZ",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-peru-vs-spain/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sport 2 NZ",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-peru-vs-spain/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_int-friendly-games_spain-peru-live-streaming-1344986667/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/peru-vs-spain-football-1540356/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/peru-vs-spain-football-1540356/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/peru-vs-spain-football-1540356/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/peru-vs-spain-football-1540356/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23008/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Las Vegas Aces",
-        "Team 2 Name": "Seattle Storm",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8wSEDBB8wIENxAATXCAiaQiAySNGCFJn1VswZeEXmjVTWmBdjREEA.webp",
-        "Match Title": "Las Vegas Aces vs Seattle Storm",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMDDswogAxgpIbiD4gSIC6cQ4UIW1ILAkFPsNn0UOthrY7y9LFkNJlowL3pRCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 09-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - USA Net",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-las-vegas-aces/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - USA Net",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-las-vegas-aces/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_las-vegas-storm-live-streaming-1210860927/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_las-vegas-storm-live-streaming-1210860927/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/22974/1"
             }
         ]
     },
