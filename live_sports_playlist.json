@@ -44,35 +44,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Málaga",
-        "Team 2 Name": "Las Palmas",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJxuYFGAAm2ENxAQQfEIhIgYuEChBnGFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksK7gUDEN00gAJtr0QQhxHpiaCFJn3VswZeEXmj1TWmDtjREIA.webp",
-        "Match Title": "Málaga vs Las Palmas",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCjrZiIENxB8QJIyAi49pixKZIKfYbPoowKzWxfl6WWZqa0wLmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 11-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - LALIGA 2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-m-laga-vs-las-palmas/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - LALIGA 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-m-laga-vs-las-palmas/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "San Francisco Giants",
@@ -520,6 +491,13 @@
                 "Language": "English - MASN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-baltimore-orioles/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_orioles-mariners-live-streaming-1327518153/1"
             },
             {
                 "Source": "echo",
