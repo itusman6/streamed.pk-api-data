@@ -217,20 +217,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Royals.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-kansas-city-royals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Royals.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-kansas-city-royals/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -252,27 +238,6 @@
         "Start Time": "05:40 AM | 10-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CHSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-chicago-white-sox/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CHSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-chicago-white-sox/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_white-sox-braves-live-streaming-1327401270/1"
-            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -326,35 +291,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Minnesota Lynx",
-        "Team 2 Name": "Dallas Wings",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgkYFGF6skIbiBIHcRkCAAmekChDwCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm-ENw2wwfDSBL7chkIZQhdMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Minnesota Lynx vs Dallas Wings",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhAgookOxDcQUkCQMgU5rdusoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 10-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Victory+ MIN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-minnesota-lynx/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Victory+ MIN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-minnesota-lynx/2"
-            }
-        ]
-    },
-    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "Vegas Golden Knights",
@@ -382,20 +318,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-vegas-golden-knights/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl-playoffs_golden-knights-hurricanes-live-streaming-1335467196/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl-playoffs_golden-knights-hurricanes-live-streaming-1335467196/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -408,64 +330,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/22988/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "WWE: NXT",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiBKSQKSaRAwQSqRKylgEeRDmIpwkSEQ0sCgxP1qJAYxBUU5TQKEim2emELAkuK-aFhuTk19MnsCYHhyAI11CCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 10-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CW",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-nxt/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CW",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-nxt/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Hight Limit Racing at Eagle",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hight%20Limit%20Racing%20at%20Eagle&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 10-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-05-hight-limit-racing-at-eagle-ppv-05/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-05-hight-limit-racing-at-eagle-ppv-05/2"
             }
         ]
     },
@@ -566,34 +430,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_int-friendly-games_argentina-iceland-live-streaming-1345002651/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/argentina-vs-iceland-football-1540357/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/argentina-vs-iceland-football-1540357/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/argentina-vs-iceland-football-1540357/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/argentina-vs-iceland-football-1540357/4"
             },
             {
                 "Source": "golf",
@@ -1148,8 +984,8 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "24 Hours of Le Mans - Practice 1",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgsIEMAjYpIGmWEhE8+VmA1pw4OtL6QMEPKohVM+HOzaQKO1gf8wgkU1vPCwJLnEOhV1Z5PTIHAn1yVxsyCCA.webp",
+        "Match Title": "24 Hours of Le Mans - Qualifying",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkMOwgU0kDSogsi4DXEkQ8bCpABjEDA2l9IE4iULJqiaWCIDEFOQigwgkUy2OwhYElw7HIVdWZ0kyRwJbcldgZzIIIA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "02:00 AM | 11-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1159,14 +995,14 @@
                 "Stream_No": 1,
                 "Language": "English - FIA WEC",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-practice-1/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-qualifying/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
                 "Language": "English - FIA WEC",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-practice-1/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-qualifying/2"
             }
         ]
     },
