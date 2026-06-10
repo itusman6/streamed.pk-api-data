@@ -13,20 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports BA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-san-francisco-giants/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports BA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-san-francisco-giants/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -97,13 +83,6 @@
                 "Language": "English - ITV1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-costa-rica/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_int-friendly-games_england-costa-rica-live-streaming-1345035618/1"
             }
         ]
     },
@@ -594,6 +573,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "York United",
+        "Team 2 Name": "Cavalry FC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfopDx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfiCIgU9cgwDGzcT3giq3Al1ZgwufFaA.webp",
+        "Match Title": "York United vs Cavalry FC",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=York%20United%20vs%20Cavalry%20FC&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 11-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/york-united-vs-cavalry-fc-football-1517299/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/york-united-vs-cavalry-fc-football-1517299/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -727,35 +735,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "York United",
-        "Team 2 Name": "Cavalry FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfopDx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfiCIgU9cgwDGzcT3giq3Al1ZgwufFaA.webp",
-        "Match Title": "York United vs Cavalry FC",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=York%20United%20vs%20Cavalry%20FC&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 11-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/york-united-vs-cavalry-fc-football-1517299/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/york-united-vs-cavalry-fc-football-1517299/2"
             }
         ]
     },
@@ -1077,6 +1056,20 @@
                 "Language": "English - NBC Sports CA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-athletics/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/athletics-vs-milwaukee-brewers-baseball-179031/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/athletics-vs-milwaukee-brewers-baseball-179031/2"
             },
             {
                 "Source": "golf",
