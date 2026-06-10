@@ -115,6 +115,20 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-twins-live-streaming-1327395276/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-minnesota-twins-baseball-179012/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-minnesota-twins-baseball-179012/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -159,20 +173,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sportsnet One",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-toronto-blue-jays/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sportsnet One",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-toronto-blue-jays/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -194,20 +194,6 @@
         "Start Time": "05:10 AM | 10-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - SNY",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-new-york-mets/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - SNY",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-new-york-mets/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -486,20 +472,6 @@
                 "Language": "English - CW",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-nxt/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/wwe-nxt-wwe2026/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/wwe-nxt-wwe2026/2"
             }
         ]
     },
