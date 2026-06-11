@@ -42,27 +42,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MASN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-baltimore-orioles/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MASN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-baltimore-orioles/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/baltimore-orioles-vs-seattle-mariners-baseball-179030/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -99,13 +78,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-miami-marlins/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/miami-marlins-vs-arizona-diamondbacks-baseball-179018/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -140,13 +112,6 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-pittsburgh-pirates/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/pittsburgh-pirates-vs-los-angeles-dodgers-baseball-179022/1"
             },
             {
                 "Source": "golf",
@@ -211,71 +176,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23047/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "USAC Indiana Midget Week Paragon  🔥",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Indiana%20Midget%20Week%20Paragon%20%20%F0%9F%94%A5&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:45 AM | 11-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-usac-indiana-midget-week-paragon-ppv-02/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-usac-indiana-midget-week-paragon-ppv-02/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Toronto Tempo",
-        "Team 2 Name": "Connecticut Sun",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS4hKYXmBRgkfELxBZDIE9RAkTIRBEMEK+ASh5gy8IgrFOH9MC-FiIIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Toronto Tempo vs Connecticut Sun",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGlhAxsIkAGNgNEiBTAIsmlRDCQyhZLm618kOoinS245KzXdq-mEEimMh4WBJcc1UKet1YVJ6AmB4cic1YIggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 11-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-connecticut-sun-vs-toronto-tempo/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-connecticut-sun-vs-toronto-tempo/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_tempo-connecticut-live-streaming-1210866921/1"
             }
         ]
     },
@@ -362,13 +262,6 @@
                 "Language": "English - Cardinals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-new-york-mets/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/new-york-mets-vs-stlouis-cardinals-baseball-179023/1"
             },
             {
                 "Source": "golf",
