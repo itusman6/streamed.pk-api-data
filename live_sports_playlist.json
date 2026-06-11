@@ -72,56 +72,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Mexico vs South Africa (GERMAN & SPANISH)",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mexico%20vs%20South%20Africa%20%28GERMAN%20%26%20SPANISH%29&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 11-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/mexico-vs-south-africa-german-spanish-game-111/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/mexico-vs-south-africa-german-spanish-game-111/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/mexico-vs-south-africa-german-spanish-game-111/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/mexico-vs-south-africa-german-spanish-game-111/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/mexico-vs-south-africa-german-spanish-game-111/5"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Miami Marlins",
@@ -295,8 +245,8 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "FIFA World Cup Opening Ceremony",
-        "Team 2 Name": "Mexico",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "World Cup 2026 Opening Ceremony",
@@ -456,18 +406,54 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-rangers-live-streaming-1327632039/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/kansas-city-royals-vs-texas-rangers-baseball-179037/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23089/1"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "St Helens",
+        "Team 2 Name": "Warrington Wolves",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgYQbT4huIbTBAATI7hAGQeswQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplq8UXJMAAMIbiAAmIEgZB8Q5lCb36CFJn3VswZeEXmj1TWmGdjREIA.webp",
+        "Match Title": "St Helens vs Warrington Wolves",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGa15QIIGCG4g+IKSBIhz5nJZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 12-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/st-helens-vs-warrington-wolves-game-184842/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/st-helens-vs-warrington-wolves-game-184842/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/st-helens-vs-warrington-wolves-game-184842/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/st-helens-vs-warrington-wolves-game-184842/4"
             }
         ]
     },
@@ -587,50 +573,71 @@
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23120/1"
+                "Embed_URL": "https://embed.st/embed/golf/23004/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23004/2"
             }
         ]
     },
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "St Helens",
-        "Team 2 Name": "Warrington Wolves",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgYQbT4huIbTBAATI7hAGQeswQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplq8UXJMAAMIbiAAmIEgZB8Q5lCb36CFJn3VswZeEXmj1TWmGdjREIA.webp",
-        "Match Title": "St Helens vs Warrington Wolves",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGa15QIIGCG4g+IKSBIhz5nJZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Colorado Rockies",
+        "Team 2 Name": "Chicago Cubs",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "Match Title": "Colorado Rockies vs Chicago Cubs",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv3whqwWShAkQvEFhBmY2kPv3SQEENJZIKWEXMYowqlDy-lGOmI++KzAYF7iYhBAA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 12-Jun",
+        "Start Time": "01:10 AM | 12-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Marquee Sports Net",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-colorado-rockies/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Marquee Sports Net",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-colorado-rockies/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-cubs-live-streaming-1327633038/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-cubs-live-streaming-1327633038/2"
+            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/st-helens-vs-warrington-wolves-game-184842/1"
+                "Embed_URL": "https://embed.st/embed/echo/colorado-rockies-vs-chicago-cubs-baseball-179038/1"
             },
             {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/st-helens-vs-warrington-wolves-game-184842/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/st-helens-vs-warrington-wolves-game-184842/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/st-helens-vs-warrington-wolves-game-184842/4"
+                "Embed_URL": "https://embed.st/embed/golf/23090/1"
             }
         ]
     },
@@ -768,63 +775,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Colorado Rockies",
-        "Team 2 Name": "Chicago Cubs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Match Title": "Colorado Rockies vs Chicago Cubs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv3whqwWShAkQvEFhBmY2kPv3SQEENJZIKWEXMYowqlDy-lGOmI++KzAYF7iYhBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:10 AM | 12-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-colorado-rockies/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-colorado-rockies/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-cubs-live-streaming-1327633038/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-cubs-live-streaming-1327633038/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/colorado-rockies-vs-chicago-cubs-baseball-179038/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23090/1"
             }
         ]
     },
