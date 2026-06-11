@@ -99,20 +99,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-miami-marlins/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-diamondbacks-live-streaming-1327630041/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-diamondbacks-live-streaming-1327630041/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -213,20 +199,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-detroit-tigers/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-twins-live-streaming-1327629042/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-twins-live-streaming-1327629042/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -249,26 +221,12 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "World Cup 2026 Opening Ceremony",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20Cup%202026%20Opening%20Ceremony&font=Oswald",
+        "Match Title": "FIFA World Cup Opening Ceremony: Mexico 🏆",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=FIFA%20World%20Cup%20Opening%20Ceremony%3A%20Mexico%20%F0%9F%8F%86&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "11:30 PM | 11-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_world-cup-2026-opening-ceremony-live-stream/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_world-cup-2026-opening-ceremony-live-stream/2"
-            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -332,35 +290,6 @@
                 "Language": "English - FIA WEC",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-hyperpole/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "24 Hours of Le Mans - Practice 4",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCGEgYIeMBoRZwRSFUjl01SCohFNLPMlLEUiXIkBjWSBJadJFOQigwg9QWz0whYElwXHIVdWZ2FSeg85MFdlcIggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 12-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FIA WEC",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-practice-4/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FIA WEC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-practice-4/2"
             }
         ]
     },
