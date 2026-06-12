@@ -73,6 +73,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "World Cup 2026 Opening Ceremony: Canada",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20Cup%202026%20Opening%20Ceremony%3A%20Canada&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:30 PM | 12-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_world-cup-2026-opening-ceremony-canada-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23121/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -206,35 +235,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "World Cup 2026 Opening Ceremony: Canada",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20Cup%202026%20Opening%20Ceremony%3A%20Canada&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:30 PM | 12-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_world-cup-2026-opening-ceremony-canada-live-stream/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23121/1"
             }
         ]
     },
