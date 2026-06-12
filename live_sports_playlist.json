@@ -13,20 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MLB.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-pittsburgh-pirates/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MLB.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-pittsburgh-pirates/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -39,35 +25,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23091/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "USAC Indiana Midget Week Lincoln 💥",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Indiana%20Midget%20Week%20Lincoln%20%F0%9F%92%A5&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:45 AM | 12-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-usac-indiana-midget-week-lincoln-ppv-01/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-usac-indiana-midget-week-lincoln-ppv-01/2"
             }
         ]
     },
@@ -190,13 +147,6 @@
                 "Language": "English - Atlanta News First",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-atlanta-dream/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23082/1"
             }
         ]
     },
@@ -233,28 +183,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23093/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Weekly Racing Thunder Road",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Weekly%20Racing%20Thunder%20Road&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:45 AM | 12-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-weekly-racing-thunder-road-ppv-004/1"
             }
         ]
     },
