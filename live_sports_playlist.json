@@ -35,20 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Angels.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Angels.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -109,14 +95,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - KNTV",
+                "Language": "English - NBC Sports BA",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-san-francisco-giants/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - KNTV",
+                "Language": "English - NBC Sports BA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-san-francisco-giants/2"
             },
@@ -777,28 +763,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Floyd Mayweather Jr vs Mike Zambidis",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Floyd%20Mayweather%20Jr%20vs%20Mike%20Zambidis&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 13-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_floyd-mayweather-jr-vs-mike-zambidis-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Minnesota Twins",
@@ -811,6 +775,20 @@
         "Start Time": "12:10 AM | 14-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Twins.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-minnesota-twins/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Twins.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-minnesota-twins/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -941,6 +919,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sportsnet",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-toronto-blue-jays/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sportsnet",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-toronto-blue-jays/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -962,6 +954,20 @@
         "Start Time": "02:05 AM | 14-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MASN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-baltimore-orioles/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MASN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-baltimore-orioles/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -985,6 +991,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - MLB.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-pittsburgh-pirates/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - MLB.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-pittsburgh-pirates/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1006,6 +1026,20 @@
         "Start Time": "02:05 AM | 14-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Nationals.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-washington-nationals/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Nationals.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-washington-nationals/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1029,6 +1063,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CLEGuardians.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-cleveland-guardians/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CLEGuardians.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-cleveland-guardians/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1050,6 +1098,20 @@
         "Start Time": "02:10 AM | 14-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NESN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-boston-red-sox/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NESN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-boston-red-sox/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1073,6 +1135,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CHSN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-chicago-white-sox/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CHSN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-chicago-white-sox/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1095,6 +1171,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DBACKS.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-cincinnati-reds/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DBACKS.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-cincinnati-reds/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1116,6 +1206,20 @@
         "Start Time": "02:10 AM | 14-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - SNY",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-mets/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - SNY",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-mets/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1222,13 +1326,6 @@
                 "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-connecticut-sun/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23123/1"
             }
         ]
     },
@@ -1275,6 +1372,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Royals.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-kansas-city-royals/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Royals.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-kansas-city-royals/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1296,6 +1407,20 @@
         "Start Time": "05:10 AM | 14-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Brewers.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-milwaukee-brewers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Brewers.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-milwaukee-brewers/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1413,6 +1538,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ABC",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-knicks-vs-san-antonio-spurs/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ABC",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-knicks-vs-san-antonio-spurs/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1511,20 +1650,6 @@
                 "Language": "Spanish - Telemundo",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-haiti-vs-scotland/6"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23096/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23096/2"
             }
         ]
     },
