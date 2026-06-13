@@ -222,27 +222,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-minnesota-twins/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-cardinals-live-streaming-1327902768/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-cardinals-live-streaming-1327902768/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/minnesota-twins-vs-stlouis-cardinals-baseball-179061/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -354,20 +333,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23094/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23094/2"
             }
         ]
     },
@@ -957,6 +922,28 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Oshae Jones",
+        "Team 2 Name": "Elia Carranza 2",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Oshae Jones - Elia Carranza 2",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oshae%20Jones%20-%20Elia%20Carranza%202&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23173/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1149,6 +1136,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-morocco/6"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_brazil-morocco-live-streaming-1243363392/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_brazil-morocco-live-streaming-1243363392/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -1225,6 +1226,13 @@
                 "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-connecticut-sun/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_connecticut-fever-live-streaming-1210957830/1"
             },
             {
                 "Source": "golf",
