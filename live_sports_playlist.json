@@ -382,6 +382,198 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Alabama Crimson Tide vs Oklahoma Sooners",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Alabama%20Crimson%20Tide%20vs%20Oklahoma%20Sooners&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_alabama-crimson-tide-oklahoma-sooners-live-streaming-1345236417/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_alabama-crimson-tide-oklahoma-sooners-live-streaming-1345236417/2"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "DC Defenders",
+        "Team 2 Name": "Louisville Kings",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "DC Defenders vs. Louisville Kings",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGONLZJEEaRCIAxvKog1EBSBIgaWESA1kyGtaomKQys8CopysgULkFs9MIWBJciu0LDdOWWEpOxd4cn9gWWMgA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ABC",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-dc-defenders-vs-louisville-kings/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ABC",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-dc-defenders-vs-louisville-kings/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ufl-knockout-stage_louisville-kings-dc-defenders-live-streaming-1344827826/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ufl-knockout-stage_louisville-kings-dc-defenders-live-streaming-1344827826/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Qatar",
+        "Team 2 Name": "Switzerland",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiwIQtFNnUhuIACYgIuEHxAwQFgxeWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksIYg+YFGF4kQ3Nbv2IAJiB0gQMcwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Qatar vs Switzerland",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCTAZKEBvwhuIPsZAkQMMyGuIcEpkgp9hs+ijAqNbD+XpZZ+szAYB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:00 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ITV1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ITV1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - FOX",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - FOX",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Spanish - Telemundo",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Spanish - Telemundo",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/6"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_qatar-switzerland-live-streaming-1243362393/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_qatar-switzerland-live-streaming-1243362393/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_qatar-switzerland-live-streaming-1243362393/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23094/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23094/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -515,198 +707,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Alabama Crimson Tide vs Oklahoma Sooners",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Alabama%20Crimson%20Tide%20vs%20Oklahoma%20Sooners&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_alabama-crimson-tide-oklahoma-sooners-live-streaming-1345236417/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_alabama-crimson-tide-oklahoma-sooners-live-streaming-1345236417/2"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "DC Defenders",
-        "Team 2 Name": "Louisville Kings",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "DC Defenders vs. Louisville Kings",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGONLZJEEaRCIAxvKog1EBSBIgaWESA1kyGtaomKQys8CopysgULkFs9MIWBJciu0LDdOWWEpOxd4cn9gWWMgA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ABC",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-dc-defenders-vs-louisville-kings/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ABC",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-dc-defenders-vs-louisville-kings/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ufl-knockout-stage_louisville-kings-dc-defenders-live-streaming-1344827826/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ufl-knockout-stage_louisville-kings-dc-defenders-live-streaming-1344827826/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Qatar",
-        "Team 2 Name": "Switzerland",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiwIQtFNnUhuIACYgIuEHxAwQFgxeWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksIYg+YFGF4kQ3Nbv2IAJiB0gQMcwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Qatar vs Switzerland",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCTAZKEBvwhuIPsZAkQMMyGuIcEpkgp9hs+ijAqNbD+XpZZ+szAYB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ITV1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ITV1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/6"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_qatar-switzerland-live-streaming-1243362393/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_qatar-switzerland-live-streaming-1243362393/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_qatar-switzerland-live-streaming-1243362393/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23094/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23094/2"
             }
         ]
     },
