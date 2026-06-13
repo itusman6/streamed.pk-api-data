@@ -35,20 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Marlins.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-pittsburgh-pirates/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Marlins.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-pittsburgh-pirates/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -70,20 +56,6 @@
         "Start Time": "04:45 AM | 13-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Nationals.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-washington-nationals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Nationals.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-washington-nationals/2"
-            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
@@ -180,28 +152,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "North Carolina Tar Heels vs Ole Miss Rebels",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Carolina%20Tar%20Heels%20vs%20Ole%20Miss%20Rebels&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 13-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_north-carolina-tar-heels-ole-miss-rebels-live-streaming-1345228425/1"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -278,13 +228,6 @@
                 "Language": "English - MASN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-baltimore-orioles/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/baltimore-orioles-vs-san-diego-padres-baseball-179054/1"
             },
             {
                 "Source": "golf",
@@ -482,35 +425,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "World of Outlaws Late Models",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20of%20Outlaws%20Late%20Models&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:15 AM | 13-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-06-world-of-outlaws-late-models-ppv-06/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-06-world-of-outlaws-late-models-ppv-06/2"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Washington Mystics",
@@ -536,13 +450,35 @@
                 "Language": "English - ION",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-washington-mystics/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NAPA OH Speedweek Attica",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NAPA%20OH%20Speedweek%20Attica&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 AM | 13-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-08-napa-oh-speedweek-attica-ppv-08/1"
             },
             {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23097/1"
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-08-napa-oh-speedweek-attica-ppv-08/2"
             }
         ]
     },
@@ -600,35 +536,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/fifa-world-cup-opening-ceremony-usa-game-251515/6"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NAPA OH Speedweek Attica",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NAPA%20OH%20Speedweek%20Attica&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 13-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-08-napa-oh-speedweek-attica-ppv-08/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-08-napa-oh-speedweek-attica-ppv-08/2"
             }
         ]
     },
@@ -843,35 +750,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/wwe-friday-night-smackdown-game-11114/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "World of Outlaws Sprint Cars Knoxville",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20of%20Outlaws%20Sprint%20Cars%20Knoxville&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 13-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-09-world-of-outlaws-sprint-cars-knoxville-ppv-09/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-09-world-of-outlaws-sprint-cars-knoxville-ppv-09/2"
             }
         ]
     },
