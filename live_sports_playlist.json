@@ -621,6 +621,28 @@
     {
         "Category": "Fight",
         "League": "Fight",
+        "Team 1 Name": "Freddy Kiwitt",
+        "Team 2 Name": "Henry Kigongo Kasujja",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Freddy Kiwitt - Henry Kigongo Kasujja",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Freddy%20Kiwitt%20-%20Henry%20Kigongo%20Kasujja&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:00 PM | 13-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23177/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
@@ -666,6 +688,13 @@
                 "Language": "English - DAZN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tommy-fury-vs-eddie-hall/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23176/1"
             }
         ]
     },
@@ -1316,8 +1345,8 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
+        "Team 1 Name": "Oshae Jones",
+        "Team 2 Name": "Elia Carranza 2",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "Oshae Jones vs Elia Carranza",
@@ -1332,6 +1361,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_oshae-jones-vs-elia-carranza-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23173/1"
             }
         ]
     },
@@ -1433,6 +1469,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23140/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Khamzat Chimaev",
+        "Team 2 Name": "Dillon Danis",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Khamzat Chimaev - Dillon Danis",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Khamzat%20Chimaev%20-%20Dillon%20Danis&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23174/1"
             }
         ]
     },
