@@ -207,27 +207,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-cincinnati-reds/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-diamondbacks-live-streaming-1328060610/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-diamondbacks-live-streaming-1328060610/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/cincinnati-reds-vs-arizona-diamondbacks-baseball-179081/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -406,13 +385,6 @@
                 "Language": "English - NBA TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-new-york-liberty/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23152/1"
             }
         ]
     },
@@ -442,13 +414,6 @@
                 "Language": "English - TSN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-toronto-tempo/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23153/1"
             }
         ]
     },
@@ -563,6 +528,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23167/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PPV EVENT 03: Haddir v Diarra",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PPV%20EVENT%2003%3A%20Haddir%20v%20Diarra&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:22 AM | 15-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-03-haddir-v-diarra-ev-03/1"
             }
         ]
     },
@@ -774,6 +761,28 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Vancouver FC",
+        "Team 2 Name": "Pacific",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJ6wQAEzDrQIbiD76QMXSEQ4DemAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMNzBJQFJCG4gSIY4kRGDOEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Vancouver FC vs Pacific",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vancouver%20FC%20vs%20Pacific&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 15-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/vancouver-fc-vs-pacific-fc-football-1517300/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -907,28 +916,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Vancouver FC",
-        "Team 2 Name": "Pacific",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJ6wQAEzDrQIbiD76QMXSEQ4DemAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMNzBJQFJCG4gSIY4kRGDOEwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Vancouver FC vs Pacific",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vancouver%20FC%20vs%20Pacific&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 15-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/vancouver-fc-vs-pacific-fc-football-1517300/1"
             }
         ]
     },
