@@ -1,21 +1,5 @@
 [
     {
-        "Category": "BOXING",
-        "League": "BOXING",
-        "Team 1 Name": "Tarik Haddir",
-        "Team 2 Name": "Adama Diarra",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Tarik Haddir VS Adama Diarra",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tarik%20Haddir%20VS%20Adama%20Diarra&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "07:00 PM 14-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===gMxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
         "Category": "MLB",
         "League": "MLB",
         "Team 1 Name": "Pittsburgh Pirates",
@@ -29,23 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
             "https://data-2.vercel.app/?id===QMyYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "FIFA WORLD CUP",
-        "League": "FIFA WORLD CUP",
-        "Team 1 Name": "Germany",
-        "Team 2 Name": "Curaçao",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Germany VS Curaçao",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Germany%20VS%20Cura%C3%A7ao&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "11:00 PM 14-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
-            "https://data-2.vercel.app/?id=0gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
@@ -153,7 +120,7 @@
         "Team 2 Logo": "",
         "Match Title": "Kansas City Royals VS Houston Astros",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Kansas%20City%20Royals%20VS%20Houston%20Astros&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "12:10 AM 15-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -169,7 +136,7 @@
         "Team 2 Logo": "",
         "Match Title": "Chicago White Sox VS Los Angeles Dodgers",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Chicago%20White%20Sox%20VS%20Los%20Angeles%20Dodgers&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "12:10 AM 15-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -185,7 +152,7 @@
         "Team 2 Logo": "",
         "Match Title": "Milwaukee Brewers VS Philadelphia Phillies",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Milwaukee%20Brewers%20VS%20Philadelphia%20Phillies&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "12:10 AM 15-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -201,7 +168,7 @@
         "Team 2 Logo": "",
         "Match Title": "Minnesota Twins VS St. Louis Cardinals",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Minnesota%20Twins%20VS%20St.%20Louis%20Cardinals&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "12:10 AM 15-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -217,7 +184,7 @@
         "Team 2 Logo": "",
         "Match Title": "New York Liberty VS Washington Mystics",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=New%20York%20Liberty%20VS%20Washington%20Mystics&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "01:00 AM 15-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -233,7 +200,7 @@
         "Team 2 Logo": "",
         "Match Title": "Toronto Tempo VS Atlanta Dream",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Toronto%20Tempo%20VS%20Atlanta%20Dream&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "01:00 AM 15-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -249,7 +216,7 @@
         "Team 2 Logo": "",
         "Match Title": "Athletics VS Colorado Rockies",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Athletics%20VS%20Colorado%20Rockies&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "01:05 AM 15-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -265,7 +232,7 @@
         "Team 2 Logo": "",
         "Match Title": "San Francisco Giants VS Chicago Cubs",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=San%20Francisco%20Giants%20VS%20Chicago%20Cubs&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "01:10 AM 15-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
