@@ -2,28 +2,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "Pittsburgh Pirates",
-        "Team 2 Name": "Miami Marlins",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Pittsburgh Pirates vs Miami Marlins",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmBAoQolLBDcQfECZi4tFqUa0FgSCn2Gz6elSi5gy8IllnumGp5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:15 PM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23155/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "Washington Nationals",
         "Team 2 Name": "Seattle Mariners",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
@@ -121,13 +99,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-toronto-blue-jays/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/toronto-blue-jays-vs-new-york-yankees-baseball-179073/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -198,13 +169,6 @@
                 "Language": "English - CLEGuardians.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-cleveland-guardians/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/cleveland-guardians-vs-detroit-tigers-baseball-179080/1"
             },
             {
                 "Source": "golf",
@@ -334,13 +298,6 @@
                 "Language": "English - Twins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-minnesota-twins/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/minnesota-twins-vs-stlouis-cardinals-baseball-179076/1"
             },
             {
                 "Source": "golf",
@@ -542,35 +499,6 @@
                 "Language": "English - LALIGA 2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-m-laga-vs-almer-a/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Malaga",
-        "Team 2 Name": "Almeria",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRNnrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCoh49cg0XNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Malaga vs Almeria",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Malaga%20vs%20Almeria&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 15-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/malaga-vs-almeria-football-1551271/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/malaga-vs-almeria-football-1551271/2"
             }
         ]
     },
@@ -899,6 +827,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23168/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Jonathan Gonzalez",
+        "Team 2 Name": "Abraham Perez",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Jonathan Gonzalez - Abraham Perez",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Jonathan%20Gonzalez%20-%20Abraham%20Perez&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 15-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23200/1"
             }
         ]
     },
