@@ -79,10 +79,10 @@
         "Team 2 Name": "Eddie Hall",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Fury v Hall",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fury%20v%20Hall&font=Oswald",
+        "Match Title": "Tommy Fury - Eddie Hall",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Tommy%20Fury%20-%20Eddie%20Hall&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 14-Jun",
+        "Start Time": "04:30 AM | 14-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
@@ -1134,6 +1134,20 @@
                 "Language": "English - Angels.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-rays-live-streaming-1327916754/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-rays-live-streaming-1327916754/2"
             },
             {
                 "Source": "golf",
