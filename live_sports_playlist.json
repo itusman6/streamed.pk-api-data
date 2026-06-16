@@ -180,6 +180,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "World Weightlifting Championships 🏋",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20Weightlifting%20Championships%20%F0%9F%8F%8B&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "10:00 PM | 16-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/world-weightlifting-championships-game-1037674/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/world-weightlifting-championships-game-1037674/2"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "France",
