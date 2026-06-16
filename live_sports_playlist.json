@@ -29,28 +29,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Troy Trojans vs West Virginia Mountaineers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Troy%20Trojans%20vs%20West%20Virginia%20Mountaineers&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 17-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_troy-trojans-west-virginia-mountaineers-live-streaming-1350234414/1"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Iraq",
@@ -646,6 +624,20 @@
                 "Language": "English - Reds.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-mets-vs-cincinnati-reds/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-mets-live-streaming-1328200470/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_reds-mets-live-streaming-1328200470/2"
             },
             {
                 "Source": "echo",
