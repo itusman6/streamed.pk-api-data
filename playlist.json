@@ -1,22 +1,5 @@
 [
     {
-        "Category": "FIFA WORLD CUP",
-        "League": "FIFA WORLD CUP",
-        "Team 1 Name": "Czechia",
-        "Team 2 Name": "South Africa",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Czechia VS South Africa",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Czechia%20VS%20South%20Africa&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "10:00 PM 18-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
-            "https://data-2.vercel.app/?id=0gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
         "Category": "MLB",
         "League": "MLB",
         "Team 1 Name": "Boston Red Sox",
@@ -25,7 +8,7 @@
         "Team 2 Logo": "",
         "Match Title": "Boston Red Sox VS Toronto Blue Jays",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Boston%20Red%20Sox%20VS%20Toronto%20Blue%20Jays&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "11:35 PM 18-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -41,7 +24,7 @@
         "Team 2 Logo": "",
         "Match Title": "Milwaukee Brewers VS Cleveland Guardians",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Milwaukee%20Brewers%20VS%20Cleveland%20Guardians&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "12:10 AM 19-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -57,7 +40,7 @@
         "Team 2 Logo": "",
         "Match Title": "Texas Rangers VS Minnesota Twins",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Texas%20Rangers%20VS%20Minnesota%20Twins&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "12:35 AM 19-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -73,7 +56,7 @@
         "Team 2 Logo": "",
         "Match Title": "Switzerland VS Bosnia-Herzegovina",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Switzerland%20VS%20Bosnia-Herzegovina&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "01:00 AM 19-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -228,6 +211,40 @@
         ]
     },
     {
+        "Category": "FIFA WORLD CUP",
+        "League": "FIFA WORLD CUP",
+        "Team 1 Name": "United States",
+        "Team 2 Name": "Australia",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "United States VS Australia",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=United%20States%20VS%20Australia&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "01:00 AM 20-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id=0gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "FIFA WORLD CUP",
+        "League": "FIFA WORLD CUP",
+        "Team 1 Name": "Scotland",
+        "Team 2 Name": "Morocco",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Scotland VS Morocco",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Scotland%20VS%20Morocco&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "04:00 AM 20-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id=0gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
         "Category": "MLB",
         "League": "MLB",
         "Team 1 Name": "Detroit Tigers",
@@ -356,6 +373,23 @@
         ]
     },
     {
+        "Category": "FIFA WORLD CUP",
+        "League": "FIFA WORLD CUP",
+        "Team 1 Name": "Brazil",
+        "Team 2 Name": "Haiti",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Brazil VS Haiti",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Brazil%20VS%20Haiti&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "06:30 AM 20-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id=0gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
         "Category": "MLB",
         "League": "MLB",
         "Team 1 Name": "Colorado Rockies",
@@ -433,6 +467,91 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
             "https://data-2.vercel.app/?id===ANyYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "FIFA WORLD CUP",
+        "League": "FIFA WORLD CUP",
+        "Team 1 Name": "Türkiye",
+        "Team 2 Name": "Paraguay",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Türkiye VS Paraguay",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=T%C3%BCrkiye%20VS%20Paraguay&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "09:00 AM 20-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id=1gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "FIFA WORLD CUP",
+        "League": "FIFA WORLD CUP",
+        "Team 1 Name": "Netherlands",
+        "Team 2 Name": "Sweden",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Netherlands VS Sweden",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%20VS%20Sweden&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "11:00 PM 20-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id=0gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "FIFA WORLD CUP",
+        "League": "FIFA WORLD CUP",
+        "Team 1 Name": "Germany",
+        "Team 2 Name": "Ivory Coast",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Germany VS Ivory Coast",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Germany%20VS%20Ivory%20Coast&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "02:00 AM 21-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id=0gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "FIFA WORLD CUP",
+        "League": "FIFA WORLD CUP",
+        "Team 1 Name": "Ecuador",
+        "Team 2 Name": "Curaçao",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Ecuador VS Curaçao",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ecuador%20VS%20Cura%C3%A7ao&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "06:00 AM 21-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id=1gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "FIFA WORLD CUP",
+        "League": "FIFA WORLD CUP",
+        "Team 1 Name": "Tunisia",
+        "Team 2 Name": "Japan",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Tunisia VS Japan",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tunisia%20VS%20Japan&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "10:00 AM 21-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id=1gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     }
 ]
