@@ -24,7 +24,7 @@
         "Team 2 Logo": "",
         "Match Title": "United States VS Australia",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=United%20States%20VS%20Australia&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "01:00 AM 20-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -130,6 +130,22 @@
         ]
     },
     {
+        "Category": "BOXING",
+        "League": "BOXING",
+        "Team 1 Name": "Ashton Sylve",
+        "Team 2 Name": "Jojo Diaz",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Ashton Sylve VS Jojo Diaz",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ashton%20Sylve%20VS%20Jojo%20Diaz&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "06:00 AM 20-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===QMxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
         "Category": "MLB",
         "League": "MLB",
         "Team 1 Name": "Texas Rangers",
@@ -208,6 +224,22 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
             "https://data-2.vercel.app/?id===AOwYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "MMA/PFL/BKFC",
+        "League": "MMA/PFL/BKFC",
+        "Team 1 Name": "BKFC Fight Night Soto",
+        "Team 2 Name": "Deleon",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "BKFC Fight Night Soto VS Deleon",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=BKFC%20Fight%20Night%20Soto%20VS%20Deleon&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "07:00 AM 20-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===gMxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
