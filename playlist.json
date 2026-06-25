@@ -2,38 +2,6 @@
     {
         "Category": "MLB",
         "League": "MLB",
-        "Team 1 Name": "Chicago White Sox",
-        "Team 2 Name": "Cleveland Guardians",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Chicago White Sox VS Cleveland Guardians",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Chicago%20White%20Sox%20VS%20Cleveland%20Guardians&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "12:10 AM 25-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===QNwYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "MLB",
-        "League": "MLB",
-        "Team 1 Name": "Colorado Rockies",
-        "Team 2 Name": "Boston Red Sox",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Colorado Rockies VS Boston Red Sox",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Colorado%20Rockies%20VS%20Boston%20Red%20Sox&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "01:10 AM 25-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===AOwYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "MLB",
-        "League": "MLB",
         "Team 1 Name": "Los Angeles Angels",
         "Team 2 Name": "Baltimore Orioles",
         "Team 1 Logo": "",
@@ -45,40 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
             "https://data-2.vercel.app/?id===gMxYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "FIFA WORLD CUP",
-        "League": "FIFA WORLD CUP",
-        "Team 1 Name": "Morocco",
-        "Team 2 Name": "Haiti",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Morocco VS Haiti",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Morocco%20VS%20Haiti&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "04:00 AM 25-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id=ycTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
-            "https://data-2.vercel.app/?id=1gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "FIFA WORLD CUP",
-        "League": "FIFA WORLD CUP",
-        "Team 1 Name": "Scotland",
-        "Team 2 Name": "Brazil",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Scotland VS Brazil",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Scotland%20VS%20Brazil&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "04:00 AM 25-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id=xcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
-            "https://data-2.vercel.app/?id=0gTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
@@ -154,7 +88,7 @@
         "Team 2 Logo": "",
         "Match Title": "Toronto Blue Jays VS Houston Astros",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Toronto%20Blue%20Jays%20VS%20Houston%20Astros&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "05:07 AM 25-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -170,7 +104,7 @@
         "Team 2 Logo": "",
         "Match Title": "New York Mets VS Chicago Cubs",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=New%20York%20Mets%20VS%20Chicago%20Cubs&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "05:10 AM 25-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -186,7 +120,7 @@
         "Team 2 Logo": "",
         "Match Title": "Cincinnati Reds VS Milwaukee Brewers",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Cincinnati%20Reds%20VS%20Milwaukee%20Brewers&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "05:10 AM 25-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -202,7 +136,7 @@
         "Team 2 Logo": "",
         "Match Title": "Minnesota Twins VS Los Angeles Dodgers",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Minnesota%20Twins%20VS%20Los%20Angeles%20Dodgers&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "05:40 AM 25-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -218,7 +152,7 @@
         "Team 2 Logo": "",
         "Match Title": "St. Louis Cardinals VS Arizona Diamondbacks",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=St.%20Louis%20Cardinals%20VS%20Arizona%20Diamondbacks&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "05:45 AM 25-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
